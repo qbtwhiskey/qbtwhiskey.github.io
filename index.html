@@ -1,0 +1,252 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta
+      name="description"
+      content="The Bourbon Table is a Central Illinois whiskey review archive built from hundreds of honest tasting notes shared by friends."
+    >
+    <title>The Bourbon Table | Honest Whiskey Reviews</title>
+    <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="data/reviews.js"></script>
+    <script defer src="app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#archive">Skip to reviews</a>
+
+    <header class="site-header" data-header>
+      <a class="brand" href="#top" aria-label="The Bourbon Table home">
+        <span class="brand-mark">TBT</span>
+        <span class="brand-copy">
+          <span>The Bourbon Table</span>
+          <small>Central Illinois</small>
+        </span>
+      </a>
+      <nav class="site-nav" aria-label="Primary navigation">
+        <a href="#archive">Reviews</a>
+        <a href="#explore">Explore</a>
+        <a href="#table">The Table</a>
+        <a href="#method">Method</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-media" aria-hidden="true"></div>
+        <div class="hero-shade" aria-hidden="true"></div>
+        <div class="hero-content">
+          <p class="eyebrow">A few friends. One table. Hundreds of pours.</p>
+          <h1 id="hero-title">The Bourbon Table</h1>
+          <p class="hero-copy">
+            Pull up a chair with us and experience each whiskey pour through our honest,
+            unfiltered, and occasionally over-served reviews.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button button-primary" href="#archive">Browse Reviews</a>
+            <a class="button button-secondary" href="#table">Meet the Table</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="stats-band" aria-label="Review archive summary">
+        <div class="stat">
+          <strong data-stat="totalIndexed">282</strong>
+          <span>indexed reviews</span>
+        </div>
+        <div class="stat">
+          <strong data-stat="sampleTranscribed">5</strong>
+          <span>standardized samples</span>
+        </div>
+        <div class="stat">
+          <strong data-stat="firstYear">2022</strong>
+          <span>first tasting year</span>
+        </div>
+        <div class="stat">
+          <strong data-stat="latestYear">2026</strong>
+          <span>latest tasting year</span>
+        </div>
+      </section>
+
+      <section class="section intro" aria-labelledby="intro-title">
+        <div class="intro-title-block">
+          <div class="section-kicker">Open Chair Policy</div>
+          <h2 id="intro-title">Refined enough for a leather chair. Relaxed enough for anyone to sit down.</h2>
+        </div>
+        <p>
+          The Bourbon Table began after work, with a few glasses and a couple of bottles someone
+          thought the rest of us needed to try. A quick tasting became a rotation, the rotation became
+          a handwritten binder, and that binder started moving from house to house. Sometimes it
+          lived at the cigar club, where others could flip through the pages, laugh at the notes, and
+          follow along with the pours we had already argued over.
+        </p>
+      </section>
+
+      <section class="section archive-section" id="archive" aria-labelledby="archive-title">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">Review Archive</div>
+            <h2 id="archive-title">Find a pour from the handwritten archive</h2>
+          </div>
+          <p>
+            Search by bottle, style, tasting note, year, or reviewer. Sample-transcribed reviews are
+            cleaned up for digital reading; pending reviews have been tasted and are waiting on note
+            standardization.
+          </p>
+        </div>
+
+        <div class="archive-tools" aria-label="Review filters">
+          <label class="search-field">
+            <span>Search reviews</span>
+            <input id="review-search" type="search" placeholder="Try Wild Turkey, rye, BiB, caramel..." autocomplete="off">
+          </label>
+
+          <label>
+            <span>Style</span>
+            <select id="category-filter">
+              <option value="all">All styles</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Status</span>
+            <select id="status-filter">
+              <option value="all">All reviews</option>
+              <option value="sample_transcribed">Notes published</option>
+              <option value="queued_for_transcription">Reviewed, notes pending</option>
+            </select>
+          </label>
+
+          <label>
+            <span>Sort</span>
+            <select id="sort-filter">
+              <option value="ready">Ready notes first</option>
+              <option value="recent">Newest first</option>
+              <option value="oldest">Oldest first</option>
+              <option value="az">Bottle A-Z</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="quick-filters" id="quick-filters" aria-label="Quick style filters"></div>
+
+        <div class="archive-meta">
+          <span id="results-count">Loading reviews...</span>
+          <button class="text-button" type="button" id="clear-filters">Clear filters</button>
+        </div>
+
+        <div class="review-grid" id="review-grid" aria-live="polite"></div>
+        <div class="load-row">
+          <button class="button button-secondary" type="button" id="load-more">Show More Reviews</button>
+        </div>
+      </section>
+
+      <section class="section explore-section" id="explore" aria-labelledby="explore-title">
+        <div class="section-heading">
+          <div>
+            <div class="section-kicker">Explore Similar Pours</div>
+            <h2 id="explore-title">Drill into the shelf by style and mood</h2>
+          </div>
+          <p>
+            The archive can surface related bottles by shared traits: rye spice, barrel proof heat,
+            bonded structure, finished whiskey, store picks, allocated pours, or everyday value.
+          </p>
+        </div>
+
+        <div class="explore-grid" id="explore-grid">
+          <button class="explore-tile" type="button" data-explore="Bourbon">
+            <span>Bourbon</span>
+            <small>Classic corn sweetness, oak, vanilla, caramel, and table staples.</small>
+          </button>
+          <button class="explore-tile" type="button" data-explore="Rye">
+            <span>Rye</span>
+            <small>Spice, herbs, mint, citrus, and the pours that keep everyone honest.</small>
+          </button>
+          <button class="explore-tile" type="button" data-explore="Bottled in bond">
+            <span>Bottled in Bond</span>
+            <small>100 proof structure with a built-in promise of production standards.</small>
+          </button>
+          <button class="explore-tile" type="button" data-explore="Barrel proof">
+            <span>Barrel Proof</span>
+            <small>Higher proof bottles where heat, depth, and patience matter.</small>
+          </button>
+          <button class="explore-tile" type="button" data-explore="Store pick">
+            <span>Store Picks</span>
+            <small>Single barrel selections and private picks with personality.</small>
+          </button>
+          <button class="explore-tile" type="button" data-explore="Finished">
+            <span>Finished Whiskey</span>
+            <small>Secondary barrels, wine influence, rum sweetness, and oddball turns.</small>
+          </button>
+        </div>
+      </section>
+
+      <section class="story-band" id="table" aria-labelledby="table-title">
+        <div class="story-panel">
+          <div class="section-kicker">The Table</div>
+          <h2 id="table-title">A Central Illinois rotation with room for every kind of whiskey drinker.</h2>
+          <p>
+            We come from different working lives: IT, business ownership, financial investment,
+            industry, and police work. Whether you work behind a desk, own the business, run the
+            numbers, walk the beat, work with your hands, or just enjoy a good pour, there is a chair
+            for you here.
+          </p>
+          <p>
+            Some nights are blind tastings. Some are all bourbon, all rye, a mixed lineup, or a scotch
+            that slipped into the room. The host sets the format, the table brings opinions, and the
+            handwritten pages tell the story after the pour is gone.
+          </p>
+        </div>
+      </section>
+
+      <section class="section method-section" id="method" aria-labelledby="method-title">
+        <div class="method-copy">
+          <div class="section-kicker">How We Review</div>
+          <h2 id="method-title">Built from paper notes, cleaned up for digital reading.</h2>
+          <p>
+            The original reviews lived on paper in a handwritten binder that passed between houses
+            and occasionally sat at the cigar club for others to read. For the public site, the
+            experience is intentionally our own: searchable bottle records, standardized tasting
+            language, clear review status, and a path to compare similar whiskeys without needing to
+            know the jargon first.
+          </p>
+        </div>
+        <div class="method-list" aria-label="Review method">
+          <div>
+            <strong>Look</strong>
+            <span>Color, proof, date, price, and bottle context where available.</span>
+          </div>
+          <div>
+            <strong>Nose</strong>
+            <span>First impressions and shared descriptors from the table.</span>
+          </div>
+          <div>
+            <strong>Palate</strong>
+            <span>Sweetness, spice, oak, fruit, texture, proof, and balance.</span>
+          </div>
+          <div>
+            <strong>Finish</strong>
+            <span>Length, heat, aftertaste, and whether anyone reached back for more.</span>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        <strong>The Bourbon Table</strong>
+        <span>Honest whiskey reviews from Central Illinois.</span>
+      </div>
+      <p>
+        For adults 21+. Drink responsibly. Public branding and layout are original to The Bourbon
+        Table; source review sheets remain private handwritten archive material.
+      </p>
+    </footer>
+
+    <dialog class="review-dialog" id="review-dialog" aria-labelledby="dialog-title">
+      <button class="dialog-close" type="button" id="dialog-close" aria-label="Close review">Close</button>
+      <div class="dialog-content" id="dialog-content"></div>
+    </dialog>
+  </body>
+</html>
