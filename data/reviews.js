@@ -3138,23 +3138,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Four Roses Small Batch Select bourbon with caramel, vanilla, charcoal, peanut, boiled peanut shell, light oak, aged leather, floral sweetness, spice, and a short pleasant finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "104",
+    "price": "$55-$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Medium amber color, with caramel, vanilla, charcoal and peanut, boiled peanut shell, and light oak.",
+      "palate": "Aged leather, floral sweetness, nice spices, and sweetness of some kind of fruit.",
+      "finish": "Nice lingering mouthfeel that sticks and coats the tongue like Schezwan oils. Short but pleasant.",
+      "table": "On this tasting, The Table was not sure it stood that far out from the less expensive Four Roses Small Batch offering."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses SB Select Feb24.pdf"
+    "localSourceFile": "Four Roses SB Select Feb24.pdf",
+    "tastingDate": "2024-02-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-single-barrel-july23",
@@ -3168,23 +3174,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Four Roses Single Barrel bourbon with a sweet caramel nose, Wild Turkey-like profile, light oak, pepper spice, creamy sweetness, and a short honey-drying finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$48.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet nose heavy in caramel, reminiscent of a Wild Turkey, with light oak presence and overall a great nose.",
+      "palate": "Light mouthfeel, with nice pepper spice up front changing into a creamy sweet sip.",
+      "finish": "Short finish with slight spice that dries to honey.",
+      "table": "A straightforward Four Roses Single Barrel read: sweet caramel, light oak, pepper up front, and a honey-drying close."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses Single Barrel July23.pdf"
+    "localSourceFile": "Four Roses Single Barrel July23.pdf",
+    "tastingDate": "2023-07-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "frey-ranch-june25",
@@ -3197,23 +3209,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Frey Ranch bourbon with dusty grain, traditional nose, caramel apple, vanilla, green apple, smoked grain, barrel char, sharpness, astringency, rye spice, and a very short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat",
+      "Andrew"
+    ],
+    "proof": "90",
+    "price": "$45-$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dark gold color, with dusty grain, traditional nose, caramel apple, and vanilla.",
+      "palate": "Caramel, green apple, smoked grain and barrel char, slight sharpness, astringency, and rye spice on the tongue.",
+      "finish": "Very short and does not linger.",
+      "table": "A grain-forward bourbon read with green apple, smoked grain, barrel char, rye spice, and a quick exit."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Frey Ranch June25.pdf"
+    "localSourceFile": "Frey Ranch June25.pdf",
+    "tastingDate": "2025-06-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "george-dickel-15yr-sib-aug25",
@@ -3227,23 +3246,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A George Dickel 15 year Single Barrel Tennessee whiskey with Italian bread, cocoa powder, boiled peanut, cherry, cinnamon heat, light caramel, oak, and a short evaporating finish.",
+    "reviewers": [
+      "Benders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "85",
+    "price": "$55",
+    "classification": "Tennessee Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Italian bread, sweet cocoa powder, boiled peanut, cherry, and cinnamon heat.",
+      "palate": "Light, thin, underwhelming, and light caramel, drying to oak. The nose does not carry over.",
+      "finish": "Short, evaporates, with light lingering heat.",
+      "table": "Blind tasting. Ranked first of four on quick tasting, but finish was last on blind tasting. Ratings on sheet were nose 3, palate 2.5, finish 2."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "George Dickel 15yr SiB Aug25.pdf"
+    "localSourceFile": "George Dickel 15yr SiB Aug25.pdf",
+    "tastingDate": "2025-08-26",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "george-dickel-leopold-bros-collab-rye-feb24",
@@ -3256,23 +3282,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A George Dickel collaboration with Leopold Bros rye with dusty hay, orange zest, honeysuckle, cinnamon, bubblegum, pie note, faint sour/plastic, and a medium lingering finish.",
+    "reviewers": [
+      "Benders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "100",
+    "price": "$50",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dusty hay, orange zest, and honeysuckle.",
+      "palate": "Light mouthfeel, cinnamon, bubblegum, light effervescence, musty pie note, faint sour note, faint plastic, and drying to cinnamon honey.",
+      "finish": "Medium and lingering.",
+      "table": "Blind tasting. The Table liked it, but it was lost on the night by what followed. With the price drop from $120 to $50, the sheet marks it as a buy. Ranked number one of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "George Dickel Leopold Bros Collab Rye Feb24.pdf"
+    "localSourceFile": "George Dickel Leopold Bros Collab Rye Feb24.pdf",
+    "tastingDate": "2024-02-28",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "george-dickel-leopold-bros-collab-rye-may23",
@@ -3285,23 +3317,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A George Dickel and Leopold Bros rye collaboration with minerals, vitamins, oak sweetness, vanilla, caramel, cinnamon, grass, grain, wheat, baking spices, herbal tea, and a short spicy finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$99-$110",
+    "classification": "Blend of Straight Ryes",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Minerals, vitamins, hint of oak sweetness, vanilla, caramel, dough, and solid rye notes.",
+      "palate": "Unique rye taste, well blended and crafted to create a one-of-a-kind taste. Flavorful cinnamon, grass, grain, wheat, baking spices, and herbal tea, all well blended with a creamy mouthfeel.",
+      "finish": "Short finish with a nice heat and spice spike at the end that lingers.",
+      "table": "While expensive, it is generally available and offers a unique sipping experience. For a special release, The Table thought it was a value buy for how unique it is."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "George Dickel Leopold Bros Collab Rye May23.pdf"
+    "localSourceFile": "George Dickel Leopold Bros Collab Rye May23.pdf",
+    "tastingDate": "2023-05-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "george-t-stagg-23-jan24",
@@ -8882,7 +8920,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 88,
+  "sampleTranscribed": 94,
   "firstYear": 2022,
   "latestYear": 2026
 };
