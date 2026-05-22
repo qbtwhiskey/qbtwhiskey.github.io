@@ -2745,23 +2745,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Evan Williams Bottled-in-Bond bourbon with vanilla extract, sweet vanilla, light mouthfeel, effervescence, light char, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Fish"
+    ],
+    "proof": "100",
+    "price": "$17",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla extract, sweet vanilla, basic, and traditional.",
+      "palate": "Nothing to dislike and nothing especially interesting. Light mouthfeel, effervescent, light and enjoyable, somewhat viscous, not complex, with light char. One-note but fine.",
+      "finish": "Short.",
+      "table": "Proof and price guesses were 100-95 proof, 4 years, bottled in bond, and $35-$40. Typically considered a top budget buy for quality of juice to price, and versatile neat or in cocktails."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Evan Williams BiB Sept23.pdf"
+    "localSourceFile": "Evan Williams BiB Sept23.pdf",
+    "tastingDate": "2023-09-20",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "evan-williams-sib-8yr-apr25",
@@ -2775,23 +2781,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Evan Williams Single Barrel 8 year bourbon with Wheaties cereal, Bazooka gum, light spice, berry, peanuts, light corn sweetness, cream, and a short finish.",
+    "reviewers": [
+      "Benders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "86.6",
+    "price": "$38",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wheaties cereal, Bazooka gum, and a light nose, with some kind of spice and then a berry note that was difficult to suss out.",
+      "palate": "Light mouthfeel, peanuts, light corn sweetness, cream flavor, and a good intro pour for a newbie.",
+      "finish": "Short, about 1.5.",
+      "table": "First of five in a blind tasting with reveal as The Table went. Ranked number five, not complex, and noted as needing more proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Evan Williams SiB 8yr Apr25.pdf"
+    "localSourceFile": "Evan Williams SiB 8yr Apr25.pdf",
+    "tastingDate": "2025-04-17",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "ezra-brooks-99-june24",
@@ -2804,23 +2817,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Ezra Brooks 99 bourbon with banana, Banana Runts, walnut, pecan, Cracker Jack peanut, vanilla, caramel, banana chip, oak, spice, and lingering heat.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "99",
+    "price": "$25",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, Banana Runts, nuts, walnut, pecans, the peanut in Cracker Jack, vanilla, and caramel.",
+      "palate": "Delicious, with banana chip, peanut, spice, drying wood and oak, walnuts, and standard caramel and vanilla.",
+      "finish": "Short with some lingering heat.",
+      "table": "Decent for $25, though The Table thought you can get better for similar dollars, such as Wild Turkey 101. Still decent for the money overall and not something they would turn their nose up at."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Ezra Brooks 99 June24.pdf"
+    "localSourceFile": "Ezra Brooks 99 June24.pdf",
+    "tastingDate": "2024-06-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "ezra-brooks-99-rye-june24",
@@ -2833,23 +2852,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Ezra Brooks 99 Rye with butterscotch, buttery rubber tire, grass, slight smoke, corn, cream, lemongrass, honey, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "99",
+    "price": "$18 on sale",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Butterscotch, buttery rubber tires, grassy notes, bitterness on the nose, slight smoke, and youthful, not-great notes.",
+      "palate": "Corn, creamy texture, lemongrass, buttery notes, and dries to honey.",
+      "finish": "Short.",
+      "table": "There are better ryes out there even on sale for $18. It would be okay in a cocktail, but had some off-putting flavors tasted neat. For most, this should be a pass unless it is for cocktails and bought on sale."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Ezra Brooks 99 Rye June24.pdf"
+    "localSourceFile": "Ezra Brooks 99 Rye June24.pdf",
+    "tastingDate": "2024-06-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "ezra-brooks-dist-collection-july24",
@@ -2862,23 +2887,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Ezra Brooks Distiller's Collection bourbon with banana, caramel, walnuts, bananas foster, honey, molasses, rye pop, and a punchy but short finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "113",
+    "price": "$45-$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, caramel, walnuts, and bananas foster.",
+      "palate": "Has some punch to it and tingles or prickles the tongue on the first sip. Honey and the same notes as the nose, drying to molasses with a little rye pop in the background.",
+      "finish": "Punchy but short.",
+      "table": "The extra proof makes it hard to decipher flavors, but the nose transfers to the palate, just blunted a bit by the alcohol. The high proof adds an extra dimension, but The Table thought you can get similar flavors from the cheaper Ezra Brooks 99."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Ezra Brooks Dist Collection July24.pdf"
+    "localSourceFile": "Ezra Brooks Dist Collection July24.pdf",
+    "tastingDate": "2024-07-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "ezra-brooks-sib-cask-str-oct25",
@@ -2892,23 +2923,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Ezra Brooks Cask Strength Single Barrel bourbon with Bazooka bubble gum, red tomato plant, ethanol, pumpernickel, dill, almond sweet paste, chocolate, marzipan, and green pepper spice.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Benders",
+      "Fisher"
+    ],
+    "proof": "120",
+    "price": "$35",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Bazooka bubble gum, red tomato plant, ethanol, pumpernickel, dill, and almond sweet paste.",
+      "palate": "Chocolate, marzipan, and hard to discern.",
+      "finish": "Easy and well crafted, drying to green pepper spice.",
+      "table": "Sparse sheet. Finish was marked as a 1, with the strongest notes landing around candy, savory rye-like herbs, chocolate, and green pepper spice."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Ezra Brooks SiB Cask Str Oct25.pdf"
+    "localSourceFile": "Ezra Brooks SiB Cask Str Oct25.pdf",
+    "tastingDate": "2025-10-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "fighting-cock-jun23",
@@ -8810,7 +8848,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 77,
+  "sampleTranscribed": 83,
   "firstYear": 2022,
   "latestYear": 2026
 };
