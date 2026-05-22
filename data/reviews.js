@@ -2959,23 +2959,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Fighting Cock bourbon with candy, nut shells, butterscotch, baking spice, ethanol, honey sweetness, light mouthfeel, tongue spice, and a short-to-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Benders",
+      "Ricky/Bobby",
+      "Collins"
+    ],
+    "proof": "103",
+    "price": "$20",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Candy, nut shells, butterscotch, baking spice, and ethanol.",
+      "palate": "Straw, honey sweet, light mouthfeel, and ethanol spice on the sides of the tongue after the swallow. One-note.",
+      "finish": "Short to medium.",
+      "table": "The sheet notes a low rank on quick tasting, while also marking it as number two of four on quick tasting. Guest names and ranking context should be confirmed."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Fighting Cock Jun23.pdf"
+    "localSourceFile": "Fighting Cock Jun23.pdf",
+    "tastingDate": "2023-06-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-10-recipe-sampler-pt1",
@@ -2988,23 +2996,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "The first half of a Four Roses 10 Recipe Sampler, with 104 proof dark-gold pours ranked by preference across OESQ, OBSV, OBSQ, OBSF, and OESV.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "104",
+    "price": null,
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "OESQ brought sweet cookies, doughy bakery bread, orange zest, and cinnamon stick. OBSV was fruity and slightly oaky, like charred creamed corn. OBSQ was floral like carnations and daffodils with seasoned wood. OBSF had butterscotch and an artificial sugar smell. OESV had a soft, slightly fruity and dusty nose.",
+      "palate": "OESQ was semi-sweet coffee cake with cinnamon glaze. OBSV was enjoyable spicy spice that warmed into baked goods with deep caramel coating. OBSQ was almost reminiscent of rye with clean, crisp mouthfeel leading to toffee. OBSF carried white pepper spice concentrated in the center of the tongue. OESV led with spice up front, then slight buttery sweetness with bubblegum and butterscotch hints.",
+      "finish": "OESQ was short and dried to cinnamon. OBSV was malty and lingering with nice movement. OBSQ dried to vanilla in the center of a pinwheel. OBSF slightly lingered and dried to bubblegum. OESV disappeared relatively quickly while ethanol lingered.",
+      "table": "Part one lists these recipes in ranked order of preference. OESQ and OBSV tied for first, OBSQ and OBSF tied for third, and OESV landed fifth. The sheet continues on part two."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses 10 Recipe Sampler PT1.pdf"
+    "localSourceFile": "Four Roses 10 Recipe Sampler PT1.pdf",
+    "tastingDate": null,
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-10-recipe-sampler-pt2",
@@ -3017,23 +3031,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "The second half of a Four Roses 10 Recipe Sampler, continuing the 104 proof dark-gold recipe ranking across OESK, OBSV, OESF, OBSO, and OESO.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "104",
+    "price": null,
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "OESK had caramel with spicy notes. OBSV showed light caramel with red-orange fruitiness like nectarine. OESF had black tea with grain behind it and light red fruit like strawberry. OBSO had bold caramel ice cream cone with floral notes. OESO had a dusty and floral pale ale nose.",
+      "palate": "OESK had a nice mouthfeel with slight oiliness leading to chocolate-covered cranberries. OBSV was grassier and grainier than the nose suggested, slightly edgy. OESF had overwhelming black pepper spice with faint rubber flavor. OBSO was light, creamy, complex, and mixed bubblegum with floral notes and slight bitterness. OESO was off-putting at first, changing to light fruitiness but not leaving much wanting more.",
+      "finish": "OESK was slightly drying and very short. OBSV was rough and edgy, drying to raspberry. OESF was spice only. OBSO was short and faded quickly, drying to bitterness. OESO was medium and drying to nothing.",
+      "table": "Part two continues from the previous page. A side note says Four Roses calls OBSV their flagship recipe. OESF, OBSO, and OESO tied for eighth, ninth, and tenth."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses 10 Recipe Sampler PT2.pdf"
+    "localSourceFile": "Four Roses 10 Recipe Sampler PT2.pdf",
+    "tastingDate": null,
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-2019-le-feb23",
@@ -3046,23 +3066,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Four Roses 2019 Limited Edition bourbon with maple syrup, baking spice, oak, ethanol spice, honey sweetness, and a short lingering finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Benders",
+      "Ricky Bobby"
+    ],
+    "proof": "112.6",
+    "price": "$235",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Maple syrup and baking spices. It jumps out, but not as much oak.",
+      "palate": "Oak and spicy ethanol, then dries to honey with sweetness through the mid-palate.",
+      "finish": "Short, but lingers.",
+      "table": "Bought at Yogi's allocation in December 2021. The sheet says it had been stored in cold, is now on Scarfe's bar, was much easier to identify, and placed third on night quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses 2019 LE Feb23.pdf"
+    "localSourceFile": "Four Roses 2019 LE Feb23.pdf",
+    "tastingDate": "2023-02-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-2022-le-aug25",
@@ -3075,23 +3102,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Four Roses 2022 Limited Edition 14 year bourbon with banana, baking spice, oak, grape marker, barrel char, flambayed booze, white pepper, and a short finish.",
+    "reviewers": [
+      "Benders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "109",
+    "price": "$180",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, baking spice, oak, Biscoff, heavier nose, and grape marker.",
+      "palate": "Comes alive, with Luxardo oak, grape, medium mouthfeel, barrel char, flambayed booze, and white pepper.",
+      "finish": "About 2, longest on the night but still kind of short.",
+      "table": "Blind tasting, ranked third of four on quick tasting. The Table loved this and marked it as winner on the night."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Four Roses 2022 LE Aug25.pdf"
+    "localSourceFile": "Four Roses 2022 LE Aug25.pdf",
+    "tastingDate": "2025-08-26",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "four-roses-sb-select-feb24",
@@ -8848,7 +8882,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 83,
+  "sampleTranscribed": 88,
   "firstYear": 2022,
   "latestYear": 2026
 };
