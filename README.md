@@ -7,19 +7,18 @@ Static first-pass website for The Bourbon Table, a Central Illinois whiskey revi
 - `index.html` - the full static website page.
 - `styles.css` - noir lounge visual system, responsive layout, review cards, modal styling.
 - `app.js` - search, filters, quick style chips, review detail modal, and related-pour recommendations.
-- `data/reviews.js` - indexed review data from the Google Drive inventory, now matched to the full local PDF set, with 261 manually standardized sample reviews.
+- `data/reviews.js` - indexed review data from the Google Drive inventory, now matched to the full local PDF set, with 281 manually standardized sample reviews.
 - `assets/images/hero-lounge.png` - original lounge/table hero image generated for this project.
 - `assets/images/leather-texture.png` - original texture image used for atmosphere.
 - `assets/images/favicon.png` - simple TBT favicon.
 
 ## Current Data Status
 
-- 282 PDFs are indexed from the Google Drive folder inventory.
 - 282 PDFs are available locally from `bb_taste_all_282`.
-- 281 review sheets have generated transcription crops; `1BLANK.pdf` is skipped as the blank template.
-- 261 reviews have sample standardized tasting notes.
-- 257 additional local reviews were transcribed after the initial 5-review sample.
-- The remaining reviews are title/date/style indexed and marked as reviewed with notes pending.
+- 281 actual review sheets are published in the public archive; `1BLANK.pdf` is skipped as the blank template.
+- 281 reviews have sample standardized tasting notes.
+- 278 local transcription records were merged after the initial indexed sample records.
+- No public review cards remain in the reviewed-with-notes-pending state.
 
 ## Local Review
 
@@ -43,8 +42,7 @@ http://localhost:8765/
 
 ## Items To Update Later
 
-- Replace sample transcription with a full OCR/transcription workflow once the handwriting cleanup approach is chosen.
-- Decide whether to keep every indexed bottle visible as reviewed with notes pending or hide pending reviews until the tasting notes are published.
+- Refine medium-low confidence readings from `TRANSCRIPTION_REVIEW_QUEUE.md` as the group reviews the published archive.
 - Add real bottle photos only if the group owns the images or they are licensed for reuse.
 - Add a custom domain, for example `thebourbontable.com`, if available.
 - Add an email capture or contact form if the group wants sample offers, newsletter signups, or brand outreach.
