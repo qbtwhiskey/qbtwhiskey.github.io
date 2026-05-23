@@ -5717,23 +5717,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Legent bourbon with wood up front, bitterness, cola undertones, a light edged mouthfeel, brown sugar, strong oak, astringency, and a finish that dries to nothing.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "94",
+    "price": "$44.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wood up front with a hint of bitterness and cola undertones.",
+      "palate": "Very light mouthfeel, but with some edges. Starts with brown sugar on the front of the tongue, quickly changing to a strong oak taste with astringency.",
+      "finish": "Completely absent; dries to nothing.",
+      "table": "A wood-forward and dry Legent pour where the opening sweetness quickly turns to oak and the finish drops away."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Legent July23.pdf"
+    "localSourceFile": "Legent July23.pdf",
+    "tastingDate": "2023-07-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-2-noe-simple-task-apr23",
@@ -5746,23 +5752,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 2 blend with sweet vanilla, caramel, rye spice, light mouthfeel, heat down the center of the tongue, and a short finish.",
+    "reviewers": [
+      "Pat",
+      "Josh",
+      "Jason"
+    ],
+    "proof": "118.8",
+    "price": "$299",
+    "classification": "Blend",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Overall a sweet nose with hints of vanilla, caramel, and rye.",
+      "palate": "Caramel up front followed by a nice rye spice. Light mouthfeel with slight edges and heat down the center of the tongue.",
+      "finish": "Short, without many lingering flavors.",
+      "table": "A high-proof Little Book that reads sweet and rye-spiced, with a lighter body and quick finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 2 Noe Simple task Apr23.pdf"
+    "localSourceFile": "Little Book 2 Noe Simple task Apr23.pdf",
+    "tastingDate": "2023-04-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-4-lessons-honored-aug23",
@@ -5775,23 +5787,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 4 blend with a vanilla bomb nose, French vanilla custard, creme brulee, creamy vanilla palate, and a relatively short Szechuan-like build.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "122.8",
+    "price": "$299",
+    "classification": "Blend",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla bomb, French vanilla custard, and creme brulee.",
+      "palate": "Delicious, with vanilla and hints of cream.",
+      "finish": "Relatively short with a build-up reminiscent of eating Szechuan.",
+      "table": "A dessert-leaning Little Book pour that The Table framed around big vanilla, custard, cream, and a spicy build."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 4 Lessons Honored Aug23.pdf"
+    "localSourceFile": "Little Book 4 Lessons Honored Aug23.pdf",
+    "tastingDate": "2023-08-14",
+    "color": "Dark copper",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-5-the-invitation-apr23",
@@ -5804,23 +5823,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 5 blend with hints of oak, sweetness, cola effervescence, creamy vanilla-leaning mouthfeel, and a short finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "116.8",
+    "price": "$299",
+    "classification": "Blend",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Hints of oak with some sweetness and a slight cola effervescence.",
+      "palate": "Wonderful mouthfeel: creamy with a tendency toward vanilla.",
+      "finish": "Short, without many lingering flavors.",
+      "table": "A creamy, vanilla-leaning Little Book entry with subtle cola lift on the nose and a clean, short finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 5 The Invitation Apr23.pdf"
+    "localSourceFile": "Little Book 5 The Invitation Apr23.pdf",
+    "tastingDate": "2023-04-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-6-to-the-finish-apr23",
@@ -5834,23 +5859,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 6 blend with caramel, malted flavors, good Scotch-like notes, lightly smoked cherries, generic grain, and a short cola finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "117.4",
+    "price": "$199",
+    "classification": "Blend",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel with malted flavors, slightly reminiscent of Scotch, but in a good way.",
+      "palate": "Fantastic mouthfeel with flavors of lightly smoked cherries. Subtly, there is a hint of generic grain mixed in.",
+      "finish": "Short with cola flavors lingering on the tongue.",
+      "table": "A more malted and smoky Little Book read, with cherry, grain, and cola rounding out the sip."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 6 To The Finish Apr23.pdf"
+    "localSourceFile": "Little Book 6 To The Finish Apr23.pdf",
+    "tastingDate": "2023-04-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-8-path-not-taken-july25",
@@ -5863,23 +5894,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 8 blended straight whiskey with corn sweetness, refined craft, oily mouthfeel, cherry, crowd-pleasing prune and fig, and a finish better than the sip.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "110.2",
+    "price": "$190",
+    "classification": "Blended Straight Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweetness from corn; well crafted and refined.",
+      "palate": "Oily mouthfeel, cherry, crowd pleaser, rich fruits, prune, and fig flavors linger.",
+      "finish": "About 1.5. The finish is better than the sip; hints arrive first.",
+      "table": "The Table loved it. The sheet notes a mid-reveal, fifth of five on quick tasting as a bonus, and a comparison with Jack Daniel's 10 Year."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 8 Path Not Taken July25.pdf"
+    "localSourceFile": "Little Book 8 Path Not Taken July25.pdf",
+    "tastingDate": "2025-07-02",
+    "color": "Light amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "little-book-9-none-for-granted-july25",
@@ -5892,23 +5931,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Little Book Chapter 9 whiskey with creamy pinwheel center, ethanol punch, vanilla, lively effervescence, dry pepper, and a rich changing finish.",
+    "reviewers": [
+      "Josh",
+      "Mike",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "121.8",
+    "price": "$150",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "The creamy white center of a pinwheel with an ethanol punch and hints of vanilla. If you get too close, it is going to bite your ass.",
+      "palate": "What a great sip: effervescent, lively, and changing. Starts traditionally, but then changes into dry pepper.",
+      "finish": "A nice finish, about 3, rich but changing.",
+      "table": "A lively high-proof Little Book pour where the sip keeps changing from classic sweetness into dry pepper and a rich finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Little Book 9 None For Granted July25.pdf"
+    "localSourceFile": "Little Book 9 None For Granted July25.pdf",
+    "tastingDate": "2025-07-15",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "lucky-seven-the-hold-up-oct23",
@@ -5921,23 +5967,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Lucky Seven The Hold Up straight bourbon with molasses, brown sugar, light oak, ethanol, vanilla pop, butterscotch, fake sweetener, light mouthfeel, and a short-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "100",
+    "price": "$130",
+    "classification": "Straight Bourbon",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Molasses bomb, brown sugar, and light oak.",
+      "palate": "Ethanol, then vanilla pop, butterscotch, fake sweetener taste, and a light mouthfeel for the age. The color suggested it should have been thicker.",
+      "finish": "Short to medium. Needs more proof.",
+      "table": "Tasted blind and marked second of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Lucky Seven the Hold Up Oct23.pdf"
+    "localSourceFile": "Lucky Seven the Hold Up Oct23.pdf",
+    "tastingDate": "2023-10-18",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "lucky-seven-the-proprietor-sept24",
@@ -5950,23 +6002,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Lucky Seven The Proprietor 14 year bourbon with oatmeal raisin, ethanol, peanut, pastries, medium mouthfeel, spice edges, and a short 1.5 finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "123",
+    "price": "$180",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oatmeal raisin, ethanol, peanut, delicious pastries.",
+      "palate": "Peanut, medium mouthfeel, delicious, with spice edges.",
+      "finish": "About 1.5 and short.",
+      "table": "Compared with Jack Daniel's Coy Hill. Fish chose this one, and the sheet marks it number four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Lucky Seven the Proprietor Sept24.pdf"
+    "localSourceFile": "Lucky Seven the Proprietor Sept24.pdf",
+    "tastingDate": "2024-09-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "makers-46-cask-strength-june25",
@@ -9340,7 +9398,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 160,
+  "sampleTranscribed": 169,
   "firstYear": 2022,
   "latestYear": 2026
 };
