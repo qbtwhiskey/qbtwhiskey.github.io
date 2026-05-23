@@ -3778,23 +3778,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A High Cotton single barrel bourbon with plant-like notes, ethanol, molasses, raisins, a pleasant effervescent palate, and a short but dynamic drying finish.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Eeten",
+      "Scarfe"
+    ],
+    "proof": "111.4",
+    "price": "$52",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Plant-like with some ethanol, molasses, and raisins.",
+      "palate": "Pleasant, with a slight effervescence that makes the tongue get up and do karate.",
+      "finish": "Short, about 1, but lingering and dynamic, drying to a traditional sweetness.",
+      "table": "The Table read this as an active, expressive single barrel where the palate has more energy than the short finish suggests."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "High Cotton SiB Sept25.pdf"
+    "localSourceFile": "High Cotton SiB Sept25.pdf",
+    "tastingDate": "2025-09-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "high-n-wicked-rye-feb26",
@@ -3807,23 +3814,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A High N' Wicked rye with sweet grain, punchy rye, spiced syrup, carrot cake, fruit cake, baking spices, dark spice, clove, pepper, ginger, green tea, mint, honey, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "98.2",
+    "price": "$50",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet grain, high-proof rye impression, punchy character, light sweetness, spiced syrup, carrot cake, fruit cake, and baking spices.",
+      "palate": "Dark and spicy, with allspice, clove, white pepper, ginger, green tea, a hint of spearmint tea, honey, and a drying green-tea note.",
+      "finish": "Short and shallow, with honey on the finish.",
+      "table": "A spice-forward rye that moves from baking spice and pepper into tea, mint, honey, and drying herbal notes."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "High N_ Wicked Rye Feb26.pdf"
+    "localSourceFile": "High N_ Wicked Rye Feb26.pdf",
+    "tastingDate": "2026-02-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "high-west-american-prairie-aug24",
@@ -3836,23 +3849,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A High West American Prairie bourbon with slight ethanol, juicy pear, juicy peach, honey, astringency, black pepper spice, vanilla, and a short constricting finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Fisher"
+    ],
+    "proof": "92",
+    "price": "$40",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Tingly with slight ethanol, juicy pear, juicy peach, and honey.",
+      "palate": "Astringent, with black pepper spice, vanilla, and light sweetness.",
+      "finish": "Short but lingering, with a constricting feeling on the tongue.",
+      "table": "A fruit-and-honey nose gives way to a tighter, peppery palate and a tongue-constricting finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "High West American Prairie Aug24.pdf"
+    "localSourceFile": "High West American Prairie Aug24.pdf",
+    "tastingDate": "2024-08-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "high-west-double-rye-le-dec24",
@@ -3865,23 +3884,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A High West Double Rye limited release store pick finished in Cognac barrels with marzipan, grain, sweetness, sugar cookie, grassy notes, rye spice, walnut, Dr Pepper, Cognac, dark plum, and dried apricot.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "104.4",
+    "price": "$30",
+    "classification": "Rye finished in Cognac barrels",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Marzipan, grain, sweetness, sugar cookie, grassy notes, buttery Christmas cookie, and spritz cookie.",
+      "palate": "Effervescent, with walnut plus Dr Pepper, rye spice, walnut, Cognac, dark plum, and dried apricot.",
+      "finish": "Short and not lingering.",
+      "table": "A finished rye that reads bakery-sweet on the nose, then shifts into walnut, cola spice, Cognac, and darker fruit on the palate."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "High West Double Rye LE Dec24.pdf"
+    "localSourceFile": "High West Double Rye LE Dec24.pdf",
+    "tastingDate": "2024-12-18",
+    "color": "Light amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "infinity-beenders-indoor-may26",
@@ -3894,23 +3921,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
+    "summary": "Beenders' indoor infinity whiskey with raisin box, light pine, humid cellar, wet bread, spice bomb character, green pepper, bay leaf, paprika, apricot, and a very short finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
     "proof": "",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Raisin box, light pine, humid cellar, and wet bread.",
+      "palate": "Spice bomb, green pepper, bay leaf, paprika, and apricot.",
+      "finish": "Length 1 and depth 1.",
+      "table": "Ranked fifth of five on quick tasting, but the sheet still says, \"Love the spice!\""
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Infinity Beenders Indoor May26.pdf"
+    "localSourceFile": "Infinity Beenders Indoor May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "infinity-beenders-outdoor-may26",
@@ -3923,23 +3957,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
+    "summary": "Beenders' outdoor infinity whiskey with evergreen, herbs, vanilla cream, peanut, red fruit, light cinnamon, black pepper, and an enjoyable lingering finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
     "proof": "",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Evergreen, herbs, and vanilla cream.",
+      "palate": "Peanut, red fruit, light cinnamon, and black pepper.",
+      "finish": "Enjoyable, with linger 3 and depth 3.",
+      "table": "Ranked first of five on quick tasting. The Table thought it was Beam or Jack and really liked the finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Infinity Beenders Outdoor May26.pdf"
+    "localSourceFile": "Infinity Beenders Outdoor May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "infinity-bottle-eeten-may26",
@@ -3952,23 +3993,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
+    "summary": "Eeten's infinity bottle with caramel cream, floral apple, light mouthfeel, a punchy edge, and a smooth but short finish after the punch.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
     "proof": "",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel cream, floral apple, and a note remembering a tasting where he had an apple-brandy-barrel-finished whiskey.",
+      "palate": "Light mouthfeel with punchy edges.",
+      "finish": "Smooth after the punch, with linger 1 and depth 1.",
+      "table": "Ranked second of five on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Infinity Bottle Eeten May26.pdf"
+    "localSourceFile": "Infinity Bottle Eeten May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "infinity-bottle-fish-may26",
@@ -3981,23 +4029,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
+    "summary": "Fish's infinity bottle with rye, dill, bread, hay, light mouthfeel, effervescence, untoasted coffee cake, and a short-to-medium finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
     "proof": "",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Rye, dill, bread, and hay.",
+      "palate": "Light mouthfeel, effervescence, and untoasted coffee cake. The sheet adds, \"I really like!\"",
+      "finish": "Linger 2 and depth 1.5.",
+      "table": "Ranked third of five on quick tasting. The sheet says there are a bunch of WT brands in this."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Infinity Bottle FISH May26.pdf"
+    "localSourceFile": "Infinity Bottle FISH May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "infinity-bottle-scarfe-may26",
@@ -4010,23 +4065,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
+    "summary": "Scarfe's infinity bottle with banana, cinnamon, ethanol, flat cola, light mouthfeel, oak, and a crushable easy-drinking finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
     "proof": "",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, cinnamon, and ethanol.",
+      "palate": "Flat cola, light mouthfeel, and oak.",
+      "finish": "Crushable and easy drinking, with linger 0.5 and depth 0.5.",
+      "table": "Ranked fourth of five on quick tasting. The sheet says it needed longer depth, but still gives it a thumbs up."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Infinity Bottle Scarfe May26.pdf"
+    "localSourceFile": "Infinity Bottle Scarfe May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-10yr-july25",
@@ -8995,7 +9057,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 106,
+  "sampleTranscribed": 115,
   "firstYear": 2022,
   "latestYear": 2026
 };
