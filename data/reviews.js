@@ -7214,23 +7214,28 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester 1897 bourbon with a grainy, malt-or-rye-like nose, malt, powdery Bazooka bubble gum sweetness, raspberry, and a very short finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "100",
+    "price": "$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A predominantly grainy nose that made The Table think this was malted or a rye.",
+      "palate": "The malt from the nose came through onto the palate with a white powdery sweetness like Bazooka bubble gum coating. Also had a nice raspberry flavor mid-palate.",
+      "finish": "Very short, about 1, and very quick with no lingering flavors.",
+      "table": "A grainy, powdery-sweet Old Forester read with more raspberry pop than finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester 1897 Nov23.pdf"
+    "localSourceFile": "Old Forester 1897 Nov23.pdf",
+    "tastingDate": "2023-11-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-1910-feb24",
@@ -7243,23 +7248,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester 1910 bourbon with vanilla extract, leather, wood, light ethanol, effervescent medium mouthfeel, oak bitterness, vanilla cream soda, and a short clean finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "93",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A great nose of vanilla extract, leather, wood, and light ethanol.",
+      "palate": "Medium mouthfeel with some effervescence. Vanilla extract comes through on the tongue, with oaky bitterness on the back of the tongue that The Table liked. Reminded The Table of vanilla cream soda.",
+      "finish": "Short and clean.",
+      "table": "A polished Old Forester 1910 read built around vanilla extract, leather, oak bitterness, and cream-soda lift."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester 1910 Feb24.pdf"
+    "localSourceFile": "Old Forester 1910 Feb24.pdf",
+    "tastingDate": "2024-02-01",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-1920-july25",
@@ -7272,23 +7283,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester 1920 bourbon with brown sugar, Jack Daniel's 10-year echoes, ethanol, evergreen pine, cherry, woody pecan shell, unidentified sweetness, and overripe banana on the finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "115",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Brown sugar, similar to Jack Daniel's 10 Year but with more ethanol, less sweet and dynamic.",
+      "palate": "Evergreen pine, dries to cherry, woody shell on pecan, and unidentified sweetness.",
+      "finish": "About 1.5, with overripe banana lingering.",
+      "table": "Marked third of five on quick tasting. The sheet notes a bottle-mix comparison, with Fish and Eeten choosing Stagg B."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester 1920 July25.pdf"
+    "localSourceFile": "Old Forester 1920 July25.pdf",
+    "tastingDate": "2025-07-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-king-ranch-june23",
@@ -7301,23 +7319,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester King Ranch bourbon with brown sugar bomb, maple syrup, wet oak, walnut shell, cinnamon heat, muted brown sugar, peanut, oily mouthfeel, and a medium-long finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Beender",
+      "Ricky Bobby",
+      "Collins"
+    ],
+    "proof": "105",
+    "price": "$179",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Brown sugar bomb, maple syrup, wet oak, walnut shell, and a hint of cinnamon heat.",
+      "palate": "Continues the brown sugar, but muted. Little oak astringency, peanut, oily mouthfeel, and missing the classic Old Forester banana flavors.",
+      "finish": "Medium to long.",
+      "table": "Top rank of quick tasting and marked number one of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester King Ranch June23.pdf"
+    "localSourceFile": "Old Forester King Ranch June23.pdf",
+    "tastingDate": "2023-06-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-rye-mar23",
@@ -7330,23 +7356,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "An Old Forester Rye with walnut, bubble gum, grass, grain, maple syrup, rye spice, salt, Bazooka Joe bubble gum, light cedar, honey, and a short-to-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Collins",
+      "Ricky Bobby"
+    ],
+    "proof": "100",
+    "price": "$27",
+    "classification": "Straight Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Walnut, bubble gum, grass and grain, opening up after a minute to maple syrup.",
+      "palate": "Rye spice up front, salt, bubble gum like Bazooka Joe, grass pops out, and light cedar.",
+      "finish": "Short to medium, dries to honey.",
+      "table": "Tasted blind. The sheet says it might be better in a cocktail, and notes it as second of three after someone specifically asked for rank, despite the header noting first of three on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester Rye Mar23.pdf"
+    "localSourceFile": "Old Forester Rye Mar23.pdf",
+    "tastingDate": "2023-03-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-sib-barrel-strength-yogis-pick-sept25",
@@ -7360,23 +7393,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester Yogi's single barrel barrel strength bourbon with spicy-sweet green apple, ethanol, strawberry bubblegum, drying oak, grape marker, watermelon Jolly Rancher, and a grape-turning finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "133.9",
+    "price": "$98",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Spicy-sweet green apple with ethanol, plus sweet and tart fresh strawberry with bubblegum.",
+      "palate": "Ethanol up front dominates the sip. Once past the ethanol there is a numbing sensation with drying oak, plus a mix of grape marker and watermelon Jolly Rancher.",
+      "finish": "Super short, about 0. Numbing, but turns to grape.",
+      "table": "A high-proof Yogi's pick where the proof hit first and the fruit notes showed after the ethanol."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester SiB Barrel Strength Yogis pick Sept25.pdf"
+    "localSourceFile": "Old Forester SiB Barrel Strength Yogis pick Sept25.pdf",
+    "tastingDate": "2025-09-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-statesman-dec22",
@@ -7389,23 +7429,25 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "An Old Forester Statesman bourbon with chocolate, orange, butter, salted dark chocolate, smooth medium mouthfeel, and a medium finish without much linger.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
+    "proof": "95",
+    "price": "$53",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Heavy notes of chocolate with lighter notes of orange and butter.",
+      "palate": "Very smooth with a nice medium mouthfeel that has heavy notes of salted dark chocolate.",
+      "finish": "Medium finish, slightly past a short finish, without many lingering flavors.",
+      "table": "A chocolate-forward Statesman pour with orange and butter accents and a smooth, moderate finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester Statesman Dec22.pdf"
+    "localSourceFile": "Old Forester Statesman Dec22.pdf",
+    "tastingDate": "2022-12-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-statesman-feb24",
@@ -7418,23 +7460,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Forester Statesman bourbon with warm apricots, chocolate, caramel, thin smooth mouthfeel, cheesecake with caramel topping, and a short caramel finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "95",
+    "price": "$43",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Warm apricots in a saucepan with layers of chocolate and caramel.",
+      "palate": "Thin mouthfeel that is nicely done with no edges. Reminded The Table of cheesecake with a caramel topping.",
+      "finish": "Short finish, but lingering with some nice caramel flavors on the tongue.",
+      "table": "A softer Statesman read with apricot, chocolate, caramel, and cheesecake-like sweetness."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Forester Statesman Feb24.pdf"
+    "localSourceFile": "Old Forester Statesman Feb24.pdf",
+    "tastingDate": "2024-02-01",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-granddad-114-aug23",
@@ -9602,7 +9650,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 202,
+  "sampleTranscribed": 210,
   "firstYear": 2022,
   "latestYear": 2026
 };
