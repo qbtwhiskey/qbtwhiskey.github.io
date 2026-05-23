@@ -6038,23 +6038,31 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Maker's 46 Cask Strength bourbon with medium amber color, sweet macerated fruit, grape, spice, marshmallow, peppercorn, cinnamon coffee cake, Big Red gum, and lingering oak spice.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat",
+      "Andrew"
+    ],
+    "proof": "110.8",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet macerated fruit, grape, spices, vegetal notes, and marshmallow.",
+      "palate": "Peppercorn, lightly toasted marshmallow, spiced corn, cinnamon coffee cake, Big Red gum, and a spice bomb.",
+      "finish": "Short with lingering oak spice.",
+      "table": "A French-oaked Maker's 46 Cask Strength read that leaned into sweet fruit and a big cinnamon-spice profile."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Makers 46 Cask Strength June25.pdf"
+    "localSourceFile": "Makers 46 Cask Strength June25.pdf",
+    "tastingDate": "2025-06-12",
+    "color": "Medium amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "makers-mark-101-june24",
@@ -6067,23 +6075,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Maker's Mark 101 bourbon with light ethanol punch, rose, honeycomb, red fruit, walnut, pepper, and a short-to-medium finish with tongue movement.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "101",
+    "price": "$36",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light ethanol punch, rose, honeycomb, red fruit, and walnut.",
+      "palate": "Walnut comes through with some pepper.",
+      "finish": "Short to medium with some lingering movement on the tongue.",
+      "table": "A Maker's 101 pour where walnut and pepper stood out more than deep sweetness."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Makers Mark 101 June24.pdf"
+    "localSourceFile": "Makers Mark 101 June24.pdf",
+    "tastingDate": "2024-06-18",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "makers-mark-101-nov23",
@@ -6096,23 +6110,28 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Maker's Mark 101 bourbon with oak, vanilla, coconut husk, peanuts, powdered-sugar sweetness after water, and a very short finish whose feel lingered.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "101",
+    "price": "$40",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak and vanilla combine, reminding The Table of the way a coconut husk smells.",
+      "palate": "Peanuts were noticed first, but adding water made a white sweetness explode, like powdered sugar.",
+      "finish": "Very short, about 1, but the feel seemed to linger.",
+      "table": "A Maker's 101 tasting where water shifted the pour from peanut-forward to powdered-sugar sweet."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Makers Mark 101 Nov23.pdf"
+    "localSourceFile": "Makers Mark 101 Nov23.pdf",
+    "tastingDate": "2023-11-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "makers-mark-brt-02-le-jan23",
@@ -6125,23 +6144,26 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Maker's Mark BRT-02 limited release bourbon with dark gold color, butterscotch, caramel, molasses, toasted raisin, cinnamon bread, honey, nuts, spice, and a medium lingering finish.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "proof": "109.4",
+    "price": "$60",
+    "classification": "Bourbon finished with virgin oak staves",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Butterscotch, caramel, molasses, toasted raisin, cinnamon bread, earthy darker and heavier notes, soil, vanilla-caramel chew, and some kind of dark fruit.",
+      "palate": "Honey, dried mid-tongue, nuts or nutty notes, caramel, butterscotch, honey, and nice spices on the back of the tongue. Spices linger on the back of the tongue for nice flavor experience, with rich and dense flavors that roll.",
+      "finish": "Medium with nice lingering spice mostly on the back of the mouth and tongue.",
+      "table": "The sheet notes it finished first or second on guest scorecards in a five-way blind."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Makers Mark BRT-02 LE Jan23.pdf"
+    "localSourceFile": "Makers Mark BRT-02 LE Jan23.pdf",
+    "tastingDate": "2023-01-27",
+    "color": "Dark gold",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "makers-mark-may23",
@@ -6154,23 +6176,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Maker's Mark bourbon with sugary vanilla caramel, light spice, simple palate, easy-drinking wheated-bourbon character, short negligible finish, and mixer-friendly simplicity.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "90",
+    "price": "$28-$30",
+    "classification": "Bourbon (Wheated)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sugary vanilla and caramel, light spice, sweet vanilla, sugary sweetness, and some kind of light spice.",
+      "palate": "Not complex, single note, and easy to drink. What you get on the nose you get on the palate. Nothing interesting about it; basic but good enough. Gateway bourbon for those new to whiskey.",
+      "finish": "Short, negligible, and very light spice.",
+      "table": "Basic bourbon with basic flavors. The Table saw this as a decent mixer and occasional sipper, with not much to it."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Makers Mark May23.pdf"
+    "localSourceFile": "Makers Mark May23.pdf",
+    "tastingDate": "2023-05-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "mckenna-10yr-bib-oct23",
@@ -6184,23 +6212,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Henry McKenna 10 year Bottled-in-Bond straight bourbon with light aromas, caramel, orange chocolate, just-cooked Bundt cake, spiced caramel, marzipan, vanilla, and a medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "100",
+    "price": "$48",
+    "classification": "Straight Bourbon",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light aromas, caramel, orange chocolate, and just-cooked Bundt cake.",
+      "palate": "Spiced caramel, marzipan, vanilla, and medium mouthfeel.",
+      "finish": "Medium.",
+      "table": "Tasted blind and marked third of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "McKenna 10yr BiB Oct23.pdf"
+    "localSourceFile": "McKenna 10yr BiB Oct23.pdf",
+    "tastingDate": "2023-10-18",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "mckenna-10yr-bib-sept23",
@@ -6214,23 +6248,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Henry McKenna 10 year Bottled-in-Bond single barrel bourbon with banana, ethanol, brown sugar, caramel, spice, oak, herbal sharpness, green tea, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Fisher"
+    ],
+    "proof": "100",
+    "price": "~$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, ethanol, brown sugar, caramel, spice, and a hint of oak.",
+      "palate": "Effervescent with herbaceous sharpness, green tea, and slight edge or edginess.",
+      "finish": "Short finish.",
+      "table": "The Table guessed 90-100 proof, $31, and 2-3 years old. This single barrel was 'meh,' with a note that these can vary greatly year to year, with some being excellent."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "McKenna 10yr BiB Sept23.pdf"
+    "localSourceFile": "McKenna 10yr BiB Sept23.pdf",
+    "tastingDate": "2023-09-20",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "michters-10yr-feb23",
@@ -6243,23 +6283,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Michter's 10 year bourbon with medium amber color, fruit sweetness, light oak, ethanol, light graham cracker, candied nuts, stronger-than-94 heat, and a medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Beenders",
+      "Ricky Bobby"
+    ],
+    "proof": "94",
+    "price": "$235",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Fruit sweet, light oak, ethanol, and light graham cracker. The Table had to work for this one.",
+      "palate": "Candied nuts and heat that drank stronger than 94 proof, making it challenging to find single notes.",
+      "finish": "Medium.",
+      "table": "The sheet notes the bottle was bought at Yogi's allocation in December 2020, stored at MAC, and was a bottle kill. It ranked first on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Michters 10yr Feb23.pdf"
+    "localSourceFile": "Michters 10yr Feb23.pdf",
+    "tastingDate": "2023-02-07",
+    "color": "Medium amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "michters-10yr-jan26",
@@ -6272,23 +6320,28 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Michter's 10 year single barrel bourbon with traditional brown sugar, clean wood, non-bitter wood, light muted mouthfeel, chemical highlighter notes, and a short spice finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "94.4",
+    "price": "$160",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Traditional bourbon, brown sugar, muted, clean wood pride, and non-bitter wood.",
+      "palate": "Light mouthfeel, almost too light and muted, with chemical highlighter and malt ball notes. Both tasters said, 'Not great not bad.'",
+      "finish": "Short, about 1, with a little spice linger.",
+      "table": "Marked number one on quick tasting, but also fifth rank on quick tasting. Both rated it 5, with higher hopes."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Michters 10yr Jan26.pdf"
+    "localSourceFile": "Michters 10yr Jan26.pdf",
+    "tastingDate": "2026-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "michters-us1-sib-barrel-strength-le-rye-feb25",
@@ -6302,23 +6355,30 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Michter's US*1 Limited Edition Barrel Strength Rye with caramel, rum spice, brown sugar, baking spice, barrel char, salt tongue, smoke, boiled peanut, and a short finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "111",
+    "price": "$130",
+    "classification": "Rye Single Barrel Barrel Strength",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, rum spice, brown sugar, baking spice, and allspice.",
+      "palate": "Hard Werther's, barrel char, salt tongue tip, smoke and char, boiled peanut, and complexity.",
+      "finish": "Short, about 1, with no linger.",
+      "table": "Tasted blind. The sheet marks it third of four on quick tasting and says The Table loved it, while also noting it rated number two of four on the night."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Michters US1 SiB Barrel Strength LE Rye Feb25.pdf"
+    "localSourceFile": "Michters US1 SiB Barrel Strength LE Rye Feb25.pdf",
+    "tastingDate": "2025-02-27",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "michters-us1-sib-rye-july25",
@@ -6332,23 +6392,30 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Michter's US*1 Single Barrel Rye with a light, hard-to-describe nose, hay sweetness, mint, fruit, honey, powdered sugar, pepper spice, barrel char, creamy body, and a short creamy finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "84",
+    "price": "$45",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light nose, hard to describe, with hay sweetness. The Table all got mint, with side notes of fruit, honey, and powdered sugar.",
+      "palate": "Pepper spice, char from the barrel, creamy, and crushable.",
+      "finish": "Short, about 1, with creamy linger.",
+      "table": "The Table all liked this and it surprised them. The sheet marks it first of five on quick tasting and notes some compared high while some compared low."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Michters US1 SiB rye July25.pdf"
+    "localSourceFile": "Michters US1 SiB rye July25.pdf",
+    "tastingDate": "2025-07-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "middle-west-cs-wheat-jan26",
@@ -9398,7 +9465,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 169,
+  "sampleTranscribed": 180,
   "firstYear": 2022,
   "latestYear": 2026
 };
