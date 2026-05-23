@@ -7886,23 +7886,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Pinhook Cask Strength 2022 Release bourbon with black or English breakfast tea, wood, Band-Aid medicinal character, mint, cinnamon candy, butterscotch, strawberry, green mint wash, tea leaves, and spearmint.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "119.2",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Black or English breakfast tea, wood, Band-Aid, medicinal but not off-putting, an office-smell note, mint, and tea.",
+      "palate": "Spice, cinnamon candy, butterscotch, strawberry, green mint wash, pleasant, with the nose continuing to change and hints of mint.",
+      "finish": "Short lingering heat, zero finish, with tea leaves, strawberry, mint, and spearmint.",
+      "table": "A tea-and-mint driven cask strength read with medicinal edges that stayed more interesting than unpleasant."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pinhook CS Feb26.pdf"
+    "localSourceFile": "Pinhook CS Feb26.pdf",
+    "tastingDate": "2026-02-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pursuit-unlimited-rye-mar23",
@@ -7915,23 +7921,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A blind Pursuit Unlimited Rye with sweet vanilla, ethanol, light smoke, mint spice, herbal tea, black pepper, and a short disappearing finish with lingering ethanol.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Collins",
+      "Ricky Bobby"
+    ],
+    "proof": "104",
+    "price": "$65",
+    "classification": "Straight Rye",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet vanilla, ethanol, and light smoke.",
+      "palate": "Mint, spice, and herbal tea, with discussion that it was not black tea but herbal. Dries to black pepper on the palate.",
+      "finish": "Short, disappears, but some ethanol lingers.",
+      "table": "Tasted blind. The sheet notes it as third of three on quick tasting after someone specifically asked for rank."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pursuit Unlimited Rye Mar23.pdf"
+    "localSourceFile": "Pursuit Unlimited Rye Mar23.pdf",
+    "tastingDate": "2023-03-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "rare-character-sib-smoke-break-feb25",
@@ -7945,23 +7958,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Rare Character Single Barrel Series Smoke Break bourbon with oak, red ripe berry, cracked walnut, peanut, wet peanut, Spanish peanut, walnut syrup, hot cherry flambe, and medicinal cherry syrup.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "136.32",
+    "price": "$140",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak, red ripe berry, nuts, cracked walnut, peanut, and wet peanut.",
+      "palate": "Spanish peanut, spicy, walnut syrup, oiliness, hot cherry flambe, hot proof, and medicinal cherry syrup.",
+      "finish": "Short and hot.",
+      "table": "A hot, nutty Rare Character pour with cherry syrup notes riding the proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Rare Character SiB Smoke Break Feb25.pdf"
+    "localSourceFile": "Rare Character SiB Smoke Break Feb25.pdf",
+    "tastingDate": "2025-02-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "rebel-sb-reserve-apr24",
@@ -7974,23 +7993,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Rebel Small Batch Reserve wheated bourbon with salty soy sauce, sesame seed oil, Chinese food, peanut oil, caramel, cashew, barrel char, sweet corn, Bit-O-Honey, cigar box, fruit, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "110",
+    "price": "$35",
+    "classification": "Bourbon (wheated)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Salty soy sauce, sesame seed oil, Chinese food, peanut oil, caramel, nut and cashew, barrel char, and cream sweet corn.",
+      "palate": "Peanut, Bit-O-Honey, nice spice on the backend, cigar box with hints of fruit, caramel, and vanilla.",
+      "finish": "Short.",
+      "table": "A solid budget-friendly wheated bourbon, though The Table did not think it beat Weller Green Label even at the higher proof. Still solid and worth a try."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Rebel SB Reserve Apr24.pdf"
+    "localSourceFile": "Rebel SB Reserve Apr24.pdf",
+    "tastingDate": "2024-04-11",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "redwood-empire-cask-strength-pipe-dream-aug23",
@@ -8004,23 +8029,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Redwood Empire Pipe Dream cask strength bourbon with sweet red fruit, ethanol, bubble gum, Big Red gum, heat, oak, and a medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "116.8",
+    "price": "$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet red fruit, ethanol, and bubble gum.",
+      "palate": "Big Red gum, hot, and oak.",
+      "finish": "Medium.",
+      "table": "Bottle kill. The Table all liked it and marked it first of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Redwood Empire cask strength Pipe Dream Aug23.pdf"
+    "localSourceFile": "Redwood Empire cask strength Pipe Dream Aug23.pdf",
+    "tastingDate": "2023-08-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "remus-15yo-gatsby-reserve-oct25",
@@ -8033,23 +8064,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Remus Gatsby Reserve 15 Year bourbon with apricot, peach, peach cobbler, light ethanol, vanilla, oak, grape marker, warm leather, pink flavor, raspberry candy, grape, fruit-forward palate, and a finish around 2.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Benders",
+      "Fisher"
+    ],
+    "proof": "104.9",
+    "price": "$190",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Apricot or peach, peach cobbler, light ethanol, vanilla, oak, grape marker, warm leather, and pink flavor.",
+      "palate": "Pink, raspberry candy, grape, and fruit-forward.",
+      "finish": "About 2 on the finish.",
+      "table": "A fruit-forward older Remus read that leaned peach, grape, raspberry candy, and warm leather."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Remus 15yo Gatsby Reserve Oct25.pdf"
+    "localSourceFile": "Remus 15yo Gatsby Reserve Oct25.pdf",
+    "tastingDate": "2025-10-04",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "resilient-17yo-tawny-finish-july25",
@@ -8063,23 +8101,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Resilient 17 Year bourbon finished in tawny port with lime-soaked plum, burgundy, fig, rich old wood fruit, malt wine, glue behind leather, orange zest peel, citrus, dried plum, stewed fig, grape vine, and a short hot finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Benders",
+      "Collins"
+    ],
+    "proof": "117.46",
+    "price": "$200",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Lime-soaked plum, burgundy, fig, rich old wood fruit, malt wine, and glue behind leather.",
+      "palate": "Orange zest peel, citrus, dried plum, stewed fig, leather, and grape vine.",
+      "finish": "Half finish with lingering heat.",
+      "table": "A tawny-finished, dark-fruit-heavy Resilient read with a short hot close."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Resilient 17yo Tawny finish July25.pdf"
+    "localSourceFile": "Resilient 17yo Tawny finish July25.pdf",
+    "tastingDate": "2025-07-30",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "rittenhouse-bib-june24",
@@ -8093,23 +8138,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Rittenhouse Bottled-in-Bond rye with bubble gum, fruit and berry notes, Boo Berry, malty cereal, blueberry, structured mouthfeel, buttered yams, salt and pepper, peach tea, and a short pepper finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$25",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Bubble gum, fruit and berry notes, Boo Berry, malty cereal, and blueberry.",
+      "palate": "Has some structure and heft to the mouthfeel. Yams with butter, salt and pepper, and peach tea.",
+      "finish": "Short with slight pepper, leaving The Table wanting a longer finish.",
+      "table": "Goes great in a Bloody Mary and is an excellent value rye."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Rittenhouse BiB June24.pdf"
+    "localSourceFile": "Rittenhouse BiB June24.pdf",
+    "tastingDate": "2024-06-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-10yr-feb24",
@@ -8122,23 +8173,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Russell's Reserve 10 Year bourbon with Cracker Jack, vanilla, caramel peanut, cinnamon, fudge, peanut, wet mouthfeel, white pepper, plum, fuzziness, and a medium finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "90",
+    "price": "$38",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cracker Jack, vanilla, caramel peanut, cinnamon, and fudge.",
+      "palate": "Peanut, wet mouthfeel, white pepper, cinnamon, balanced, no edges but complex, plum, and fuzzy.",
+      "finish": "Medium.",
+      "table": "The Table loved it, with JB marking it second and PF first among Russell's Reserve bottles, though the sheet also marks it fourth of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve 10yr Feb24.pdf"
+    "localSourceFile": "Russells Reserve 10yr Feb24.pdf",
+    "tastingDate": "2024-02-28",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-13yr-july25",
@@ -8151,23 +8208,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Russell's Reserve 13 Year bourbon with subtle oak, ethanol, cherry wood, barrel char, light mouthfeel, vanilla, peanut butter parfait, light butterscotch, cherry, candied peach, wood spice, and a finish around 2.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "114.8",
+    "price": "$180",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Subtle oak, ethanol, cherry wood, and char from the barrel.",
+      "palate": "Light mouthfeel, vanilla, peanut butter parfait, light butterscotch, fruit, cherry, candied peach, and spice that lights up when sucking in air. Wood spice changes, and The Table called that great.",
+      "finish": "About 2, and The Table loved that.",
+      "table": "Marked fourth of five on quick tasting. The Table all loved it, though Eeten compared it lower for him."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve 13yr July25.pdf"
+    "localSourceFile": "Russells Reserve 13yr July25.pdf",
+    "tastingDate": "2025-07-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-15yr-jan25",
@@ -8180,23 +8244,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Russell's Reserve 15 Year bourbon with complex molasses, funk, dried apricot, candied zest, cream, aged steak, rounded ethanol, watermelon, Twizzler, spice, bright mouthfeel, and a short red-fruit finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "117.2",
+    "price": "$250",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Complex, molasses, funk, dried apricot, candied zest, creamy, and aged steak.",
+      "palate": "Rounded ethanol, watermelon, Twizzler, spice, and bright in the mouth.",
+      "finish": "Dries to red fruit, short, about 1.5.",
+      "table": "The sheet says love and favorite, while the quick-tasting note appears to say fifth of four plus bonus."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve 15yr Jan25.pdf"
+    "localSourceFile": "Russells Reserve 15yr Jan25.pdf",
+    "tastingDate": "2025-01-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-sib-10yr-mar24",
@@ -9710,7 +9780,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 220,
+  "sampleTranscribed": 231,
   "firstYear": 2022,
   "latestYear": 2026
 };
