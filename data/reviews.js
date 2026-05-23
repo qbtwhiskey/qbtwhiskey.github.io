@@ -5289,23 +5289,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 12 year bourbon with musty plum, smoke, brown sugar, cookie dough, light mouthfeel, pepper spice, and a medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "100",
+    "price": "$55",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Musty plum, smoky notes, and brown sugar.",
+      "palate": "Cookie dough, light mouthfeel, and pepper spice on the tongue.",
+      "finish": "Medium.",
+      "table": "Beam night. Ranked third of four on quick tasting, and the overall note says The Table all agreed it was lacking."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 12yr Aug23.pdf"
+    "localSourceFile": "Knob Creek 12yr Aug23.pdf",
+    "tastingDate": "2023-08-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-12yr-jan23",
@@ -5318,23 +5324,26 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Knob Creek 12 year bourbon with baking spice, cinnamon, sweet corn, light oak, vanilla, simple oak, and a short finish.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
+    "proof": "100",
+    "price": "$60-$70",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Baking spices with slight cinnamon, sweet corn, and light oak.",
+      "palate": "Well balanced with no edges, light mouthfeel, vanilla, sweet corn, simple nice oak, and the nose transferring to the palate. Easy to sip, simple, enjoyable, but not remarkable; no depth.",
+      "finish": "Short.",
+      "table": "Finished last in a five-bottle blind taste on all scorecards because of its muted, simple, easy-drinking characteristics."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 12yr Jan23.pdf"
+    "localSourceFile": "Knob Creek 12yr Jan23.pdf",
+    "tastingDate": "2023-01-27",
+    "color": "Gold to light copper",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-12yr-jan25",
@@ -5347,23 +5356,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 12 year bourbon with candied orange peels, drippy gooey caramel, cherry, peanut, medium mouthfeel, effervescence, and a cherry-cola finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$90",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Candied orange peels and drippy gooey caramel.",
+      "palate": "Cherry jumps out up front with a slight hint of peanut, medium mouthfeel, and some effervescence.",
+      "finish": "Short, about 1.5, slightly drying and finishing to cherry cola.",
+      "table": "A brighter Knob Creek 12 read, with orange, caramel, cherry, peanut, and a cola-like finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 12yr Jan25.pdf"
+    "localSourceFile": "Knob Creek 12yr Jan25.pdf",
+    "tastingDate": "2025-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-15yr-jan25",
@@ -5376,23 +5391,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 15 year bourbon with sugar, bubblegum, Bazooka wrapper, light mouthfeel, moving spice, herbal tea, cream, and a short vanilla-drying finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$200",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sugar first with bubblegum behind it, like the way Bazooka would smell when first unwrapped.",
+      "palate": "Light mouthfeel, with a spice that moves around the whole palate. Reminds The Table of herbal tea with some cream.",
+      "finish": "Short, about 1, but lingering on the back of the palate and drying to vanilla.",
+      "table": "A lighter, more herbal and bubblegum-leaning older Knob Creek expression with a short but lingering vanilla drydown."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 15yr Jan25.pdf"
+    "localSourceFile": "Knob Creek 15yr Jan25.pdf",
+    "tastingDate": "2025-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-18yr-jan25",
@@ -5405,23 +5426,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 18 year bourbon with boozy creamy cherries-jubilee notes, cream soda effervescence, peanut, vanilla cream, and a short Sprite-peanut finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$200",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Boozy and creamy, like cherries jubilee.",
+      "palate": "The lightest mouthfeel of the age-stated Knob Creek bourbons. Effervescent like a cream soda, with peanut making an appearance and a vanilla-cream flambeed cherry bomb.",
+      "finish": "Short, about 1.5, Sprite-like peanut drying to vanilla and cherry.",
+      "table": "An older Knob Creek that reads surprisingly light and creamy, with cherry, peanut, vanilla, and soda-like lift."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 18yr Jan25.pdf"
+    "localSourceFile": "Knob Creek 18yr Jan25.pdf",
+    "tastingDate": "2025-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-bourbon-x-rye-sept24",
@@ -5434,23 +5461,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Knob Creek Bourbon x Rye whiskey with grass, ethanol, spice, sweet citrus, tongue-coating heat, and a short tongue-burn finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "113",
+    "price": "$45",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grasses, ethanol, and more complexity.",
+      "palate": "Coats the tongue with spice to the edge, plus sweet citrus.",
+      "finish": "Short, about 1.5, with tongue burn.",
+      "table": "Compared with Pikesville Rye and sparked the most conversation. Fish and Beenders chose Knob Creek, and it ranked number two on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek Bourbon X Rye Sept24.pdf"
+    "localSourceFile": "Knob Creek Bourbon X Rye Sept24.pdf",
+    "tastingDate": "2024-09-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-barrel-proof-a124-dec24",
@@ -9266,7 +9299,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 148,
+  "sampleTranscribed": 154,
   "firstYear": 2022,
   "latestYear": 2026
 };
