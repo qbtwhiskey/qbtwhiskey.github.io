@@ -1,34 +1,5 @@
 window.TBT_REVIEWS = [
   {
-    "id": "1blank",
-    "sourceFile": "1BLANK.pdf",
-    "bottle": "1BLANK",
-    "category": "Bourbon",
-    "dateLabel": "Date TBD",
-    "year": null,
-    "month": null,
-    "tags": [
-      "Bourbon"
-    ],
-    "status": "queued_for_transcription",
-    "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
-    "featured": false,
-    "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
-    },
-    "localBatch": "bb_taste_all_282",
-    "localSourceFile": "1BLANK.pdf"
-  },
-  {
     "id": "2xo-american-oak-feb25",
     "sourceFile": "2XO American Oak Feb25.pdf",
     "bottle": "2XO American Oak",
@@ -9360,23 +9331,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A WhistlePig Samurai Scientist rye with cranberry, baked apple, barrel funk, orange, honey, vanilla, peppermint, and a very short heat-led finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Beenders",
+      "Pat"
+    ],
+    "proof": "120.5",
+    "price": "$900",
+    "classification": "Rye",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cranberry Ocean Spray, cinnamon and clove, magic marker, baked apple, potpourri, dusty barrel funk, and rubber tennis shoe.",
+      "palate": "Light mouthfeel with oak, honey, orange, depth of flavor, vanilla, and peppermint.",
+      "finish": "Very short, about 0.5, with lingering heat on the tongue.",
+      "table": "A rare, high-proof WhistlePig rye with big oddball aromatics but a finish that disappears faster than the proof suggests."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Whistle Pig VI Samurai Scientist May25.pdf"
+    "localSourceFile": "Whistle Pig VI Samurai Scientist May25.pdf",
+    "tastingDate": "2025-05-27",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "whistle-pig-viii-lapulapu-s-pacific-may25",
@@ -9389,23 +9367,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A WhistlePig Lapulapu's Pacific rye with a light root-beer and caramel nose, smooth comfortable palate, and a very short heat-led finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Beenders",
+      "Pat"
+    ],
+    "proof": "106.6",
+    "price": "$600",
+    "classification": "Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Root beer, light nose, caramel, and malted cream.",
+      "palate": "Subtle and smooth with lingering heat, very comfortable, and crushable.",
+      "finish": "Very short, about 0.5, with lingering heat.",
+      "table": "The Table read this WhistlePig as the more comfortable, easygoing pour in the rare rye lineup."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Whistle Pig VIII Lapulapu_s Pacific May25.pdf"
+    "localSourceFile": "Whistle Pig VIII Lapulapu_s Pacific May25.pdf",
+    "tastingDate": "2025-05-27",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "whistle-pig-xi-the-juggernaut-may25",
@@ -9418,23 +9403,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A WhistlePig Juggernaut rye with Bazooka bubblegum, chocolate, dill, Dutch-process cocoa, sweet citrus, and a very short heat-led finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Beenders",
+      "Pat"
+    ],
+    "proof": "104",
+    "price": "$600",
+    "classification": "Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Bazooka bubblegum, vine, and chocolate.",
+      "palate": "Dill, Dutch-process chocolate, sweet notes, and light citrus.",
+      "finish": "Very short, about 0.5, with lingering heat on the tongue.",
+      "table": "A strange and playful rye that moved from bubblegum and chocolate into dill, citrus, and quick heat."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Whistle Pig XI The Juggernaut May25.pdf"
+    "localSourceFile": "Whistle Pig XI The Juggernaut May25.pdf",
+    "tastingDate": "2025-05-27",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-12yr-nov23",
@@ -9447,23 +9439,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wild Turkey 12 Year bourbon with caramel, red fruit, light smoke, Red Vine licorice, ginger, mint, roasted marshmallow, and white pepper.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "101",
+    "price": "$140",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel up front and red fruit with light smokiness, Red Vine licorice, and light vanilla marshmallow.",
+      "palate": "Nice spice up front changing to ginger and mint mid-palate, with roasted marshmallows toward the end.",
+      "finish": "Medium, about 3, drying to clean white pepper spice.",
+      "table": "A mature Wild Turkey pour with candy-red fruit and marshmallow sweetness balanced by ginger, mint, and clean pepper."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey 12yr Nov23.pdf"
+    "localSourceFile": "Wild Turkey 12yr Nov23.pdf",
+    "tastingDate": "2023-11-08",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-13yr-father-sons-dec22",
@@ -9476,23 +9474,25 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Wild Turkey Father and Son 13 Year bourbon with dry corn, marshmallow, light mouthfeel, chewy tongue linger, charred marshmallow, and a need-more-proof note.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
+    "proof": "86",
+    "price": "$249.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light nose full of dry corn with a hint of marshmallow.",
+      "palate": "Light mouthfeel during which marshmallow and chewy notes linger on the tongue.",
+      "finish": "Short to medium-short with a touch of ethanol and lightly charred marshmallow.",
+      "table": "There is some good stuff in there, but The Table felt you have to work too hard to get to it, and that it needs to be higher proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey 13yr Father & Sons Dec22.pdf"
+    "localSourceFile": "Wild Turkey 13yr Father & Sons Dec22.pdf",
+    "tastingDate": "2022-12-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-101-70th-anniv-feb25",
@@ -9505,23 +9505,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Wild Turkey 101 70th Anniversary bourbon with grape candy, dusty cellar, peanut shell, ethanol spice, cinnamon, and a medium lingering finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "101",
+    "price": "$70",
+    "classification": "Bourbon - 8 Years",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grape Now and Later, old cellar, dusty earthy notes, and peanut shell.",
+      "palate": "Ethanol spice, dried cinnamon stick, light mouthfeel, not complex, and crushable.",
+      "finish": "Medium finish that lingers high.",
+      "table": "Blind review. The sheet reads as if this placed first of four on quick tasting, but also includes a later note saying it was liked yet rated fourth of four."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey 101 70th Anniv Feb25.pdf"
+    "localSourceFile": "Wild Turkey 101 70th Anniv Feb25.pdf",
+    "tastingDate": "2025-02-27",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-101-july23",
@@ -9536,7 +9543,7 @@ window.TBT_REVIEWS = [
     ],
     "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "A classic everyday pour that still earns table time.",
+    "summary": "A classic Wild Turkey 101 bourbon with vanilla extract, Bazooka bubblegum, rye spice, caramel, and a short red-fruit-to-Dr-Pepper finish.",
     "reviewers": [
       "Josh",
       "Pat",
@@ -9545,18 +9552,19 @@ window.TBT_REVIEWS = [
     "proof": "101",
     "price": "$24.99",
     "classification": "Bourbon",
-    "confidence": "high",
+    "confidence": "medium",
     "featured": true,
     "notes": {
-      "nose": "Very good nose with strong scents of vanilla extract and bubble gum; reminds The Table of Bazooka bubble gum, with hints of rye spice.",
+      "nose": "Very good nose with strong vanilla extract and bubblegum, especially Bazooka bubblegum, with hints of rye spice.",
       "palate": "Crushable, with strong caramel and vanilla.",
-      "finish": "A short finish starting with deep red fruit and drying toward oak and pepper.",
-      "table": "A classic everyday pour that still earns table time."
+      "finish": "Short finish that starts with deep red fruit and dries to Dr Pepper.",
+      "table": "A familiar, highly drinkable Wild Turkey profile with enough caramel, vanilla, and spice to explain why it stays on so many shelves."
     },
     "tastingDate": "2023-07-19",
     "color": "Medium gold",
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey 101 July23.pdf"
+    "localSourceFile": "Wild Turkey 101 July23.pdf",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-101-rye-may23",
@@ -9569,23 +9577,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wild Turkey 101 Rye with grassy grain, straightforward Kentucky rye sweetness, back-palate spice, and a medium slow-burn finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "101",
+    "price": "$28-$30",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grain, grass, sweetness, and straightforward Kentucky rye notes.",
+      "palate": "Typical Kentucky rye spice, basic, sweet up front with spice popping on the back, and not a lot happening.",
+      "finish": "Medium with a nice slow burn.",
+      "table": "Good basic rye. The Table thought it was okay to sip but best as a shelf-stable mixer that nobody would mind, so long as you do not expect complexity."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey 101 Rye May23.pdf"
+    "localSourceFile": "Wild Turkey 101 Rye May23.pdf",
+    "tastingDate": "2023-05-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-masters-keep-beacon-dec25",
@@ -9598,23 +9612,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wild Turkey Master's Keep Beacon bourbon with oiled baseball mitt, roasted peanuts, buttery cracker, grape, cherry, bananas foster, and red-fruit finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "118",
+    "price": "$300",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A baseball mitt that has just been oiled, roasted peanuts with skin on, buttery Ritz cracker, and nice notes of grape and dank cherry.",
+      "palate": "A grape-flavored dessert. The proof keeps showing up and does not hide, with bananas foster and a profile that excites the senses.",
+      "finish": "Dries to red fruit and hits on every sip.",
+      "table": "Big, rich, and expressive, with an old-leather-and-peanut Wild Turkey core pushed into fruit and dessert."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey Masters Keep Beacon Dec25.pdf"
+    "localSourceFile": "Wild Turkey Masters Keep Beacon Dec25.pdf",
+    "tastingDate": "2025-12-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-masters-keep-decades-july25",
@@ -9627,23 +9648,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wild Turkey Master's Keep Decades bourbon with classic caramel, vanilla, powdered sugar, Red Vine sweetness, oily weight, dry wood, and a short sweet finish.",
+    "reviewers": [
+      "Josh",
+      "Mike",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "104",
+    "price": "$110",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wonderful and familiar bourbon nose with traditional aromas of caramel and vanilla, plus very fine powdered sugar.",
+      "palate": "Sweetness lingers on the tongue with the first sip reminding The Table of Red Vine. Nicely oily and heavy with well-rounded edges, balanced between drying woodiness and red-fruit sweetness.",
+      "finish": "Short, about 1, with slightly lingering sweetness.",
+      "table": "A polished, familiar Wild Turkey profile that turns classic caramel and vanilla into a rounded, oily, red-fruit pour."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey Masters Keep Decades July25.pdf"
+    "localSourceFile": "Wild Turkey Masters Keep Decades July25.pdf",
+    "tastingDate": "2025-07-15",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wild-turkey-masters-keep-rye-cornerstone-feb23",
@@ -9656,23 +9684,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wild Turkey Master's Keep Cornerstone Rye with a muted nose, malted palate, bubblegum, citrus, dark fruit, occasional Scotch-like malt, and a short bubblegum finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "109",
+    "price": "$350",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light nose that is muted without many flavors.",
+      "palate": "Seems malted and changes in a fun way with every drink. Bubblegum becomes citrus, becomes dark fruit, with occasional Scotch-like notes from the malted thoughts.",
+      "finish": "Short finish that seems to go back to bubblegum.",
+      "table": "The Table found this more shape-shifting than straightforward, with bubblegum, citrus, dark fruit, and malt taking turns."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wild Turkey Masters Keep Rye Cornerstone Feb23.pdf"
+    "localSourceFile": "Wild Turkey Masters Keep Rye Cornerstone Feb23.pdf",
+    "tastingDate": "2023-02-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "woodford-reserve-bs-rye-mar26",
@@ -9685,23 +9719,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Woodford Reserve Barrel Strength Rye with maple, brown sugar, pancake syrup, vanilla cream, apricot, leather, boozy berries, and spicy pinecone.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "125.1",
+    "price": "Pending",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Maple and brown sugar being warmed on a stove. Brown sugar that keeps coming at you, pancakes and real syrup, and vanilla cream with proof that jumps out.",
+      "palate": "Apricot. The first sip was proof from a sledgehammer, then leather and vanilla cream like a diamond crown cigar.",
+      "finish": "Depth 2 and linger 2.5, with boozy raspberry and boozy strawberry showing up at the end, then drying to a spicy pinecone.",
+      "table": "A sweet, syrupy, high-proof rye that opens with breakfast-dessert richness and lands on berry heat and piney spice."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Woodford Reserve BS Rye Mar26.pdf"
+    "localSourceFile": "Woodford Reserve BS Rye Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "woodford-reserve-dist-select-may23",
@@ -9714,23 +9755,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Woodford Reserve Distiller's Select bourbon with vanilla-banana, light citrus, light oak, thin mouthfeel, oak bitterness, and an unremarkable read.",
+    "reviewers": [
+      "Pat",
+      "Jason",
+      "Josh"
+    ],
+    "proof": "90.4",
+    "price": "~$35",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla-banana, vanilla wafers, Grandma's vanilla wafer pudding, a hint of citrus, and light oak.",
+      "palate": "Vanilla-banana and light oak on the back of the palate. There is an oak bitterness that was unpleasant, and the mouthfeel was thin and not very coating.",
+      "finish": "Short, no burn, and drinks lower proof than 90.4.",
+      "table": "Unremarkable. For the money there are better options available, but this still has name recognition and tastes more oaked compared to its peers."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Woodford Reserve Dist Select May23.pdf"
+    "localSourceFile": "Woodford Reserve Dist Select May23.pdf",
+    "tastingDate": "2023-05-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "woodford-reserve-double-oaked-yogis-private-aug24",
@@ -9745,23 +9792,29 @@ window.TBT_REVIEWS = [
       "Store pick",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Woodford Reserve Double Oaked Yogi's private pick with confectioner's sugar, vanilla, baking spice, red fruit, coffee, and a hard-root-beer-candy finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Fisher"
+    ],
+    "proof": "92.4",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Confectioner's sugar, vanilla, and baking spices.",
+      "palate": "Tongue-tickling effervescence with red fruit and coffee.",
+      "finish": "Short but lingers on the tongue, drying to a hard root beer candy.",
+      "table": "A sweet and lively Double Oaked pick that leans dessert first before a nostalgic root-beer-candy close."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Woodford Reserve Double Oaked Yogis private Aug24.pdf"
+    "localSourceFile": "Woodford Reserve Double Oaked Yogis private Aug24.pdf",
+    "tastingDate": "2024-08-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "woodford-reserve-masters-collection-mar25",
@@ -9774,23 +9827,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Woodford Reserve Master's Collection pour with maple syrup, butterscotch, light oak, orange zest, oily viscosity, and a hot short finish.",
+    "reviewers": [
+      "Josh",
+      "Mike",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "119.5",
+    "price": "$130",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Maple syrup and butterscotch with light oakiness and light earthiness.",
+      "palate": "A little punch lets you know it is cask strength, yet it stays light on the tongue with nice oily viscosity. Reminds The Table of an oily orange zest.",
+      "finish": "Lingering hot finish that is short, about 1.5, and probably a function of its proof.",
+      "table": "High proof shows itself quickly, but the best parts are maple, butterscotch, orange oil, and a surprisingly light texture."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Woodford Reserve Masters Collection Mar25.pdf"
+    "localSourceFile": "Woodford Reserve Masters Collection Mar25.pdf",
+    "tastingDate": "2025-03-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "woodinville-rye-dec25",
@@ -9803,23 +9863,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Woodinville Rye with Grape Now and Later, Twizzler, grain, grain-forward palate, light mouthfeel, throat linger, and a plastic-leaning finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Eeten",
+      "Fisher"
+    ],
+    "proof": "90",
+    "price": "$45",
+    "classification": "Rye Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grape Now and Later, Twizzler, and slightly grainy notes.",
+      "palate": "Grain forward with very light mouthfeel. Drinks like 90 proof and there is not much to it.",
+      "finish": "Lingers in the throat, about 1, leaning toward plasticity on the finish.",
+      "table": "A light rye that showed candy-grape promise on the nose but turned simple, grainy, and slightly plastic by the finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Woodinville Rye Dec25.pdf"
+    "localSourceFile": "Woodinville Rye Dec25.pdf",
+    "tastingDate": "2025-12-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wyoming-whiskey-double-cask-feb24",
@@ -9832,23 +9899,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "American Whiskey"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "American Whiskey",
-    "confidence": "title-only",
+    "summary": "A Wyoming Whiskey Double Cask with balsa wood, lemon zest, caramel green apple, sherry sweetness, tannic oak, and a short clean finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$65",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light wood almost like balsa, lemon zest, and caramel apple made with a green apple.",
+      "palate": "Sweetness from the sherry cask finish comes through with a lightly oaky tannic feel. Almost left The Table wanting more proof, as if Luke and Isaac stole some and tried to hide that fact by adding water to the bottle.",
+      "finish": "Short and clean.",
+      "table": "A light, sherry-sweet whiskey with green-apple brightness and enough tannic oak to make the missing proof feel noticeable."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wyoming Whiskey Double Cask Feb24.pdf"
+    "localSourceFile": "Wyoming Whiskey Double Cask Feb24.pdf",
+    "tastingDate": "2024-02-01",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wyoming-whiskey-outryder-bib-apr25",
@@ -9862,23 +9935,30 @@ window.TBT_REVIEWS = [
       "American Whiskey",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "American Whiskey",
-    "confidence": "title-only",
+    "summary": "A blind Wyoming Whiskey Outryder bottled-in-bond bourbon with wet grass, corn husk, dusty caramel, magic marker, grape, corn, baked nutmeg, and bitter heat.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "100",
+    "price": "$65",
+    "classification": "Bourbon - 4 Years",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Earthy wet grass, corn husk, dusty caramel, ethanol heat, magic marker, and marshmallow.",
+      "palate": "A little bit of grape, medium-thick mouthfeel, corn, proof spice, charcoal, baked nutmeg, and browned spices.",
+      "finish": "A little bitter with lingering heat, about 2.",
+      "table": "Blind review, reveal as The Table went. Ranked fourth of five; the sheet says it was better the first time tasted but a little disappointing here."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wyoming Whiskey Outryder BiB Apr25.pdf"
+    "localSourceFile": "Wyoming Whiskey Outryder BiB Apr25.pdf",
+    "tastingDate": "2025-04-17",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "yellow-spot-12yr-jan26",
@@ -9891,23 +9971,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Irish Whiskey"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Yellow Spot 12 Year Irish whiskey with pear, light honeysuckle, hot honey, light hay, underproofed feel, Scotch-like lightness, and tongue heat.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "92",
+    "price": "$90",
     "classification": "Irish Whiskey",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Pear, very light overall, with a small amount of ethanol and light honeysuckle.",
+      "palate": "Mike's Hot Honey, light and almost fragile mouthfeel with some light hay. Seemed underproofed and drinks like a light Scotch or light Irish whiskey leaning slightly malty.",
+      "finish": "No depth, about 0, but lingering heat on the tongue.",
+      "table": "A delicate Irish whiskey that showed pear, honey, and hay but felt too light and underpowered for the table's taste."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Yellow Spot 12yr Jan26.pdf"
+    "localSourceFile": "Yellow Spot 12yr Jan26.pdf",
+    "tastingDate": "2026-01-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "yellowstone-2020-special-reserve-sept25",
@@ -9920,23 +10006,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Yellowstone 2020 Special Release bourbon with wet oak, corn husk, evergreen, pine, light crushable mouthfeel, cinnamon, peanut, and drying ethanol.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "101",
+    "price": "$80",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wet oak, wet corn husks, evergreen, and pine.",
+      "palate": "Highly crushable with a light mouthfeel, light effervescence, lingering ethanol, and flavors dominated by cinnamon and peanut.",
+      "finish": "Short, about 1.5, and drying. Pulls to the center of the tongue with ethanol.",
+      "table": "A lighter, crushable Yellowstone with woodshed and corn-husk aromatics, then cinnamon, peanut, and drying ethanol."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Yellowstone 2020 Special Reserve Sept25.pdf"
+    "localSourceFile": "Yellowstone 2020 Special Reserve Sept25.pdf",
+    "tastingDate": "2025-09-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "yellowstone-select-dec25",
@@ -9949,29 +10042,36 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Yellowstone Select bourbon with magic marker, dry wooden building, generic sweetness, chocolate-covered brownie, light honey, and astringent oak.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Scarfe",
+      "Eeten"
+    ],
+    "proof": "93",
+    "price": "$40",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Magic marker being smelled in a dry wooden building with a generic sweetness in the air.",
+      "palate": "Chocolate-covered brownie and light honey.",
+      "finish": "Dries astringent like oak.",
+      "table": "A straightforward Yellowstone that starts with marker and dry wood, finds brownie sweetness, then closes with dry oak."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Yellowstone Select Dec25.pdf"
+    "localSourceFile": "Yellowstone Select Dec25.pdf",
+    "tastingDate": "2025-12-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   }
 ];
 window.TBT_STATS = {
-  "totalIndexed": 282,
-  "localBatch": 282,
-  "sampleTranscribed": 261,
+  "totalIndexed": 281,
+  "localBatch": 281,
+  "sampleTranscribed": 281,
   "firstYear": 2022,
   "latestYear": 2026
 };
