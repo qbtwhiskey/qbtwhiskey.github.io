@@ -305,6 +305,14 @@ const externalLinks = (review) => {
   ];
 };
 
+const resetDialogScroll = () => {
+  requestAnimationFrame(() => {
+    els.dialog.scrollTo({ top: 0, left: 0, behavior: "auto" });
+    els.dialogContent.scrollTo({ top: 0, left: 0, behavior: "auto" });
+    els.dialogClose.focus({ preventScroll: true });
+  });
+};
+
 const openReview = (review) => {
   const notes = review.notes || {};
   const related = findRelated(review, 3);
@@ -385,6 +393,7 @@ const openReview = (review) => {
   `;
 
   if (!els.dialog.open) els.dialog.showModal();
+  resetDialogScroll();
 };
 
 const bindEvents = () => {
