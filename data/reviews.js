@@ -4317,23 +4317,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
+    "summary": "A Jack Daniels Distillery Series straight rye with sugared banana, caramel, cinnamon, flambeed sugar, vanilla custard, cherry cola, coffee grounds, and a short heated finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat",
+      "Mike"
+    ],
+    "proof": "107",
     "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "classification": "Rye Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Lightly sugared bananas, caramels and cinnamon, flambeed sugar with vanilla custard, and a fall-season impression.",
+      "palate": "Slightly flat cherry cola with maraschino cherries, bananas, and coffee grounds.",
+      "finish": "Short, about 1, with lingering heat in the back of the throat.",
+      "table": "The header appears to note a high-toast maple finish, giving this rye a sweeter, fall-spice profile."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Distillery Series Rye Sept25.pdf"
+    "localSourceFile": "Jack Daniels Distillery Series Rye Sept25.pdf",
+    "tastingDate": "2025-09-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-maple-aug24",
@@ -4346,23 +4353,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Maple whiskey with light caramel, vanilla, smoke, pancakes with artificial syrup, honey, and a light profile that The Table wanted at higher proof.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "80",
+    "price": "$65",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light notes of caramel and vanilla, a hint of smoke, and overall too light.",
+      "palate": "Pancakes with artificial syrup. Too light; The Table thought it needed 15 to 20 more proof.",
+      "finish": "About 2.5, drying to honey.",
+      "table": "A flavored-leaning maple pour that had the right breakfast-dessert direction but not enough proof or weight for The Table."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Maple Aug24.pdf"
+    "localSourceFile": "Jack Daniels Maple Aug24.pdf",
+    "tastingDate": "2024-08-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-barrel-proof-aug24",
@@ -4377,23 +4390,29 @@ window.TBT_REVIEWS = [
       "Single barrel",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Single Barrel Barrel Proof whiskey with potent ethanol, charred barrel, scorched caramel, flambeed bananas foster, nutty notes, cherry cola, and a medium finish.",
+    "reviewers": [
+      "Beenders",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "129.6",
+    "price": "$71",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Potent ethanol, charred barrel, and scorched caramel.",
+      "palate": "Flambeed bananas foster with a nutty note. Banana comes first, with cherry cola behind it.",
+      "finish": "Slow to get there, but it settles into a medium finish.",
+      "table": "A hot, barrel-forward Jack Daniels pour with banana, caramel, nuttiness, and cola depth behind the proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Barrel Proof Aug24.pdf"
+    "localSourceFile": "Jack Daniels SiB Barrel Proof Aug24.pdf",
+    "tastingDate": "2024-08-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-heritage-toasted-jan26",
@@ -4408,23 +4427,29 @@ window.TBT_REVIEWS = [
       "Single barrel",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jack Daniels Single Barrel Heritage Toasted bourbon with dust, grain, soft oak, vanilla, buttery grain, caramel-toffee sweetness, marshmallow, oil, brown sugar, and lingering depth.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dust, grain, soft oak, vanilla, and a traditional profile.",
+      "palate": "Buttery grain, caramel or toffee sweetness, muted flavors, some marshmallow, oily texture, and brown sugar sweetness.",
+      "finish": "Lingering depth.",
+      "table": "A soft, traditional, toasted-profile Jack Daniels pour where the flavors are present but somewhat muted."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Heritage Toasted Jan26.pdf"
+    "localSourceFile": "Jack Daniels SiB Heritage Toasted Jan26.pdf",
+    "tastingDate": "2026-01-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-heritage-toasted-mar26",
@@ -4439,23 +4464,30 @@ window.TBT_REVIEWS = [
       "Single barrel",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
+    "summary": "A Jack Daniels Single Barrel Heritage Toasted Tennessee whiskey with banana, yeast, caramelized sugar, boozy dark banana, peanut-butter-parfait notes, oily mouthfeel, walnut, bread, and graham cracker.",
+    "reviewers": [
+      "Josh",
+      "Mike",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
     "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "classification": "Tennessee Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana, yeast, caramelized sugar, and a proofy impression.",
+      "palate": "A booze-soaked dark banana, with some peanut like a homemade peanut butter parfait. The peanuts are also boozy, with an oily mouthfeel.",
+      "finish": "Depth 1.5 and linger 1.5, drying to walnut, bread, and graham cracker.",
+      "table": "A darker, boozier banana-and-peanut Jack Daniels profile with oily texture and bakery notes on the drydown."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Heritage Toasted Mar26.pdf"
+    "localSourceFile": "Jack Daniels SiB Heritage Toasted Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-special-release-rye-feb23",
@@ -4469,23 +4501,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jack Daniels Single Barrel Special Release rye with upfront vanilla, ethanol, light wet oak, earthy notes, salted caramel, medium spice, and white pepper.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "130.9",
+    "price": "$225",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla upfront with a tingle from slight ethanol, plus light oak in the background, wet and slightly earthy.",
+      "palate": "Light mouthfeel with salt at the front of the tongue, vanilla with a light caramel drizzle, reminiscent of sea-salted caramels.",
+      "finish": "Medium finish with a spike on the tongue toward the end, drying to a slight spice of white pepper.",
+      "table": "A high-proof Jack Daniels rye where vanilla, salted caramel, wet oak, and white pepper carry the experience."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Special Release Rye Feb23.pdf"
+    "localSourceFile": "Jack Daniels SiB Special Release Rye Feb23.pdf",
+    "tastingDate": "2023-02-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-special-reserve-rye-oct24",
@@ -4499,23 +4537,30 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jack Daniels Single Barrel Special Reserve rye with coffee, stone fruit, astringency, cinnamon, light sugar, molasses, dry wood, banana, spiced creme brulee, and a short finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "130.5",
+    "price": "$160 paid / $60 MSRP",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Coffee, stone fruit, astringency, cinnamon, and light sugar.",
+      "palate": "Punch with baking spices, molasses, dry wood, banana, and spiced creme brulee.",
+      "finish": "Short, about 1.",
+      "table": "Blind tasting: the sheet marks it fourth on quick tasting, yet also says it ranked first of four and was loved. After reduction, it was no good and lost character; all said right proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Special Reserve Rye Oct24.pdf"
+    "localSourceFile": "Jack Daniels SiB Special Reserve Rye Oct24.pdf",
+    "tastingDate": "2024-10-24",
+    "color": "Dark",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sib-store-pick-june25",
@@ -4530,23 +4575,31 @@ window.TBT_REVIEWS = [
       "Store pick",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Single Barrel store pick rye with wintergreen, juicy fruit, steak-sauce savoriness, mint, dill, honeydew, cantaloupe, heat, buttered toast, electricity, and a savory-sweet finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat",
+      "Andrew"
+    ],
+    "proof": "136.9",
+    "price": "$65",
+    "classification": "Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wintergreen, fruity notes, Juicy Fruit, some kind of steak sauce, mint, dill, and savory notes.",
+      "palate": "Honeydew, cantaloupe, heat, savory spiced mints, buttery buttered toast, dill, and a taste like electricity.",
+      "finish": "Not separately captured; the palate carries heat, mint, dill, and savory sweetness.",
+      "table": "Favorite of the night. The sheet says it would pair well with a German dish, fish, or something sweet."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels SiB Store pick June25.pdf"
+    "localSourceFile": "Jack Daniels SiB Store pick June25.pdf",
+    "tastingDate": "2025-06-12",
+    "color": "Medium copper",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-sinatra-select-jan23",
@@ -4559,23 +4612,25 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Jack Daniels Sinatra Select American whiskey with roasted sugar, creamy vanilla, cherry cola, a smoother mouthfeel, and a short-to-medium vanilla finish.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "proof": "90",
+    "price": "$130",
+    "classification": "American Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Roasted sugar with hints of creamy vanilla.",
+      "palate": "Smoother mouthfeel than Jack Daniels Bonded, with hints of cherry cola and strong creamy vanilla flavors.",
+      "finish": "Short to medium finish with lingering vanilla.",
+      "table": "No edges anywhere. Seems like a much more balanced and well-rounded version of Jack Daniels Bonded."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Sinatra Select Jan23.pdf"
+    "localSourceFile": "Jack Daniels Sinatra Select Jan23.pdf",
+    "tastingDate": "2023-01-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "james-pepper-barrel-proof-oct24",
@@ -9096,7 +9151,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 121,
+  "sampleTranscribed": 130,
   "firstYear": 2022,
   "latestYear": 2026
 };
