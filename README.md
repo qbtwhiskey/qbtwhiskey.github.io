@@ -7,7 +7,7 @@ Static first-pass website for The Bourbon Table, a Central Illinois whiskey revi
 - `index.html` - the full static website page.
 - `styles.css` - noir lounge visual system, responsive layout, review cards, modal styling.
 - `app.js` - search, filters, quick style chips, review detail modal, and related-pour recommendations.
-- `data/reviews.js` - indexed review data from the Google Drive inventory, now matched to the full local PDF set, with 100 manually standardized sample reviews.
+- `data/reviews.js` - indexed review data from the Google Drive inventory, now matched to the full local PDF set, with 106 manually standardized sample reviews.
 - `assets/images/hero-lounge.png` - original lounge/table hero image generated for this project.
 - `assets/images/leather-texture.png` - original texture image used for atmosphere.
 - `assets/images/favicon.png` - simple TBT favicon.
@@ -17,8 +17,8 @@ Static first-pass website for The Bourbon Table, a Central Illinois whiskey revi
 - 282 PDFs are indexed from the Google Drive folder inventory.
 - 282 PDFs are available locally from `bb_taste_all_282`.
 - 281 review sheets have generated transcription crops; `1BLANK.pdf` is skipped as the blank template.
-- 100 reviews have sample standardized tasting notes.
-- 95 additional local reviews were transcribed after the initial 5-review sample.
+- 106 reviews have sample standardized tasting notes.
+- 101 additional local reviews were transcribed after the initial 5-review sample.
 - The remaining reviews are title/date/style indexed and marked as reviewed with notes pending.
 
 ## Local Review
