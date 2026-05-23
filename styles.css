@@ -1,15 +1,15 @@
 :root {
   color-scheme: dark;
   --black: #020202;
-  --ink: #090909;
-  --charcoal: #141414;
-  --charcoal-2: #22201d;
-  --leather: #2e2924;
-  --saddle: #6b5b41;
-  --amber: #c4934c;
-  --brass: #d8c383;
-  --paper: #f6f1e8;
-  --paper-muted: #bbb5aa;
+  --ink: #090806;
+  --charcoal: #151311;
+  --charcoal-2: #24201b;
+  --leather: #3a2519;
+  --saddle: #765a32;
+  --amber: #c28b3c;
+  --brass: #d9bd72;
+  --paper: #f7efe2;
+  --paper-muted: #c3b7a5;
   --blue: #24323a;
   --blue-bright: #b2c5cf;
   --line: rgba(246, 241, 232, 0.2);
@@ -33,8 +33,8 @@ body {
   margin: 0;
   min-width: 320px;
   background:
-    linear-gradient(112deg, rgba(246, 241, 232, 0.085) 0%, transparent 22rem),
-    linear-gradient(180deg, #020202 0%, #111 44%, #050505 100%);
+    linear-gradient(112deg, rgba(217, 189, 114, 0.09) 0%, transparent 22rem),
+    linear-gradient(180deg, #020202 0%, #11100e 44%, #050403 100%);
   color: var(--paper);
 }
 
@@ -44,8 +44,8 @@ body::before {
   z-index: -1;
   background: url("assets/images/leather-texture.png") center / 540px auto;
   content: "";
-  filter: grayscale(1) contrast(1.35);
-  opacity: 0.08;
+  filter: grayscale(0.65) sepia(0.22) contrast(1.35);
+  opacity: 0.09;
   mix-blend-mode: screen;
 }
 
@@ -54,7 +54,8 @@ body::after {
   inset: 0;
   z-index: -1;
   background:
-    repeating-linear-gradient(96deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 42px),
+    repeating-linear-gradient(96deg, rgba(255, 255, 255, 0.035) 0 1px, transparent 1px 42px),
+    linear-gradient(112deg, rgba(217, 189, 114, 0.06), transparent 28rem),
     linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.45));
   content: "";
   opacity: 0.35;
@@ -129,13 +130,13 @@ button {
   width: 2.9rem;
   height: 2.9rem;
   place-items: center;
-  border: 1px solid rgba(246, 241, 232, 0.46);
+  border: 1px solid rgba(217, 189, 114, 0.58);
   border-radius: 50%;
   background:
     linear-gradient(145deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.02)),
     rgba(4, 4, 4, 0.88);
-  color: var(--paper);
-  box-shadow: inset 0 0 18px rgba(255, 255, 255, 0.08);
+  color: #f3dfac;
+  box-shadow: inset 0 0 18px rgba(217, 189, 114, 0.1);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 0.86rem;
   letter-spacing: 0.08em;
@@ -194,9 +195,9 @@ button {
 
 .hero-media {
   background:
-    linear-gradient(90deg, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.7) 42%, rgba(0, 0, 0, 0.18) 78%),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.94) 0%, rgba(0, 0, 0, 0.58) 42%, rgba(0, 0, 0, 0.08) 78%),
     url("assets/images/hero-lounge.png") center / cover no-repeat;
-  filter: grayscale(1) contrast(1.2) brightness(0.82);
+  filter: grayscale(0.86) sepia(0.16) saturate(0.82) contrast(1.18) brightness(0.9);
   transform: scale(1.015);
 }
 
@@ -215,7 +216,7 @@ button {
 
 .hero-shade {
   background:
-    linear-gradient(108deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.05) 18%, transparent 34%),
+    linear-gradient(108deg, rgba(255, 255, 255, 0.15) 0%, rgba(217, 189, 114, 0.075) 18%, transparent 36%),
     linear-gradient(180deg, rgba(2, 2, 2, 0.04) 0%, rgba(2, 2, 2, 0.34) 54%, rgba(2, 2, 2, 0.98) 100%);
 }
 
@@ -297,14 +298,19 @@ button {
 }
 
 .button-primary {
-  border-color: rgba(246, 241, 232, 0.72);
-  background: linear-gradient(180deg, #fff, #b7b2a8);
-  color: #060606;
+  border-color: rgba(217, 189, 114, 0.86);
+  background:
+    linear-gradient(180deg, rgba(255, 246, 220, 0.96), rgba(181, 132, 55, 0.96)),
+    linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.22), transparent);
+  color: #100a04;
   font-weight: 800;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.36), 0 12px 34px rgba(0, 0, 0, 0.34);
 }
 
 .button-secondary {
-  background: rgba(8, 8, 8, 0.82);
+  border-color: rgba(217, 189, 114, 0.32);
+  background:
+    linear-gradient(180deg, rgba(45, 32, 21, 0.72), rgba(5, 5, 4, 0.86));
   color: var(--paper);
 }
 
@@ -324,8 +330,8 @@ button {
   border: 1px solid var(--line);
   border-left-width: 0;
   background:
-    linear-gradient(155deg, rgba(255, 255, 255, 0.07), transparent 48%),
-    rgba(10, 10, 10, 0.94);
+    linear-gradient(155deg, rgba(255, 246, 220, 0.08), transparent 48%),
+    linear-gradient(180deg, rgba(20, 17, 13, 0.96), rgba(6, 5, 4, 0.96));
   box-shadow: var(--shadow);
 }
 
@@ -402,8 +408,8 @@ button {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
-    linear-gradient(160deg, rgba(255, 255, 255, 0.055), transparent 52%),
-    rgba(7, 7, 7, 0.82);
+    linear-gradient(160deg, rgba(217, 189, 114, 0.06), transparent 52%),
+    rgba(8, 7, 6, 0.84);
 }
 
 .archive-tools label {
@@ -448,7 +454,7 @@ select:focus {
   padding: 0.45rem 0.7rem;
   border: 1px solid rgba(246, 241, 232, 0.26);
   border-radius: 999px;
-  background: rgba(18, 18, 18, 0.82);
+  background: rgba(18, 15, 12, 0.84);
   color: var(--paper);
   font-size: 0.86rem;
 }
@@ -491,12 +497,13 @@ select:focus {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
-    linear-gradient(125deg, rgba(255, 255, 255, 0.085), transparent 44%),
-    linear-gradient(180deg, rgba(18, 18, 18, 0.95), rgba(4, 4, 4, 0.96));
+    linear-gradient(125deg, rgba(255, 246, 220, 0.085), transparent 44%),
+    repeating-linear-gradient(90deg, rgba(217, 189, 114, 0.035) 0 1px, transparent 1px 16px),
+    linear-gradient(180deg, rgba(23, 20, 16, 0.97), rgba(5, 4, 3, 0.98));
   color: var(--paper);
   cursor: pointer;
   text-align: left;
-  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.48);
+  box-shadow: inset 0 1px 0 rgba(255, 246, 220, 0.06), 0 16px 48px rgba(0, 0, 0, 0.48);
   outline: none;
   transition: transform 160ms ease, border-color 160ms ease;
 }
@@ -536,7 +543,7 @@ select:focus {
   padding: 0.28rem 0.45rem;
   border: 1px solid rgba(246, 241, 232, 0.24);
   border-radius: 999px;
-  background: rgba(0, 0, 0, 0.42);
+  background: rgba(8, 6, 5, 0.54);
   color: var(--paper-muted);
   font-size: 0.75rem;
 }
@@ -578,8 +585,9 @@ select:focus {
   min-height: 10rem;
   padding: 1rem;
   background:
-    linear-gradient(118deg, rgba(255, 255, 255, 0.1), transparent 44%),
-    linear-gradient(180deg, rgba(20, 20, 20, 0.95), rgba(5, 5, 5, 0.96));
+    linear-gradient(118deg, rgba(255, 246, 220, 0.1), transparent 44%),
+    repeating-linear-gradient(90deg, rgba(217, 189, 114, 0.03) 0 1px, transparent 1px 18px),
+    linear-gradient(180deg, rgba(25, 21, 17, 0.95), rgba(5, 4, 3, 0.96));
   color: var(--paper);
   text-align: left;
   transition: transform 160ms ease, border-color 160ms ease;
@@ -601,9 +609,9 @@ select:focus {
   margin: clamp(1rem, 3vw, 2rem) 0;
   padding: clamp(4rem, 9vw, 7rem) clamp(1rem, 4vw, 3rem);
   background:
-    linear-gradient(96deg, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.78) 58%, rgba(0, 0, 0, 0.96) 100%),
-    linear-gradient(120deg, rgba(255, 255, 255, 0.1) 0%, transparent 34%),
-    linear-gradient(135deg, #050505, #171717 52%, #030303);
+    linear-gradient(96deg, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.76) 58%, rgba(0, 0, 0, 0.96) 100%),
+    linear-gradient(120deg, rgba(217, 189, 114, 0.1) 0%, transparent 34%),
+    linear-gradient(135deg, #050403, #181511 52%, #030303);
 }
 
 .story-panel {
@@ -685,7 +693,7 @@ select:focus {
   padding: 0;
   border: 1px solid rgba(246, 241, 232, 0.34);
   border-radius: var(--radius);
-  background: #070707;
+  background: #070604;
   color: var(--paper);
   box-shadow: var(--shadow);
 }
@@ -717,8 +725,9 @@ select:focus {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
-    linear-gradient(118deg, rgba(255, 255, 255, 0.1), transparent 42%),
-    linear-gradient(145deg, rgba(24, 24, 24, 0.96), rgba(4, 4, 4, 0.98));
+    linear-gradient(118deg, rgba(255, 246, 220, 0.11), transparent 42%),
+    repeating-linear-gradient(90deg, rgba(217, 189, 114, 0.03) 0 1px, transparent 1px 18px),
+    linear-gradient(145deg, rgba(27, 22, 17, 0.96), rgba(4, 4, 3, 0.98));
 }
 
 .dialog-hero h2 {
@@ -749,7 +758,7 @@ select:focus {
 .external-link {
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: rgba(0, 0, 0, 0.36);
+  background: rgba(5, 4, 3, 0.44);
 }
 
 .meta-cell {
@@ -888,19 +897,24 @@ select:focus {
   }
 
   .hero {
-    min-height: 780px;
-    padding-top: 6.5rem;
+    min-height: 640px;
+    padding-top: 3rem;
+    padding-bottom: 2.25rem;
   }
 
   .hero-media {
     background:
-      linear-gradient(180deg, rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.9) 62%, rgba(0, 0, 0, 0.98) 100%),
+      linear-gradient(180deg, rgba(0, 0, 0, 0.18), rgba(0, 0, 0, 0.82) 56%, rgba(0, 0, 0, 0.98) 100%),
       url("assets/images/hero-lounge.png") center / cover no-repeat;
     transform: none;
   }
 
+  .hero-content {
+    padding-bottom: 0;
+  }
+
   .hero h1 {
-    font-size: clamp(3.4rem, 18vw, 5.2rem);
+    font-size: clamp(3.2rem, 16vw, 4.85rem);
   }
 
   .stats-band,
