@@ -4101,23 +4101,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels 10 year Tennessee whiskey with brown sugar, apple crisp, caramel warmth, creamy sweet peanut, banana, and a short smooth wood finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "97",
+    "price": "$65",
+    "classification": "Tennessee Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Brown sugar jumps out, apple crisp, caramel warmth, specific and easy to discern.",
+      "palate": "Creamy, sweet peanut, and bananas pop.",
+      "finish": "Short, about 0.5, smooth, with wood that lingers.",
+      "table": "The Table loved it. It ranked second of five on quick tasting and was compared in first place."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels 10yr July25.pdf"
+    "localSourceFile": "Jack Daniels 10yr July25.pdf",
+    "tastingDate": "2025-07-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-bib-feb24",
@@ -4131,23 +4138,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Bottled-in-Bond Tennessee whiskey with banana, brown sugar, walnut bread, light oak, vanilla, peanut, spiced heat, green tea, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$38 / 1 liter",
+    "classification": "Bourbon (Tennessee Whiskey)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Quintessential Jack Daniels nose of banana, sweet sugary brown sugar, banana walnut bread, nuts or walnuts, and a very light oak note.",
+      "palate": "Vanilla, banana, sweetness, goes so well with dinner, \"slamable,\" very slight bitterness, peanut, spiced heat, and green tea.",
+      "finish": "Short.",
+      "table": "Available for sale at duty-free locations and military PXs. The sheet notes this is different from Jack Daniels Bonded, but both offer a similar experience; Bonded can be purchased for $38 in 700 ml bottles in Illinois."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels BiB Feb24.pdf"
+    "localSourceFile": "Jack Daniels BiB Feb24.pdf",
+    "tastingDate": "2024-02-07",
+    "color": "Medium amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-bonded-mar24",
@@ -4161,23 +4175,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Bonded whiskey with aged pear, sweetness, warm bananas, walnuts, nuttiness, creaminess, spice, and a short clean finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$36",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Aged pear that is beginning to be eaten before it goes bad, with a nice sweetness.",
+      "palate": "Warm bananas with walnuts, very nutty and very easy to drink, with some creaminess and a nice amount of spice.",
+      "finish": "Short but lingering and clean.",
+      "table": "A friendly bonded pour where ripe pear, banana, walnut, cream, and spice do most of the work."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Bonded Mar24.pdf"
+    "localSourceFile": "Jack Daniels Bonded Mar24.pdf",
+    "tastingDate": "2024-03-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-bonded-rye-jan26",
@@ -4191,23 +4211,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Bonded Rye with ripe banana, Brown-Forman character, banana nut bread, light mouthfeel, oak bitterness, and a short finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "100",
+    "price": "$40",
+    "classification": "Rye Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana as it becomes ripe and starts to turn, but in a good way. Smells like a Brown-Forman product.",
+      "palate": "The nose feels prominent during the sip, with a light mouthfeel of banana nut bread.",
+      "finish": "Short, about 1, with a short linger finishing in an oaky bitterness on the back of the tongue.",
+      "table": "A rye whiskey that still leads with familiar Jack Daniels and Brown-Forman banana character."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Bonded Rye Jan26.pdf"
+    "localSourceFile": "Jack Daniels Bonded Rye Jan26.pdf",
+    "tastingDate": "2026-01-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-coy-hill-july25",
@@ -4220,23 +4246,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Coy Hill 2024 Tennessee whiskey with peanut brittle, molasses, cherry-grape cola, dry oak, melted caramel, and a medium-short finish that leaves you wanting more.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason",
+      "Mike"
+    ],
+    "proof": "129.6",
+    "price": "$100",
+    "classification": "Tennessee Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Peanut brittle on the stovetop being heated to a hard crack with some molasses stirred in.",
+      "palate": "Cherry and grape colas dance and then turn slightly dry, possibly from oak aging. Melted caramel that has baked in the sun over young wet white oak. Drying, but makes you want to go back for more.",
+      "finish": "Medium-short, about 1.5, that flames up at the end and leaves you wanting more.",
+      "table": "A vivid Coy Hill pour with candy-shop heat, cola fruit, caramel, and drying oak."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Coy Hill July25.pdf"
+    "localSourceFile": "Jack Daniels Coy Hill July25.pdf",
+    "tastingDate": "2025-07-15",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-coy-hill-sept24",
@@ -4249,23 +4282,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jack Daniels Coy Hill whiskey with fruit, spice, stone fruit, Fig Newton, ethanol, nougat, smooth oily mouthfeel, cherry Cheerios, and a short wet-wood finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "136",
+    "price": "$220 paid",
+    "classification": "Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Fruit, spice, stone fruit, Fig Newton, ethanol, and nougat.",
+      "palate": "Smooth, oily mouthfeel with cherry Cheerios.",
+      "finish": "Short, with wet wood.",
+      "table": "Compared with Lucky Seven The Proprietor 14 year. Beenders and Scarfe chose this, though it ranked fifth on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jack Daniels Coy Hill Sept24.pdf"
+    "localSourceFile": "Jack Daniels Coy Hill Sept24.pdf",
+    "tastingDate": "2024-09-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jack-daniels-distillery-series-rye-sept25",
@@ -9057,7 +9096,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 115,
+  "sampleTranscribed": 121,
   "firstYear": 2022,
   "latestYear": 2026
 };
