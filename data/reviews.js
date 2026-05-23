@@ -3353,23 +3353,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A George T. Stagg 2023 BTAC bourbon with grape, purple drink, grape wood, dark cherry, ethanol spice, thick mouthfeel, grain, and a medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Benders",
+      "Fish"
+    ],
+    "proof": "135",
+    "price": "$199",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grape, purple drink, and grape wood.",
+      "palate": "Dark cherry, effervescent, ethanol spice, thick mouthfeel, grain, dries to grape on the tongue, and a grape-bomb impression.",
+      "finish": "Medium.",
+      "table": "Ranked fourth of five on quick tasting, but number one on the night. Price note says Binny's."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "George T Stagg _23 Jan24.pdf"
+    "localSourceFile": "George T Stagg _23 Jan24.pdf",
+    "tastingDate": "2024-01-16",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "green-river-full-proof-july24",
@@ -3382,23 +3388,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Green River Full Proof bourbon with dusty corn, cinnamon Red Hot candy, artificial sweetener, sweet heat, pink bubblegum, grain, and a medium burn.",
+    "reviewers": [
+      "Benders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "117.3",
+    "price": "$49",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dusty corn note, cinnamon Red Hot candy, and artificial sweetener.",
+      "palate": "Sweet heat, pink bubblegum, and grain.",
+      "finish": "B and F said it lingers but is short; the writer marked a full medium with a nice burn.",
+      "table": "Ranked number one on quick tasting when opened, but last on quick tasting later. Still described as decent compared with good bottles."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Green River Full Proof July24.pdf"
+    "localSourceFile": "Green River Full Proof July24.pdf",
+    "tastingDate": "2024-07-06",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "hall-of-champions-nov25",
@@ -3411,23 +3423,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Hall of Champions bourbon with spiced rum, malt, light malt, root wood, earthy notes, powdered sugar, sweetness, and a short finish.",
+    "reviewers": [
+      "Benders",
+      "Eeten",
+      "Scarfe"
+    ],
+    "proof": "102",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Spiced rum and malt.",
+      "palate": "Light malt, root wood, earthy notes, powdered sugar, and sweetness.",
+      "finish": "About 1.",
+      "table": "Blind tasting, ranked fifth of five on quick tasting. Overall note says it was very average, something The Table thought people would only buy for the golf-club decanter."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Hall of Champions Nov25.pdf"
+    "localSourceFile": "Hall of Champions Nov25.pdf",
+    "tastingDate": "2025-11-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "hard-truth-rye-apr25",
@@ -3440,23 +3458,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Hard Truth rye with caramel, green apple, brown sugar, spice, almond paste, marzipan, pecan pie dough crust, baked goods, almond cookie, high rye, chocolate, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$35",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, green apple, brown sugar, spice, almond paste, marzipan, pecan pie, and dough crust.",
+      "palate": "Rye, baked good, almond cookie, biscuit, grassy notes, high rye, chocolate, and peanut, but lacking depth and complexity.",
+      "finish": "Short, about 1.",
+      "table": "A rye-forward, bakery-sweet profile with enough recognizable notes but not much depth or complexity."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Hard Truth Rye Apr25.pdf"
+    "localSourceFile": "Hard Truth Rye Apr25.pdf",
+    "tastingDate": "2025-04-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "hardin-s-creek-colonel-beam-aug23",
@@ -3469,23 +3494,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Hardin's Creek Colonel Beam bourbon with peanut, light honey, roasted nut shell, smoky shell, a bit of honey, light mouthfeel, and a short finish.",
+    "reviewers": [
+      "Scarfe",
+      "Benders",
+      "Fish"
+    ],
+    "proof": "108",
+    "price": "$80",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Peanut, light honey, roasted nut shell, and smoky shell.",
+      "palate": "A bit of honey, light mouthfeel, evaporates, and the tongue dries to honey and nut shell.",
+      "finish": "Short.",
+      "table": "Beam night. Bottle kill, ranked number two on quick tasting. Header notes 2 years and that The Table was surprised by how young it was."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Hardin_s Creek Colonel Beam Aug23.pdf"
+    "localSourceFile": "Hardin_s Creek Colonel Beam Aug23.pdf",
+    "tastingDate": "2023-08-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "hardin-s-creek-jacobs-well-jan24",
@@ -3498,23 +3529,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Hardin's Creek Jacob's Well bourbon with cinnamon, charred wood, brown sugar, peanut, salted peanut toffee, caramel, thick mouthfeel, and a short-to-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Benders",
+      "Fish"
+    ],
+    "proof": "109",
+    "price": "$189",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cinnamon, charred wood, brown sugar, and peanut.",
+      "palate": "Salted peanut toffee, caramel, and thick mouthfeel.",
+      "finish": "Short to medium.",
+      "table": "Blind tasting and ranked fifth of five on quick tasting, but ranked third on the night. The side note lists the Hardin's Creek series: Colonel Beam, Jacob's Well, Frankfort, Clermont, and Boston."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Hardin_s Creek Jacobs Well Jan24.pdf"
+    "localSourceFile": "Hardin_s Creek Jacobs Well Jan24.pdf",
+    "tastingDate": "2024-01-16",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heaven-hill-bib-may23",
@@ -8920,7 +8957,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 94,
+  "sampleTranscribed": 100,
   "firstYear": 2022,
   "latestYear": 2026
 };
