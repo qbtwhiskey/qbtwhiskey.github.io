@@ -134,9 +134,9 @@ window.TBT_REVIEWS = [
     "featured": false,
     "notes": {
       "nose": "Strawberry, maybe grapes, fruit sweetness, and standard bourbon notes.",
-      "palate": "Light mouthfeel with light red fruit, maybe plum, sweetness, and an easy-to-drink profile. Some may find it overly sweet, like artificial sweetener or Fruit Stripe gum.",
+      "palate": "Light-bodied and easy-drinking, with soft red fruit notes, possibly plum, alongside a noticeable sweetness. Approachable but not complex or challenging. Some may find it overly sweet, leaning toward artificial sweetener or Fruit Stripe gum.",
       "finish": "Short.",
-      "table": "The proof guess was 100-95 and the price guess was $41. Since it is a single barrel, The Table noted the flavor profile will vary, but this bottle was highly drinkable and likely approachable for non-bourbon drinkers."
+      "table": "The Table guessed the proof in the 95-100 range and estimated the price at $41. Since it is a single barrel, The Table noted the flavor profile will vary bottle to bottle. This particular bottle was highly drinkable and approachable, especially for newer bourbon drinkers or even non-bourbon drinkers."
     },
     "tastingDate": "2023-09-20",
     "transcriptionSource": "local_zip_50_manual_pass",
