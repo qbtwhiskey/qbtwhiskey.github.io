@@ -9000,23 +9000,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Walleye Run malted rye with dust, honey, oak barrel, Expo marker, soft fruit, raspberry, mint, floral cherry blossom, light mouthfeel, easy drinking, and a short spicy finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "98",
+    "price": "$45",
+    "classification": "Malted Rye (51%)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dust, honey, oak barrel, Expo marker, soft fruit, and raspberry.",
+      "palate": "Different from the nose, sweet, spicy, mint, floral, cherry blossom, low proof, light mouthfeel, and easy drinking.",
+      "finish": "Spicy, lingering heat, short.",
+      "table": "A light, easy-drinking malted rye with a softer fruit side and a brief spice finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Walleye Run Malted Rye Nov25.pdf"
+    "localSourceFile": "Walleye Run Malted Rye Nov25.pdf",
+    "tastingDate": "2025-11-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "watershed-6yr-bs-fin-in-apple-brandy-feb26",
@@ -9030,23 +9036,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Watershed 6 Year barrel strength bourbon finished in apple brandy with rubber, ethanol, fresh tennis balls, tobacco, black licorice, black pepper, dark fruit, figs, green apple, and a very short finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "119.3",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Rubber, ethanol, fresh tennis balls, tobacco, black licorice, and black pepper.",
+      "palate": "Dark fruit, figs, much better palate than nose, feels old, corn-dusty, very dry, medium mouthfeel, a brackish salty-fish note, and green apple.",
+      "finish": "About 0 to 0.5, with linger 1.",
+      "table": "A challenging apple-brandy-finished Watershed where the palate outperformed the nose but still kept some sharp, dry edges."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Watershed 6yr BS fin in apple brandy Feb26.pdf"
+    "localSourceFile": "Watershed 6yr BS fin in apple brandy Feb26.pdf",
+    "tastingDate": "2026-02-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "watershed-barrel-strength-sib-select-oct24",
@@ -9060,23 +9073,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Watershed barrel strength single barrel select bourbon with caramel, chocolate, chocolate malt, Whoppers, ethanol, artificial raspberry, hot bitter oak, bubble-gum flavor packet, and a short throat-burn finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "127.2",
+    "price": "$40",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, chocolate, chocolate malt, chocolate Whopper, ethanol, and sugary artificial raspberry. The sheet says it is like walking into a restaurant that makes good desserts, meats, and raw shellfish.",
+      "palate": "Sugary notes, not effervescent, nice oak but hot bitter, artificial fruit notes, bubble-gum flavor packet, and a bit of alcohol burn that mellows.",
+      "finish": "High-in-the-throat burn, not low into the chest. First sip is a bit bitey, then mellows for a relatively short finish.",
+      "table": "A big, sweet, oddball Watershed pour with a dessert-and-shellfish nose note that is too specific not to preserve."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Watershed Barrel Strength SiB select Oct24.pdf"
+    "localSourceFile": "Watershed Barrel Strength SiB select Oct24.pdf",
+    "tastingDate": "2024-10-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "weller-107-antique-red-oct23",
@@ -9090,23 +9109,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A blind Weller Antique 107 bourbon with Cinnamon Red Hot, cinnamon candy disc, cherry pop, cinnamon spice, raisin, grape, and a short-to-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "107",
+    "price": "$59 Binny's",
+    "classification": "Straight Bourbon",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cinnamon Red Hot and Ben Franklin cinnamon disc.",
+      "palate": "Whoa. Cherry pop, cinnamon spice, raisin, and purple grape.",
+      "finish": "Short to medium.",
+      "table": "Tasted blind and marked fourth of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Weller 107 Antique red Oct23.pdf"
+    "localSourceFile": "Weller 107 Antique red Oct23.pdf",
+    "tastingDate": "2023-10-18",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "weller-107-vs-weller-full-proof-july-24",
@@ -9120,23 +9145,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Weller 107 versus Weller Full Proof comparison: the 107 showed dark amber color, cherry-grape, grape Nehi, effervescence, and spicy sweetness, while the Full Proof was darker, more muted, grapier, crushable, and smooth.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "107 & 114",
+    "price": "$50 & $60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Comparison heads up. Weller 107 was dark amber with cherry and grape. Weller Full Proof was dark amber, a single pick by Binny's, with a muted nose that was grapier.",
+      "palate": "The 107 showed grape Nehi, effervescence, and spicy sweetness. The Full Proof was crushable and smooth.",
+      "finish": "Comparison sheet; finish notes were not separated.",
+      "table": "Fish and Scarfe chose the 107, Beenders chose the Full Proof. The sheet marks the comparison third on quick tasting, with 107 at 2 of 5 and Full Proof at 3 of 5."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Weller 107 vs Weller Full Proof July 24.pdf"
+    "localSourceFile": "Weller 107 vs Weller Full Proof July 24.pdf",
+    "tastingDate": "2024-07-06",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "weller-full-proof-nov25",
@@ -9150,23 +9181,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Weller Full Proof bourbon with pink bubblegum, marker, straw, pine cone, rounded nose, candied cherry, fruit, wood astringency, grape, honey, honey butter, and a slow-drip finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Scarfe"
+    ],
+    "proof": "114",
+    "price": "$90",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Pink bubblegum, marker, straw, jumps out of the glass, pine cone, and rounded.",
+      "palate": "Coats tongue, floats with heat, candied cherry, fruit-forward, wood astringent feel, grape, sweet cherry, dries to honey, and honey butter.",
+      "finish": "About 2, slow drip.",
+      "table": "Excellent and marked the winner on quick tasting, despite a separate note of third of five on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Weller Full Proof Nov25.pdf"
+    "localSourceFile": "Weller Full Proof Nov25.pdf",
+    "tastingDate": "2025-11-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "weller-sib-orange-mar26",
@@ -9181,23 +9218,29 @@ window.TBT_REVIEWS = [
       "Single barrel",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Weller Single Barrel Orange bourbon with strong wood, ethanol, leather, mineral notes, dry dead cola, light mouthfeel, underproofed profile, oak-drying finish, and an underwhelming read affected by a bad glass note.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Fish"
+    ],
+    "proof": "97",
+    "price": "$179",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Strong wood, ethanol, leather, and mineral notes.",
+      "palate": "Dry, no pep, dead cola, light mouthfeel, underproofed, and fades to bitter burn.",
+      "finish": "Dries to oak. Depth 1 and linger 1.",
+      "table": "Bottle had been open three years. The sheet says fear it was open too long, underwhelming, ranked fifth of five, with scores B 4, F 5, S 5. It also notes a bad glass gave off a tainted smell and taste."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Weller SiB Orange Mar26.pdf"
+    "localSourceFile": "Weller SiB Orange Mar26.pdf",
+    "tastingDate": "2026-03-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "weller-special-reserve-green-july23",
@@ -9211,23 +9254,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Weller Special Reserve Green Label bourbon with toasted oak, caramel, slight ethanol, light classic bourbon nose, light effervescent mouthfeel, easy drinkability, honey finish, and crushable utility.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Fish"
+    ],
+    "proof": "90",
+    "price": "$35-$45",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Toasted oak, caramel, slight ethanol, traditional bourbon nose, and light.",
+      "palate": "Light mouthfeel, a bit effervescent, low proof guess of 86-94, price guess off a $30 bottle, nothing off-putting, not complex, easy to drink, and crushable.",
+      "finish": "Short and short-lived, drying to honey.",
+      "table": "A highly crushable bourbon that could be finished off easily over the course of a night. Hard to find, and when available goes fast or is marked up. The sheet calls it a quintessential bourbon with typical Buffalo Trace flavor profile."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Weller Special Reserve green July23.pdf"
+    "localSourceFile": "Weller Special Reserve green July23.pdf",
+    "tastingDate": "2023-07-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "wheelhorse-rye-apr24",
@@ -9240,23 +9289,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Wheel Horse Rye with cinnamon, creamy vanilla, buttery coffee cake, ethanol, creamy mouthfeel, sweet grass, floral herbaceous notes, black tea, orange, and the longest medium finish of the review.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "101",
+    "price": "~$30",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cinnamon, creamy vanilla, buttery coffee cake, and ethanol.",
+      "palate": "Creamy mouthfeel, creamy vanilla, sweet grass, floral, herbaceous, light bitterness, rose-iced black tea, and a slight hint of orange.",
+      "finish": "Longest of the four reviewed, medium.",
+      "table": "Good price point for a Green River whiskey. Enjoyable rye sipper with enough going on to make it interesting and very drinkable."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Wheelhorse Rye Apr24.pdf"
+    "localSourceFile": "Wheelhorse Rye Apr24.pdf",
+    "tastingDate": "2024-04-11",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "whistle-pig-10yr-rye-sept25",
@@ -9269,23 +9324,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A WhistlePig 10 Year Rye with light ethanol, green apple, banana, vanilla, bubblegum, spearmint, apple-first palate, cinnamon-or-rye spice, Apple Jacks cereal, and a short honey-drying finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Eeten",
+      "Fisher"
+    ],
+    "proof": "100",
+    "price": "$60",
+    "classification": "Rye Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light ethanol tricked The Table into a high proof guess. Diverse notes of green apple, banana, vanilla, bubblegum, and spearmint.",
+      "palate": "Apple first with a dancing spiciness of cinnamon or rye. Crushable Apple Jacks cereal transitioning into spearmint spice.",
+      "finish": "Short, about 1, but lingering on the tongue and drying to honey.",
+      "table": "A brighter WhistlePig rye that moved from apple-cereal sweetness into minty rye spice."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Whistle Pig 10yr Rye Sept25.pdf"
+    "localSourceFile": "Whistle Pig 10yr Rye Sept25.pdf",
+    "tastingDate": "2025-09-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "whistle-pig-vi-samurai-scientist-may25",
@@ -9909,7 +9971,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 251,
+  "sampleTranscribed": 261,
   "firstYear": 2022,
   "latestYear": 2026
 };
