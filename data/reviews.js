@@ -8640,23 +8640,31 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Stagg Jr. bourbon with oak, vanilla, cherry, floral notes, white pepper spice, cherry wood, leather, and a medium-short finish that does not taste as strong as the proof suggests.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Beenders",
+      "Ricky Bobby",
+      "Collins"
+    ],
+    "proof": "131",
+    "price": "$85",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak, vanilla, cherry, and floral.",
+      "palate": "White pepper spice, cherry wood, and leather.",
+      "finish": "Medium-short, and it did not taste as strong as the high proof might suggest.",
+      "table": "Marked as mid-rank and fourth of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Stagg June23.pdf"
+    "localSourceFile": "Stagg June23.pdf",
+    "tastingDate": "2023-06-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "starlight-double-oaked-bourbon-oct25",
@@ -8670,23 +8678,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Starlight Double Oaked bourbon with maple, ethanol, berry, grain, barley, Fruity Pebbles, smoke, rubber, possible rye, oily mouthfeel, sweetness, and a very short crushable finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Benders",
+      "Fisher"
+    ],
+    "proof": "103",
+    "price": "$80",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Maple, ethanol, berry, grain, barley, and Fruity Pebbles.",
+      "palate": "Smoke, rubber, possible rye, oily mouthfeel, and sweet.",
+      "finish": "Light mouthfeel, crushable, easy finish, wheat finish dries to grain, very short at about 0.5.",
+      "table": "A sweet, grainy, easy-finishing double-oaked read with an oily mouthfeel and odd smoke/rubber edge."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Starlight Double Oaked bourbon Oct25.pdf"
+    "localSourceFile": "Starlight Double Oaked bourbon Oct25.pdf",
+    "tastingDate": "2025-10-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "stranahan-s-blue-peak-mar26",
@@ -8699,23 +8714,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Single Malt / Scotch-leaning"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Single Malt / Scotch-leaning",
-    "confidence": "title-only",
+    "summary": "A Stranahan's Blue Peak whiskey with light hay, root beer cream, mead, honeysuckle, beer, a light zingy palate, Irish whiskey or Scotch echoes, vanilla, powdered sugar, and an aged plum or date finish.",
+    "reviewers": [
+      "Josh",
+      "Mike",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "86",
+    "price": "$23.95",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A fun nose of light hay and root beer cream, plus mead, honeysuckle, and beer.",
+      "palate": "Light palate, zingy and tingles on the tongue. Reminded The Table of an Irish whiskey or a Scotch, with light vanilla and powdered sugar sweetness.",
+      "finish": "Depth 0 and linger 0, drying to an aged plum or date.",
+      "table": "A light, approachable malt-leaning whiskey with playful soda-shop aromatics."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Stranahan_s Blue Peak Mar26.pdf"
+    "localSourceFile": "Stranahan_s Blue Peak Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "tears-of-the-left-dec25",
@@ -8728,23 +8750,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Tears of the Left bourbon with sweet malted grain, frosted Berry Cheerio with cinnamon, confectionary texture, Dr Pepper, Brazil nut, light mouthfeel, and a nonexistent finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fisher",
+      "Scarfe"
+    ],
+    "proof": "91.4",
+    "price": "$90",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Struck The Table as a sweet malted grain, like a frosted Berry Cheerio with cinnamon.",
+      "palate": "Cinnamon comes forward on the palate. Tastes and feels like a confectionary, with Dr Pepper, Brazil nut, and light mouthfeel.",
+      "finish": "Zero, nonexistent.",
+      "table": "A light, cereal-sweet pour where the finish disappeared quickly."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Tears Of The Left Dec25.pdf"
+    "localSourceFile": "Tears Of The Left Dec25.pdf",
+    "tastingDate": "2025-12-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "thomas-handy-rye-feb24",
@@ -8757,23 +8786,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Thomas Handy Sazerac Rye with bottom-of-apple-pie-filling sweetness, wet pie crust, light ethanol, black pepper spice, little grassiness, and a slow-building chest-warming finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "124.9",
+    "price": "$240",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "The bottom apple pie filling soaked into wet pie crust with a light ethanol.",
+      "palate": "Spicy with black pepper, and not very grassy for a rye.",
+      "finish": "This whiskey takes its sweet time getting there, but once it does it gets you in the middle of the chest.",
+      "table": "A rye that reads more baked-pie and black pepper than grassy."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Thomas Handy Rye Feb24.pdf"
+    "localSourceFile": "Thomas Handy Rye Feb24.pdf",
+    "tastingDate": "2024-02-01",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "traverse-city-bp-wheat-jan26",
@@ -8787,23 +8822,28 @@ window.TBT_REVIEWS = [
       "Wheat Whiskey",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Wheat Whiskey",
-    "confidence": "title-only",
+    "summary": "A Traverse City barrel proof straight wheat whiskey with non-sweet Irish soda bread, leather, floral nose, nut bread, low-sugar plum, fig, date, white pepper spice, deep tart fruit, and a short lingering finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "116",
+    "price": "$65",
+    "classification": "Straight Wheat Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Non-sweet Irish soda bread, leather, light color, nice floral nose, and nut bread.",
+      "palate": "Plum, fig, and date. Low-sugar version of fruit with medium mouthfeel, white pepper spice, and deep fruit with age, tart.",
+      "finish": "Short, about 1, with a bit of linger. Both really liked it.",
+      "table": "The sheet marks both third on quick tasting and number one rank on quick tasting, with both rating it 8 out of 10 overall."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Traverse City BP Wheat Jan26.pdf"
+    "localSourceFile": "Traverse City BP Wheat Jan26.pdf",
+    "tastingDate": "2026-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "van-winkle-family-reserve-rye-mar26",
@@ -8817,23 +8857,30 @@ window.TBT_REVIEWS = [
       "Rye",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
+    "summary": "A Van Winkle Family Reserve Rye with a complex nose, wood, grape magic marker, leather, caramel, dill, floral notes, chewing-tobacco leaf, bubblegum, spearmint, and an easy-drinking palate.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason",
+      "Mike"
+    ],
+    "proof": "95.6",
     "price": "",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Jumps out at you with complexity, a nice amount of wood, grape magic marker, leather, and caramel. Nicely rounded and easy to dig into.",
+      "palate": "Dill, floral, and Big League Chew up front. The Table could slam this and make a bottle disappear.",
+      "finish": "Depth 0.5 and linger 2, drying to bubblegum and spearmint.",
+      "table": "An approachable, highly drinkable Van Winkle rye with a complex nose and candy-mint finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Van Winkle Family Reserve Rye Mar26.pdf"
+    "localSourceFile": "Van Winkle Family Reserve Rye Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "van-winkle-special-reserve-12yr-lot-b-feb24",
@@ -8847,23 +8894,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Van Winkle Special Reserve 12 Year Lot B bourbon with orange pulp, milk chocolate, grape, brown sugar, heavy mouthfeel, maple syrup, a steak-friendly balance, and a short caramel finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "90.4",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Orange pulp, milk chocolate, grape, and brown sugar.",
+      "palate": "Balanced with heavy mouthfeel, grape, maple syrup, and not overpowering. The Table would love it with dinner, maybe steak.",
+      "finish": "Short, drying to caramel.",
+      "table": "The Table loved it, with JB ranking it first and PF second, while the sheet also marks it third of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Van Winkle Special Reserve 12yr Lot B Feb24.pdf"
+    "localSourceFile": "Van Winkle Special Reserve 12yr Lot B Feb24.pdf",
+    "tastingDate": "2024-02-28",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "very-old-barton-vob-apr24",
@@ -8876,23 +8929,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Very Old Barton bourbon with faint banana, cream, vanilla, caramel, light thin mouthfeel, light vanilla-caramel, ethanol, corn, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$15",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Faint banana, cream, vanilla, and caramel.",
+      "palate": "Light mouthfeel, thin, light vanilla and caramel, ethanol, corn, with no predominant flavors. Drinkable but forgettable.",
+      "finish": "Short.",
+      "table": "This price point makes it a good bar option for cocktails or second utility whiskey."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Very Old Barton (VOB) Apr24.pdf"
+    "localSourceFile": "Very Old Barton (VOB) Apr24.pdf",
+    "tastingDate": "2024-04-11",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "very-old-saint-nick-13yr-mar25",
@@ -8905,23 +8964,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Very Old St. Nick 13 Year Estate bourbon with caramel, oak or wet oak, easy spice, grape, nuttiness, peanut, flat cola, peppercorn, cinnamon, and a medium oily finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat",
+      "Mike"
+    ],
+    "proof": "107.5",
+    "price": "$400",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, wood, oak or wet oak, spice but easy, grape, and nutty.",
+      "palate": "Spice, grape, peanut, flat cola, peppercorn, and cinnamon.",
+      "finish": "Medium with an oily mouthfeel.",
+      "table": "An older bourbon read built on oak, grape, spice, and a slick medium finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Very Old Saint Nick 13yr Mar25.pdf"
+    "localSourceFile": "Very Old Saint Nick 13yr Mar25.pdf",
+    "tastingDate": "2025-03-26",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "walleye-run-malted-rye-nov25",
@@ -9843,7 +9909,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 241,
+  "sampleTranscribed": 251,
   "firstYear": 2022,
   "latestYear": 2026
 };
