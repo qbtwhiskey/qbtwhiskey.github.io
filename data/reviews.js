@@ -3565,23 +3565,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Heaven Hill Bottled-in-Bond bourbon with oak, vanilla, light caramel, ethanol, charcoal, cherry, peanut, light effervescence, and a medium-to-long warming finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$45-$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Nice oak, vanilla, slight caramel, a whiff of ethanol, charcoal, and cherry. Overall, a pleasant bourbon nose.",
+      "palate": "\"Makes me smile\" with a nice tongue tingle, effervescence, a hint of peanut, easy drinking character, and a light mouthfeel with a nice spice coating.",
+      "finish": "Medium to long, with a nice slow-moving burn and hug. It delivers what The Table looks for in a good bourbon.",
+      "table": "Hard to find in Illinois but often available elsewhere. The Table read it as a quintessential bourbon profile and a solid pour."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heaven Hill BiB May23.pdf"
+    "localSourceFile": "Heaven Hill BiB May23.pdf",
+    "tastingDate": "2023-05-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heaven-hill-grain-to-glass-rye-jan26",
@@ -3594,23 +3600,28 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A high-proof Heaven Hill Grain to Glass rye with rose florals, carpenter's woodshop, sweet flowers, spicy candy, anise, drying oak, coconut wood, orange or pink fruit, and a short oily finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "123.2",
+    "price": "$100",
+    "classification": "Straight Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Rose florals, carpenter's woodshop, sweet flowers, and spicy candy that is not cinnamon.",
+      "palate": "Spicy candy again, maybe anise disk, nice drying quality, coconut wood, orange or pink fruit, and a faint cocoa/fruit note.",
+      "finish": "Short, with a nice lingering oily quality.",
+      "table": "Ranked fourth on quick tasting, with both tasters scoring it 6/10. The sheet notes this was the best the bottle had tasted since it was opened."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heaven Hill Grain To Glass Rye Jan26.pdf"
+    "localSourceFile": "Heaven Hill Grain To Glass Rye Jan26.pdf",
+    "tastingDate": "2026-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heavens-door-ascension-june24",
@@ -3623,23 +3634,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Heaven's Door Ascension bourbon with oak, pepper, baking spices, cinnamon, classic bourbon notes, marshmallow, a thin mouthfeel, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak, pepper, baking spices, cinnamon, classic bourbon notes, light and pleasant.",
+      "palate": "Cinnamon and baking spices. It tastes proofed down, with a light, thin mouthfeel, a hint of marshmallow, and no hard edges.",
+      "finish": "Short. The Table would like to try this at a higher proof.",
+      "table": "The Table has had this multiple times at Kemp's and it always pairs nicely with a meal."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heavens Door Ascension June24.pdf"
+    "localSourceFile": "Heavens Door Ascension June24.pdf",
+    "tastingDate": "2024-06-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heavens-door-refuge-feb24",
@@ -3652,23 +3669,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Heaven's Door Refuge rye finished in sherry casks with light amber color, buttery citrus, orange pith, red raisins, popcorn, raisin, rubber, licorice, rye spice, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$70",
+    "classification": "Rye finished in sherry casks",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Buttery citrus note, like the pith of an orange, red raisins, buttered popcorn, and a twangy edge.",
+      "palate": "Raisin, rubber, black licorice, light rye spice, and weird tannic flavors on the backend.",
+      "finish": "Short; it does not linger.",
+      "table": "A polarizing flavor profile. The Table felt it was not for everybody because the finish brings odd flavors, likely more in line with a Scotch drinker's palate. Unique, but not one to buy if you are looking for traditional rye flavors."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heavens Door Refuge Feb24.pdf"
+    "localSourceFile": "Heavens Door Refuge Feb24.pdf",
+    "tastingDate": "2024-02-07",
+    "color": "Light amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heavens-door-revival-feb24",
@@ -3681,23 +3705,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Heaven's Door Revival bourbon with banana, bubble gum, Banana Laffy Taffy, sweet oak, spice, corn sweetness, light mouthfeel, and a short rough finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$45-$55",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Banana plus bubble gum, Banana Laffy Taffy, light sweet oak, and some spices.",
+      "palate": "Spice, corn, corn sweetness, and a light mouthfeel. The taste feels disconnected from the nose, with roughness on the backend.",
+      "finish": "Short, with slight roughness on the finish.",
+      "table": "The Table found better options in this price range and would spend the money elsewhere. The backend roughness feels like it is trying to compensate for the low proof."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heavens Door Revival Feb24.pdf"
+    "localSourceFile": "Heavens Door Revival Feb24.pdf",
+    "tastingDate": "2024-02-07",
+    "color": "Light amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "heavens-door-rye-in-vosges-barrels-apr25",
@@ -3710,23 +3741,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Heaven's Door rye finished in Vosges barrels with orange, oak, lime, orange zest, malted grain, high rye spice, subdued vanilla, drying oak, orange scone, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$50",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Orange, oak, lime, lime-orange zest, and a light nose.",
+      "palate": "Malted grain, high rye spice, subdued vanilla, easy sipping, drying oak, and an orange-scone note that makes it feel almost like an Irish whiskey. It dries to vanilla and orange.",
+      "finish": "Short, about 2.",
+      "table": "A light, citrus-driven rye finish that leans toward orange, vanilla, and grain more than traditional rye intensity."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Heavens Door Rye in Vosges barrels Apr25.pdf"
+    "localSourceFile": "Heavens Door Rye in Vosges barrels Apr25.pdf",
+    "tastingDate": "2025-04-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "high-cotton-sib-sept25",
@@ -8957,7 +8995,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 100,
+  "sampleTranscribed": 106,
   "firstYear": 2022,
   "latestYear": 2026
 };
