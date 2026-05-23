@@ -7495,23 +7495,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Grand-Dad 114 bourbon with red rope licorice, caramel, anise, black licorice, black pepper, heat, and a short black-licorice finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "114",
+    "price": "$34.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Red rope licorice and caramel.",
+      "palate": "Light yet hot on the tongue, with flavors of anise, black licorice, and black pepper.",
+      "finish": "A short finish with the same heat leading to black licorice.",
+      "table": "A licorice-forward, peppery Old Grand-Dad read where the proof shows up quickly."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Granddad 114 Aug23.pdf"
+    "localSourceFile": "Old Granddad 114 Aug23.pdf",
+    "tastingDate": "2023-08-30",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-hamer-cask-strength-july23",
@@ -7525,23 +7531,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Hamer cask strength bourbon with caramel, traditional baking spices, cinnamon sugar, burnt sugar, red vine licorice, light oak, ethanol or rye spike, vanilla, cinnamon, caramel, and a short finish.",
+    "reviewers": [
+      "Fisher",
+      "Josh",
+      "Jason"
+    ],
+    "proof": "116",
+    "price": "$35",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, traditional baking spices, cinnamon sugar, burnt sugar, something like red vine licorice, and light oak.",
+      "palate": "Simple and one-dimensional but nothing offensive for the price. Ethanol or rye spike with hints of vanilla, cinnamon, and caramel.",
+      "finish": "Medium mouthfeel but not oily, with a short finish.",
+      "table": "The proof and price guess was 112 proof and about $40. The Table called it a decent buy for the money and something that could work as a mixer."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Hamer Cask Strength July23.pdf"
+    "localSourceFile": "Old Hamer Cask Strength July23.pdf",
+    "tastingDate": "2023-07-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-overholt-rye-114-oct24",
@@ -7554,23 +7566,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "An Old Overholt Rye 114 with muted ethanol and fruit on the nose, peanut, effervescence, sweet blandness, heavier mouthfeel, complexity, underripe red fruit, and a short finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "114",
+    "price": "$19 sale @ Binny's",
+    "classification": "Rye Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Ethanol and fruit, with flavors muted.",
+      "palate": "Peanut, effervescence, sweet and bland, with heavier mouthfeel and complexity plus underripe red fruit.",
+      "finish": "A bit more but short, about 2.",
+      "table": "Compared on quick tasting against a number-one rye, and marked third of four overall."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Overholt Rye 114 Oct24.pdf"
+    "localSourceFile": "Old Overholt Rye 114 Oct24.pdf",
+    "tastingDate": "2024-10-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-rip-van-winkle-july23",
@@ -7584,23 +7602,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Rip Van Winkle 10 Year bourbon with cherry wood, grape scents, vanilla, light cinnamon, sweet oak, grape Hi-C, and a relatively short finish that dries into deep dark fruits.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "107",
+    "price": "$89.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cherry wood with grape scents mixed in, plus hints of vanilla, light cinnamon, and very light sweet oak notes.",
+      "palate": "Grape Hi-C is predominant.",
+      "finish": "Relatively short finish drying to deep dark fruits.",
+      "table": "A fruit-led Old Rip read where grape showed up strongest from nose through palate."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Rip Van Winkle July23.pdf"
+    "localSourceFile": "Old Rip Van Winkle July23.pdf",
+    "tastingDate": "2023-07-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pappy-van-winkle-15yr-feb25",
@@ -7616,28 +7640,29 @@ window.TBT_REVIEWS = [
     ],
     "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Underwhelms its reputation, but still rated first of four in the flight.",
+    "summary": "A blind Pappy Van Winkle 15 Year bourbon with Skittles bag, Jet-Puffed marshmallow, ethanol, back-end astringency, sweet bubble gum, spearmint, oak, rye spice, effervescence, pear, and a short grape finish.",
     "reviewers": [
-      "Brendan",
+      "Beender",
       "Eeten",
       "Fish",
       "Scarfe"
     ],
     "proof": "107",
     "price": "$200",
-    "classification": "Bourbon, 15 year age statement",
-    "confidence": "medium",
+    "classification": "Bourbon",
+    "confidence": "medium-low",
     "featured": true,
     "notes": {
-      "nose": "Skittles bag, Jet-Puffed marshmallow, ethanol/astringency toward the back end, sweet bubble gum; \u201camazing nose.\u201d",
+      "nose": "Skittles bag, Jet-Puffed marshmallow, ethanol, astringent at the back end, and an amazing sweet bubble gum nose.",
       "palate": "Spearmint, oak, rye spice, effervescence, and pear.",
-      "finish": "Short, with a lingering grape note.",
-      "table": "Underwhelms its reputation, but still rated first of four in the flight."
+      "finish": "Short, about 1, lingering with a grape note.",
+      "table": "Tasted blind. The sheet notes it as underwhelming for its reputation while also marking it first of four, with a separate quick-tasting note that appears to mark it second of four."
     },
     "tastingDate": "2025-02-27",
     "color": "Medium amber",
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pappy Van Winkle 15yr Feb25.pdf"
+    "localSourceFile": "Pappy Van Winkle 15yr Feb25.pdf",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pappy-van-winkle-15yr-july25",
@@ -7651,23 +7676,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Pappy Van Winkle Family Reserve 15 Year bourbon with dark cherry, light ethanol burn, dark cherry Kool-Aid packet, grape/cherry Now and Later candy, green apple, dark fruits, and almost no finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason",
+      "Mike"
+    ],
+    "proof": "107",
+    "price": "$170",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dark cherry up front with a light ethanol burn. Kind of a cross between a dark cherry Kool-Aid packet and grape/cherry Now and Later candy.",
+      "palate": "Crushable and well rounded, crafted like a flavor ball of cherry, green apple, and dark fruits.",
+      "finish": "Almost no finish, about 0, and slightly disappointing.",
+      "table": "A well-rounded fruit-heavy Pappy read that landed softer than expected on the finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pappy Van Winkle 15yr July25.pdf"
+    "localSourceFile": "Pappy Van Winkle 15yr July25.pdf",
+    "tastingDate": "2025-07-15",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pendleton-10yr-mar26",
@@ -7680,23 +7712,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Canadian Whisky"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
+    "summary": "A Pendleton 10 Year pour with warm cinnamon, Christmas spiced apple, peppery syrup, ground ginger, quick flavor pop, medium mouthfeel, sweetness turning dry and bitter, and a dusty chemical aftertaste.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason",
+      "Mike"
+    ],
+    "proof": "90",
     "price": "",
-    "classification": "Canadian Whisky",
-    "confidence": "title-only",
+    "classification": "Bourbon",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A warm nose of cinnamon and Christmas spiced apple, plus peppery syrup and ground ginger.",
+      "palate": "Hits immediate flavor, then pops and disappears. No edges or spikiness. Medium mouthfeel that evaporates, bringing a sweetness that changes to dry bitterness.",
+      "finish": "Depth 0, linger 2, finishing with dustiness and a chemical aftertaste.",
+      "table": "A quick-flashing Pendleton pour where the warm spice was clearer than the finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pendleton 10yr Mar26.pdf"
+    "localSourceFile": "Pendleton 10yr Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pendleton-directors-reserve-20yr-mar25",
@@ -7709,23 +7748,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Canadian Whisky"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Canadian Whisky",
-    "confidence": "title-only",
+    "summary": "A Pendleton Director's Reserve 20 Year American whiskey with a rum-soaked tropical fruit cup nose, coconut, banana, raisin, pineapple, light cinnamon, bubblegum, and a medium-short spiced-rum finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Mike",
+      "Jason"
+    ],
+    "proof": "80",
+    "price": "$100",
+    "classification": "American Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A very diverse fruity nose like a rum-soaked tropical fruit cup. The Table noticed coconut, banana, raisin, and pineapple.",
+      "palate": "Light on the tongue with cinnamon and bubblegum flavors leading the way.",
+      "finish": "A medium-short, about 2, finish that moves to a hint of spiced rum The Table did not like, but seems to stay wet on the tongue.",
+      "table": "A tropical, rum-leaning Pendleton read with light body and lingering spiced-rum character."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pendleton Directors Reserve 20yr Mar25.pdf"
+    "localSourceFile": "Pendleton Directors Reserve 20yr Mar25.pdf",
+    "tastingDate": "2025-03-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "penelope-architect-batch-6-july23",
@@ -7738,23 +7784,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Penelope Architect Batch 6 bourbon finished with French oak staves, showing grain, corn, musty decaying hay, old red apple, rubber, feed corn, orange rind bitterness, leather shoe, tobacco spit, and a convoluted young profile.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Fisher"
+    ],
+    "proof": "104",
+    "price": "$65",
+    "classification": "Bourbon finished with French oak staves",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grain, corn, musty grain, hot musty decaying hay, corn sweetness, old red apple, and rubber sweet corn.",
+      "palate": "Rubber, effervescence, feed corn, slight orange note, orange rind bitterness, old leather shoe, tobacco spit, and maybe some vanilla or caramel.",
+      "finish": "Not soon enough. Slight lingering finish from oak staves, marked as meh.",
+      "table": "The Table called the flavors very convoluted and young tasting. The proof guess was 95, and the sheet notes batches may vary so much that you may have something meh for the money."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Penelope Architect batch 6 July23.pdf"
+    "localSourceFile": "Penelope Architect batch 6 July23.pdf",
+    "tastingDate": "2023-07-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pikesville-rye-jan23",
@@ -7767,23 +7819,25 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Pikesville Rye with mint tea, pepper, rye bread, white pepper, spice, wet oak, ethanol pop, grass, herbal tea, Earl Grey, sweetness, rye spice, and a short-to-short-medium finish.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "proof": "110",
+    "price": "$55",
+    "classification": "Rye Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Mint tea with pepper, rye bread, white pepper spice, wet oak, ethanol pop, and grass.",
+      "palate": "Spicy mint, herbal tea, Earl Grey tea, sweet up front on the tongue, and rye spice popping on the back of the tongue.",
+      "finish": "Short to short-medium.",
+      "table": "Finished either first or second on guest scorecards during a five-bottle blind. The sheet notes this rye used to be readily available and sold for about $45, then disappeared for about a year before beginning to return as an expected seasonal release."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pikesville Rye Jan23.pdf"
+    "localSourceFile": "Pikesville Rye Jan23.pdf",
+    "tastingDate": "2023-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pikesville-rye-sept24",
@@ -7796,23 +7850,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Pikesville Rye with subtle sweet sugar, floral rye, caramel, sweet rye grass, mint, fewer edges, heavier mouthfeel, and a short but lingering smooth finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "110",
+    "price": "$55",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Subtle, sweet sugar, floral rye, and caramel.",
+      "palate": "Sweet rye grass, mint, less edge, and heavier mouthfeel.",
+      "finish": "Short but lingers, smooth.",
+      "table": "Compared with Knob Creek Bourbon x Rye. Scarfe chose this, and the sheet marks it third on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Pikesville Rye Sept24.pdf"
+    "localSourceFile": "Pikesville Rye Sept24.pdf",
+    "tastingDate": "2024-09-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "pinhook-cs-feb26",
@@ -9650,7 +9710,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 210,
+  "sampleTranscribed": 220,
   "firstYear": 2022,
   "latestYear": 2026
 };
