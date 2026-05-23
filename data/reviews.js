@@ -5497,23 +5497,31 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny Barrel Proof A124 bourbon with brown sugar, fresh dill, dark caramel, molasses-cookie sweetness, spiced rum cookie, raisin, charred molasses, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "124.2",
+    "price": "$63",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Brown sugar, ethanol, fresh dill, dark caramel, earthy, dusty, and woody.",
+      "palate": "Molasses cookie, spiced-rum cookie with nuts, dark raisin, drunken raisin, charred molasses, ethanol, and spice.",
+      "finish": "Short.",
+      "table": "The Table's favorite of the night out of five bottles reviewed."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny Barrel Proof A124 Dec24.pdf"
+    "localSourceFile": "Larceny Barrel Proof A124 Dec24.pdf",
+    "tastingDate": "2024-12-18",
+    "color": "Dark amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-barrel-proof-a125-nov25",
@@ -5527,23 +5535,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny Barrel Proof A125 bourbon with wood, pepper, fallen oak, peanut brittle, medium mouthfeel, Wild Turkey 101 echoes, spice, and lingering heat.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Scarfe"
+    ],
+    "proof": "125",
+    "price": "$80",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Wood, pepper, fallen oak, and a sharp edge.",
+      "palate": "Peanut brittle hard crack, medium mouthfeel, a bit like Wild Turkey 101, with tingle and spice.",
+      "finish": "About 1.5 with nice lingering heat.",
+      "table": "The Table really liked this one and noted it came in second, though the sheet also appears to say number four of five on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny Barrel Proof A125 Nov25.pdf"
+    "localSourceFile": "Larceny Barrel Proof A125 Nov25.pdf",
+    "tastingDate": "2025-11-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-barrel-proof-b524-may26",
@@ -5557,23 +5571,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny Barrel Proof B524 bourbon with ethanol, maple, light lemon, caramel up front, a dry spice turn, and a good needle-like finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "125.4",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Ethanol, maple, and light lemon.",
+      "palate": "Caramel up front, then dries to spice.",
+      "finish": "Needles, but good; about 2.5 in linger and 1 in depth.",
+      "table": "So good, with just enough complexity. The sheet score reads Beenders 7, Eeten 7, Fish 7, Scarfe 8, for 7 out of 10 overall."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny Barrel Proof B524 May26.pdf"
+    "localSourceFile": "Larceny Barrel Proof B524 May26.pdf",
+    "tastingDate": "2026-05-14",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-barrel-proof-c923-apr24",
@@ -5587,23 +5608,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny Barrel Proof C923 bourbon with caramel, butter, cooked sugar, maple wood, ethanol, grain, fruit, mellow char, strawberry, and a long finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "126",
+    "price": "$70",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, buttery simple syrup, cooked sugar, maple wood, and ethanol.",
+      "palate": "Smacks in the face, with corn, grain, fruit, mellow char oak, and a dry strawberry note on the tongue.",
+      "finish": "Long. A rare Larceny read.",
+      "table": "The Table loved it, while noting it requires your attention. The sheet appears to mark it as ranked number one of four and also number four of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny Barrel Proof C923 Apr24.pdf"
+    "localSourceFile": "Larceny Barrel Proof C923 Apr24.pdf",
+    "tastingDate": "2024-04-23",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-sb-july23",
@@ -5616,23 +5643,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny Small Batch bourbon with caramel, green grass, light vanilla, a rye-like pop on the back end, and almost no finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$54.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "An uncommon combination of caramel and green grass.",
+      "palate": "Very light caramel and vanilla notes with a spike on the back end similar to a rye pop.",
+      "finish": "No finish to speak of; it does not even make it to the back of the tongue.",
+      "table": "A light Larceny Small Batch pour where the grassy-caramel nose was more memorable than the disappearing finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny SB July23.pdf"
+    "localSourceFile": "Larceny SB July23.pdf",
+    "tastingDate": "2023-07-19",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "larceny-sib-private-pick-june25",
@@ -5647,23 +5680,31 @@ window.TBT_REVIEWS = [
       "Store pick",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Larceny private single barrel bourbon with light amber color, honeycomb corn flakes, wet wood, sweet cardboard cereal, caramel pinwheel, salt-and-pepper potato chip, and a short dissipating finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat",
+      "Andrew"
+    ],
+    "proof": "111.8",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Familiar light nose with hints of honeycomb corn flakes, wet wood, nondescript sweetness, and sweet cardboard cereal.",
+      "palate": "Creamy caramel pinwheel. The flavor expands on the palate; the palate is better than the nose and tastes better than it smells, with a salt-and-pepper potato chip note. Good, but The Table would not wait in line for it.",
+      "finish": "Short and dissipates.",
+      "table": "A private single barrel that drank better than it smelled, with creamy caramel and savory snack notes, but not enough pull to chase."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Larceny SiB Private pick June25.pdf"
+    "localSourceFile": "Larceny SiB Private pick June25.pdf",
+    "tastingDate": "2025-06-12",
+    "color": "Light amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "legent-july23",
@@ -9299,7 +9340,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 154,
+  "sampleTranscribed": 160,
   "firstYear": 2022,
   "latestYear": 2026
 };
