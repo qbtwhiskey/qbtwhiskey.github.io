@@ -4929,23 +4929,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jimmy Red Bottled-in-Bond 100% corn bourbon with cinnamon, corn, baking spice, light oak, corn husk, green corn stalk, spice, red Twizzler notes, and no finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$80-$90",
+    "classification": "Bourbon (100% corn)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cinnamon, corn, baking spice, light oak, and spice.",
+      "palate": "Light mouthfeel, corn husk, green corn stalk, a few flavors then nothing, too much corn, some spice, red Twizzler notes, dark Twizzler, and not sugary.",
+      "finish": "Disappears mid-palate, effectively no finish.",
+      "table": "Part of a three-bottle sampler pack."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jimmy Red BiB Feb25.pdf"
+    "localSourceFile": "Jimmy Red BiB Feb25.pdf",
+    "tastingDate": "2025-02-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jimmy-red-classic-feb25",
@@ -4958,23 +4964,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jimmy Red Classic 100% corn bourbon with blackstrap molasses, earthy dusty sweetness, corn husk, dusty black pepper, graham cracker, and no finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "95",
+    "price": "$50+",
+    "classification": "Bourbon (100% corn)",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Blackstrap molasses, sweetness, earthy vegetal sweetness, dusty notes, and dusty corn husk.",
+      "palate": "Dusty black pepper over baked graham cracker, dusty corn sweetness, and corn smell at harvest time. Different, not for everyone.",
+      "finish": "None.",
+      "table": "Tasted as part of the three-bottle Jimmy Red sampler set."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jimmy Red Classic Feb25.pdf"
+    "localSourceFile": "Jimmy Red Classic Feb25.pdf",
+    "tastingDate": "2025-02-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jimmy-red-sherry-casks-feb25",
@@ -4988,23 +5000,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jimmy Red finished bourbon with sweet butter, buttered kettle corn, extra butter, oak, smoother chocolate-butter character, corn sweetness, Dutch processed chocolate, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "93",
+    "price": "$80+",
+    "classification": "Finished Bourbon",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet buttery notes, buttered kettle corn with extra butter, and oak.",
+      "palate": "Better and smooth, with chocolate, butter, corn sweetness, and Dutch processed chocolate.",
+      "finish": "Short.",
+      "table": "While not loved, it was the best out of the three-bottle sampler pack."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jimmy Red Sherry Casks Feb25.pdf"
+    "localSourceFile": "Jimmy Red Sherry Casks Feb25.pdf",
+    "tastingDate": "2025-02-12",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "john-j-bowman-sib-feb26",
@@ -5018,23 +5036,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Bowman Single Barrel copper-distilled bourbon with cherry, fruit-forward notes, grape marker, sharpness, light mouthfeel, grain, wheat, crisp white ale, and a short slow-drip finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Pat",
+      "Josh"
+    ],
+    "proof": "100",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cherry, fruit-forward, cherry, grape marker, and sharpness.",
+      "palate": "Positive punch, light mouthfeel, grape, grain and wheat, crisp white ale, and light mouthfeel.",
+      "finish": "Finish 1.5, linger 2, with a \"slow drip\" note.",
+      "table": "A fruit-forward Bowman single barrel with grape, cherry, grain, and a crisp beer-like edge."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "John J Bowman SiB Feb26.pdf"
+    "localSourceFile": "John J Bowman SiB Feb26.pdf",
+    "tastingDate": "2026-02-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jw-dant-feb23",
@@ -5047,23 +5072,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A JW Dant bonded Heaven Hill bourbon with caramel, vanilla pinwheel, butterscotch, cocoa, oak, corn bread, sweet vanilla, and a short finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Beenders",
+      "Ricky Bobby"
+    ],
+    "proof": "100",
+    "price": "$23 / 1 liter",
+    "classification": "Bourbon - NAS",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel, vanilla pinwheel, butterscotch, light cocoa, and oak.",
+      "palate": "Light feel, corn bread, sweet vanilla, and smooth.",
+      "finish": "Short.",
+      "table": "Superb value bourbon that punches above its weight in taste and price. Ranked fourth on the night quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "JW Dant Feb23.pdf"
+    "localSourceFile": "JW Dant Feb23.pdf",
+    "tastingDate": "2023-02-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "kentucky-owl-confiscated-feb26",
@@ -5076,23 +5108,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Kentucky Owl Confiscated bourbon with vanilla custard, apple, yellow-skin pear, burnt oak, light fruit, ethanol, Scotch/Irish whiskey lean, dry spice, cinnamon, black pepper, and a lingering finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Pat",
+      "Josh"
+    ],
+    "proof": "96.4",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla custard, apple, yellow-skin pear, and burnt oak.",
+      "palate": "Apple or pear, oak, sweetness with light fruit, ethanol, evaporates on the tongue, and shakes toward a slight Scotch or Irish whiskey impression. Dry on the finish with drying spice like light cinnamon or black pepper.",
+      "finish": "Finish 1, linger 3.",
+      "table": "A bourbon that reads unusually light-fruit and whiskey-adjacent, with dryness and spice lingering longer than the immediate finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Kentucky Owl Confiscated Feb26.pdf"
+    "localSourceFile": "Kentucky Owl Confiscated Feb26.pdf",
+    "tastingDate": "2026-02-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-9yr-jan25",
@@ -5105,23 +5144,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 9 year bourbon with baking spice, light ethanol, brown sugar, caramel, wet oak, easy drinking character, and an overspiced rum-cake finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$35",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Baking spice with a nice light ethanol and a hint of light brown sugar.",
+      "palate": "Light mouthfeel with some caramel and wet oak; easy drinking.",
+      "finish": "Medium, about 3.5, drying to an overspiced rum cake.",
+      "table": "A familiar, easy-drinking Knob Creek 9 year with spice, caramel, oak, and a dessert-spice finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 9yr Jan25.pdf"
+    "localSourceFile": "Knob Creek 9yr Jan25.pdf",
+    "tastingDate": "2025-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-9yr-sib-feb24",
@@ -5135,23 +5180,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 9 year single barrel bourbon with dark amber color, punchy oak, cigar-box sweetness, caramel, vanilla, ginger, cinnamon, ethanol, peanut, cream, and a softer-than-120-proof punch.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "120",
+    "price": "$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Punchy oak, sweet cigar-box sweetness, caramel and vanilla fighting through the strong ethanol presence.",
+      "palate": "Ginger, cinnamon, ethanol bomb, spices, peanuts, creamy caramel, nice medium mouthfeel, oak, and cinnamon.",
+      "finish": "Drinks softer than 120 proof, more like 105-118, but still gives enough punch to make some flavors harder to discern.",
+      "table": "If you like Knob Creek 9 year, give this step up in proof a try. Good high-proof sipper for the money; single barrel flavors can vary, but these are generally delicious."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 9yr SiB Feb24.pdf"
+    "localSourceFile": "Knob Creek 9yr SiB Feb24.pdf",
+    "tastingDate": "2024-02-07",
+    "color": "Dark amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-9yr-sib-jan25",
@@ -5165,23 +5217,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Knob Creek 9 year single barrel bourbon with oak, upfront ethanol, sugary vanilla, caramel, sweet spice, Thai sweet chili sauce, and a quick light finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "120",
+    "price": "$50",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak and ethanol hit up front, followed by sugary vanilla and caramel.",
+      "palate": "Sweet and spicy, reminding The Table of a Thai sweet chili sauce.",
+      "finish": "Short and light, about 1.5, drying quickly.",
+      "table": "A sweet-spicy Knob Creek single barrel where the proof and oak show first, then vanilla, caramel, and chili-sauce sweetness follow."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 9yr SiB Jan25.pdf"
+    "localSourceFile": "Knob Creek 9yr SiB Jan25.pdf",
+    "tastingDate": "2025-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-9yr-sib-store-pick-jan26",
@@ -5196,23 +5254,29 @@ window.TBT_REVIEWS = [
       "Store pick",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Knob Creek single barrel select store pick rye with dusty grain bin, charred wood, cornbread, wet forest earth, grass, oak leaves, artificial sweetness, old dry wood, fruit, bubble gum, and a short rounded finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "115",
+    "price": "$60",
+    "classification": "Rye",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Higher proof, dusty grain bin, spicy charred wood, cornbread, wet forest earthy notes, grass, oak leaves, and artificial sweetness.",
+      "palate": "Proof present, sweetness, rye, tastes like a rickhouse with old dry wood, fruit plus bubble gum, and medium mouthfeel.",
+      "finish": "Root-like note, rounded edges, and short.",
+      "table": "A rye-leaning store pick with rickhouse wood, grain-bin dust, forest-floor notes, sweetness, and bubble gum."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Knob Creek 9yr SiB store pick Jan26.pdf"
+    "localSourceFile": "Knob Creek 9yr SiB store pick Jan26.pdf",
+    "tastingDate": "2026-01-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "knob-creek-12yr-aug23",
@@ -9202,7 +9266,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 138,
+  "sampleTranscribed": 148,
   "firstYear": 2022,
   "latestYear": 2026
 };
