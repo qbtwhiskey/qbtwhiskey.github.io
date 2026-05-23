@@ -6429,23 +6429,25 @@ window.TBT_REVIEWS = [
       "Wheat Whiskey",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
+    "summary": "A Middle West cask strength wheat whiskey with fruit, light floral notes, crisp cedar, airy cornbread, wood spice, young woodiness, poblano pepper, and a short lingering finish.",
     "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Wheat Whiskey",
-    "confidence": "title-only",
+    "proof": "125.1",
+    "price": "$60",
+    "classification": "Straight Wheat Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Fruit, light floral notes, crisp cedar wood, airy cornbread, and spice.",
+      "palate": "Spiky, with wood spice, trying woodiness, poblano pepper, and a young taste.",
+      "finish": "Lingers, short, with nothing to dislike.",
+      "table": "Marked fifth on quick tasting and third rank on quick tasting. The bottom notes read Josh 6, me 7, good world, and buy again."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Middle West CS Wheat Jan26.pdf"
+    "localSourceFile": "Middle West CS Wheat Jan26.pdf",
+    "tastingDate": "2026-01-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "middle-west-pumpernick-rye-mar26",
@@ -6458,23 +6460,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Middle West dark pumpernickel rye with warm brown spices, berry, brown sugar, bubble-gum sweetness, syrupy fruit, coating spice, and a lingering finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "96",
+    "price": "$38",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Warm brown spices, berry, brown sugar, and artificial bubble-gum sweetness.",
+      "palate": "A lot of fruit, syrupy, coats, spice but not edgy, and lingers.",
+      "finish": "Like the lingers, with no depth and about 2.5 linger.",
+      "table": "Scores read Beenders 4, Fish 6, Scarfe 6. The sheet says The Table liked it but there was no pumpernickel taste, and it ranked fourth of five."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Middle West Pumpernick Rye Mar26.pdf"
+    "localSourceFile": "Middle West Pumpernick Rye Mar26.pdf",
+    "tastingDate": "2026-03-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "nashville-barrel-cask-strength-apr25",
@@ -6488,23 +6496,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Nashville Barrel Cask Strength rye with spiced orange, oak, caramel, brown sugar, layered spice, firewood fireplace, mulled wine, autumn leaves, hot honey, and a short hitting finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "116.54",
+    "price": "$50",
+    "classification": "Rye",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Spiced orange, oak, caramel, spices, and brown sugar; nicely layered. Favorite nose of the night.",
+      "palate": "Fire by a wood fireplace, orange, mulled wine in January, not hot on the palate but packs a nice punch of flavor. A warm and chest-hugging fall day with burning leaves waffles with Mike's hot honey high rye.",
+      "finish": "Short, but hits.",
+      "table": "A vivid rye read where spice, orange, caramel, autumn smoke, and hot-honey warmth carried the pour."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Nashville Barrel Cask Strength Apr25.pdf"
+    "localSourceFile": "Nashville Barrel Cask Strength Apr25.pdf",
+    "tastingDate": "2025-04-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-aug23",
@@ -6517,23 +6532,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff bourbon with peanut, Cracker Jack, butterscotch, pear, charred oak, brown sugar, ethanol, light rye spice, effervescence, grape notes, and a medium grape-drying finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$35.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Peanuts and Cracker Jack, butterscotch and pear, charred oak and brown sugar, and slightly drying.",
+      "palate": "Ethanol, with some heat from what seems like a slight rye spice. Adding water adds effervescence and grape notes.",
+      "finish": "A nice medium finish drying to grape flavors.",
+      "table": "A peanut-and-caramel New Riff profile that opened up with water into livelier grape notes."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff Aug23.pdf"
+    "localSourceFile": "New Riff Aug23.pdf",
+    "tastingDate": "2023-08-30",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-balboa-rye-mar26",
@@ -6546,23 +6567,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
+    "summary": "A New Riff Balboa Rye with a divisive nose, parmesan-pairing savory pull, strawberry Expo marker, bitter wood, ripe banana, Angostura bitters, allspice, oily body, and warm spice-mint finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "100",
     "price": "",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Three of us thought it was a great nose, while Scarfe disliked it. It made The Table want to pair it with food, especially parmesan cheese. Strawberry Expo marker and bitter wood.",
+      "palate": "Amazing, with ripe banana, even better than the nose, Angostura bitters, a light amount of spice like allspice, light but oily.",
+      "finish": "Depth at 0.5 and linger at 2. Dries to a warm spice and mint.",
+      "table": "A divisive but memorable rye where the palate won over the nose for most of The Table."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff Balboa Rye Mar26.pdf"
+    "localSourceFile": "New Riff Balboa Rye Mar26.pdf",
+    "tastingDate": "2026-03-25",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-bib-dec24",
@@ -6576,23 +6604,31 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff Bottled-in-Bond bourbon with medium amber color, fruit, spice, rye notes, sweet red fruit, raspberry, grain, grass, buttery texture, light corn syrup, and a short palate-lingering finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$40",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Fruit, spices, rye notes, sweet red fruit, raspberry, and slightly grainy.",
+      "palate": "Heavier mouthfeel, spice, grain or grass that reads wet and unpleasant, feels lacking in proof and wanted more oomph, buttery with no edges, and light corn syrup.",
+      "finish": "Short, but lingers on the palate.",
+      "table": "A fruit-and-spice Bottled-in-Bond pour where the palate felt heavier but still wanted more punch."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff BiB Dec24.pdf"
+    "localSourceFile": "New Riff BiB Dec24.pdf",
+    "tastingDate": "2024-12-18",
+    "color": "Medium amber",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-malted-rye-sherry-jan26",
@@ -6606,23 +6642,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A New Riff Malted Rye Sherry Finish with maple syrup, warmer ethanol, muted nose, raw dry cherry wood, cherry sweetness, balanced proof, and a balanced cherry-syrup finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "111.9",
+    "price": "$64.99",
+    "classification": "Rye Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Maple syrup on a warmer, some ethanol, again a little muted, raw dry cherry wood and oak.",
+      "palate": "Cherry wood, then takes some unpacking. Alcohol wrapped around a ball of flavor. Proofy in a good way and gives a feeling of heat. Nicely balanced, with wood and bitterness balancing with cherry and sweetness.",
+      "finish": "Balanced, drying to a cherry syrup but not overly sweet.",
+      "table": "A sherry-finished malted rye where cherry wood, controlled proof, and balanced sweetness carried the pour."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff Malted Rye Sherry Jan26.pdf"
+    "localSourceFile": "New Riff Malted Rye Sherry Jan26.pdf",
+    "tastingDate": "2026-01-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-sib-emerald-city-select-apr25",
@@ -6636,23 +6678,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A New Riff Emerald City Select single barrel bourbon with cordial cherry, banana flambe, salt, wet wood, cold red berry, ethanol cloud, Kentucky hug, and a fruit finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "110.1",
+    "price": "$55",
+    "classification": "Bourbon SiB",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cordial cherry, banana flambe, salt at the front, proofed-up Buffalo Trace, and wet wood.",
+      "palate": "Cold, little burn, red berry, ethanol cloud, and a palate that is different than the nose.",
+      "finish": "About 2. This gives a Kentucky hug, which is great, plus a fruit finish.",
+      "table": "Blind reveal as The Table went. Marked third of five, ranked first or second, excellent private pick, and compared with Stagg."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff SiB Emerald City Select Apr25.pdf"
+    "localSourceFile": "New Riff SiB Emerald City Select Apr25.pdf",
+    "tastingDate": "2025-04-17",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-sib-emerald-city-select-july25",
@@ -6666,23 +6715,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff Emerald City Select single barrel bourbon with light pleasing rosemary, brown sugar, pear, light woodiness, effervescent spiciness, toffee, leather, herbal tea, rye spice, and heat.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "110.9",
+    "price": "$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light but pleasing, with rosemary, brown sugar, pear, and light woodiness.",
+      "palate": "Effervescent with a nice spiciness on the tongue. Toffee and leather lead the way, with hidden herbal tea and linger found inside.",
+      "finish": "A nice finish, about 2, with a short quip of rye spice transforming into a nice heat.",
+      "table": "A balanced Emerald City single barrel where light herbal sweetness turns into leather, toffee, rye spice, and heat."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff SiB Emerald City Select July25.pdf"
+    "localSourceFile": "New Riff SiB Emerald City Select July25.pdf",
+    "tastingDate": "2025-07-15",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-sib-nov23-diff-proof",
@@ -6696,23 +6752,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff Single Barrel bourbon with rising uncooked bread dough in an empty cigar box, complex nose, strong butter palate, and a very short finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "109.4",
+    "price": "$55",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Rising, uncooked bread dough inside an empty cigar box. A very nice, complex nose that offers something new every time.",
+      "palate": "Not as complex as the nose, but still nice, with a strong butter tendency.",
+      "finish": "Very short, very quick, and leaves The Table wanting more.",
+      "table": "A second New Riff single barrel from the same date, with the nose outpacing the palate."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff SiB Nov23 diff proof.pdf"
+    "localSourceFile": "New Riff SiB Nov23 diff proof.pdf",
+    "tastingDate": "2023-11-08",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-sib-nov23",
@@ -6726,23 +6788,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff Single Barrel bourbon with light tannin, ethanol, fruit, grain, sweet peach, black pepper, cinnamon, and a medium-short cinnamon finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "104.8",
+    "price": "$55",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Lightly tannic with light ethanol, fruit and grain first, with some sweet peaches behind.",
+      "palate": "Surprisingly different than the nose: spicy black pepper first, transitioning to cinnamon in the middle.",
+      "finish": "Cinnamon, with a medium-short finish around 2.",
+      "table": "A New Riff single barrel where the palate turns sharper and spicier than the fruit-grain nose suggests."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff SiB Nov23.pdf"
+    "localSourceFile": "New Riff SiB Nov23.pdf",
+    "tastingDate": "2023-11-08",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "new-riff-sib-rye-aug24",
@@ -6756,23 +6824,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A New Riff Single Barrel Rye with dried fruit, salted caramel, red wine, butterscotch, syrup, ethanol punch, grape bubblegum, and a short rye-bread finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Fisher"
+    ],
+    "proof": "106.3",
+    "price": "$44",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Freshly opened bag of dried fruit, salted caramel, red wine, butterscotch, and syrup.",
+      "palate": "Ethanol punch in the face, straight-up rye, and grape bubblegum.",
+      "finish": "Has a little kick that lingers, short finish, and dries to rye bread.",
+      "table": "A punchy New Riff rye with sweet dried-fruit aromatics and a direct rye-bread drydown."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "New Riff SiB Rye Aug24.pdf"
+    "localSourceFile": "New Riff SiB Rye Aug24.pdf",
+    "tastingDate": "2024-08-02",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "oki-reserve-jan24",
@@ -9465,7 +9539,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 180,
+  "sampleTranscribed": 192,
   "firstYear": 2022,
   "latestYear": 2026
 };
