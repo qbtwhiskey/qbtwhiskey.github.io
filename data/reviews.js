@@ -6859,23 +6859,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "An O.K.I. Reserve blended bourbon with leather, cigar box, char, tea leaves, dark fruit, vanilla, powdered sugar, black tea, Earl Grey, corn, and a short finish.",
+    "reviewers": [
+      "Scarfe",
+      "Beenders",
+      "Fish"
+    ],
+    "proof": "100",
+    "price": "$80",
+    "classification": "Blended Bourbon",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Leather, cigar box, char, tea leaves, dark fruit, and light sweetness.",
+      "palate": "Vanilla, powdered sugar, black tea, Earl Grey, medium mouthfeel, and corn.",
+      "finish": "Short.",
+      "table": "Crushable, tied for second on the night, and marked number two of five on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "OKI Reserve Jan24.pdf"
+    "localSourceFile": "OKI Reserve Jan24.pdf",
+    "tastingDate": "2024-01-16",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-elk-aug23",
@@ -6888,23 +6894,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Elk bourbon with effervescent sweet fruit, fruit cup, sweet bread dough, cream soda, no notable ethanol, and a short tannic honey finish.",
+    "reviewers": [
+      "Josh",
+      "Pat",
+      "Jason"
+    ],
+    "proof": "88",
+    "price": "$52.99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Effervescent and lively, smelling of sweet fruit like a fruit cup and sweet bread dough. A nice nose with no notable ethanol.",
+      "palate": "Nice mouthfeel with no edges and cream soda dominating the flavor profile.",
+      "finish": "Short, slightly tannic, and dries to honey.",
+      "table": "A gentle, cream-soda-leaning Old Elk pour with a lively fruit nose and a honey drydown."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Elk Aug23.pdf"
+    "localSourceFile": "Old Elk Aug23.pdf",
+    "tastingDate": "2023-08-30",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-elk-infinity-blend-dec25",
@@ -6917,23 +6929,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "An Old Elk Infinity Blend whiskey with classic caramel, oak, leather, hot buttered corn, peanut brittle, melted butter, throat-coating sugar, and a butterscotch finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Eeten",
+      "Fisher"
+    ],
+    "proof": "111.5",
+    "price": "$140",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Classic and basic, with hints of caramel, oak, leather, and hot buttered corn.",
+      "palate": "Peanut brittle, melted butter, and sugars coating the throat on the way. Hot buttered corn comes through.",
+      "finish": "Dries to butterscotch.",
+      "table": "A rich, buttery Old Elk blend where corn, brittle, and butterscotch dominated the read."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Elk Infinity Blend Dec25.pdf"
+    "localSourceFile": "Old Elk Infinity Blend Dec25.pdf",
+    "tastingDate": "2025-12-09",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-elk-sb-sour-mash-reserve-mar25",
@@ -6946,23 +6965,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Elk Small Batch Sour Mash Reserve bourbon with faint caramel, red apple, grain sweetness, lively boozy fruit punch, and a short corn-drying finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat",
+      "Mike"
+    ],
+    "proof": "105",
+    "price": "$80",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A light and pleasing nose with faint caramel and red apple. Soft enough nose that it left The Table wanting more.",
+      "palate": "Light mouthfeel with grain sweetness. Very pleasing palate that is lively, like a light dance on the tongue, and tasted a lot like a boozy fruit punch.",
+      "finish": "Short, about 1, drying to corn.",
+      "table": "A light, lively Old Elk sour mash profile where the palate was more engaging than the softer nose."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Elk sb Sour Mash Reserve Mar25.pdf"
+    "localSourceFile": "Old Elk sb Sour Mash Reserve Mar25.pdf",
+    "tastingDate": "2025-03-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-elk-straight-wheat-nov23",
@@ -6975,23 +7001,28 @@ window.TBT_REVIEWS = [
     "tags": [
       "Wheat Whiskey"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Wheat Whiskey",
-    "confidence": "title-only",
+    "summary": "An Old Elk Straight Wheat whiskey with cream puff, yeasty bread starter, wheat, effervescence, baking spice, possible nutmeg, and a short-to-medium finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe"
+    ],
+    "proof": "100",
+    "price": "$55",
+    "classification": "Whiskey",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Reminded The Table of grandma's cream puffs, slightly yeasty like a bread starter.",
+      "palate": "Wheat and effervescent on the tongue, with baking spice, possibly nutmeg.",
+      "finish": "Short to medium-short, about 2.5, with no lingering flavors.",
+      "table": "A wheat whiskey that read bready, creamy, and lightly spiced, with very little finish carry."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Elk Straight Wheat Nov23.pdf"
+    "localSourceFile": "Old Elk Straight Wheat Nov23.pdf",
+    "tastingDate": "2023-11-22",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-elk-wheated-jan26",
@@ -7004,23 +7035,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Elk Wheated Bourbon with light marshmallow and vanilla sweetness, wood, leather, very light palate, muted cinnamon and plum, and a quick generic finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$75",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Light sweetness of marshmallow and vanilla, with stronger aromas of wood and leather.",
+      "palate": "Very light on the tongue. Feels crafted but The Table wished it had more proof. Cinnamon and plum, but muted.",
+      "finish": "Short, about 1, and quick with a minor generic linger.",
+      "table": "A crafted-feeling but muted wheated bourbon that left The Table wanting more proof and presence."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Elk Wheated Jan26.pdf"
+    "localSourceFile": "Old Elk Wheated Jan26.pdf",
+    "tastingDate": "2026-01-29",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-ezra-7-bourbon-july25",
@@ -7033,23 +7070,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Ezra 7 bourbon with dark chocolate, baking spice, cherry cordial, wet aged wood, sourdough bread, burnt butter, brown sugar, clove, herbal tea, and a creamy short finish.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Beenders",
+      "Collins"
+    ],
+    "proof": "117",
+    "price": "$99",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Dark chocolate, baking spice, cherry cordials, wet aged wood, and sourdough bread.",
+      "palate": "Burnt butter, a pinch of brown sugar, sweet in waves, very light spice, clove and herbal tea, and baked-flour pound cake.",
+      "finish": "Short, about 1.5, with creamy medium mouthfeel.",
+      "table": "A high-proof Old Ezra bourbon that mixed dark dessert notes, aged wood, herbal spice, and creamy texture."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Ezra 7 Bourbon July25.pdf"
+    "localSourceFile": "Old Ezra 7 Bourbon July25.pdf",
+    "tastingDate": "2025-07-30",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-ezra-7-rye-oct24",
@@ -7062,23 +7106,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "An Old Ezra 7 rye whiskey with butter, bubble gum, brown sugar, black tea, tobacco char, licorice, vanilla, and a short lingering baking-spice finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "114",
+    "price": "$120",
+    "classification": "Rye Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Hint of butter, bubble gum, and brown sugar.",
+      "palate": "Spiky, black tea, tobacco char, lightly hay-fueled, licorice, brown sugar, and vanilla.",
+      "finish": "Short, about 1.5, and lingers. After reduction: baking spice and wet wood.",
+      "table": "Tasted blind. The Table really liked it, ranking it second of four, while the sheet also marks number three on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Ezra 7 Rye Oct24.pdf"
+    "localSourceFile": "Old Ezra 7 Rye Oct24.pdf",
+    "tastingDate": "2024-10-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-fitzgerald-11yr-decanter-apr24",
@@ -7092,23 +7142,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Fitzgerald 11 year decanter Bottled-in-Bond bourbon with cinnamon bread, red vine, vanilla, red berry, strawberry, grape, rounded ethanol, cinnamon, bubble gum, and a short finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "100 BiB",
+    "price": "$220",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cinnamon bread, red vine, and vanilla.",
+      "palate": "Coating mouthfeel, red berry, strawberry, grape, ethanol, complex rounded, cinnamon, and bubble gum.",
+      "finish": "Short.",
+      "table": "Blind reveal. The Table liked it, ranked it second of four, and noted it was a better review than the past bottle as the bottle had gotten lower. It was also marked third of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Fitzgerald 11yr Decanter Apr24.pdf"
+    "localSourceFile": "Old Fitzgerald 11yr Decanter Apr24.pdf",
+    "tastingDate": "2024-04-23",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-fitzgerald-11yr-decanter-feb23",
@@ -7122,23 +7178,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "An Old Fitzgerald 11 year decanter bourbon with a smooth round nose, honey, chocolate, corn, salt, chocolate cinnamon, nuttiness, and a short-to-medium finish.",
+    "reviewers": [
+      "Scarfe",
+      "Fish",
+      "Beenders",
+      "Ricky Bobby"
+    ],
+    "proof": "Bonded",
+    "price": "$220",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Smooth, round, a bit of honey, and chocolate.",
+      "palate": "Corn, honey, salt, chocolate cinnamon, and some nut.",
+      "finish": "Short to medium.",
+      "table": "This was a bit of a challenge to identify and The Table had higher hopes. Stored on the sample bar and marked second of the night on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Old Fitzgerald 11yr Decanter Feb23.pdf"
+    "localSourceFile": "Old Fitzgerald 11yr Decanter Feb23.pdf",
+    "tastingDate": "2023-02-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "old-forester-1897-nov23",
@@ -9539,7 +9602,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 192,
+  "sampleTranscribed": 202,
   "firstYear": 2022,
   "latestYear": 2026
 };
