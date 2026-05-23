@@ -4644,23 +4644,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Barrel proof"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A James E. Pepper Barrel Proof bourbon with vanilla, caramel, fruit, ethanol, wheat, pepper, cinnamon, nutmeg, cumin, clove, grain, and a short enjoyable finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "105",
+    "price": "$65",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Vanilla, caramel, fruit, ethanol, wheat, and a nice well-balanced and inviting nose.",
+      "palate": "Spice bomb: pepper, cinnamon, nutmeg, cumin, clove, grain, and spicy notes with some grassy and earthy depth to the spices.",
+      "finish": "Short, enjoyable sipper.",
+      "table": "A spice-heavy bourbon with enough grassy and earthy depth to keep the spice profile from feeling flat."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "James Pepper Barrel Proof Oct24.pdf"
+    "localSourceFile": "James Pepper Barrel Proof Oct24.pdf",
+    "tastingDate": "2024-10-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jameson-18yr-feb23",
@@ -4673,23 +4679,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Irish Whiskey"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jameson 18 year Irish whiskey with tea, rye spice, light malted flavors, sweetness, honey, and a very short finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "92",
+    "price": "$150",
     "classification": "Irish Whiskey",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Tea with a rye-spice note.",
+      "palate": "Light mouthfeel with malted flavors, sweet on the tongue until rye spice flares up, drying to honey.",
+      "finish": "Very short finish with very slight honey notes.",
+      "table": "A light, honeyed, tea-and-spice Irish whiskey profile."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jameson 18yr Feb23.pdf"
+    "localSourceFile": "Jameson 18yr Feb23.pdf",
+    "tastingDate": "2023-02-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jameson-18yr-mar25",
@@ -4702,23 +4714,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Irish Whiskey"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jameson 18 year Irish whiskey with honeysuckle, vanilla ice cream cone, easy sipping warmth, dominant vanilla, and a medium generic-sweet finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat",
+      "Mike"
+    ],
+    "proof": "92",
+    "price": "$160",
     "classification": "Irish Whiskey",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A light nose with honeysuckle leading the way and a vanilla ice cream cone following.",
+      "palate": "An easy-sipping enjoyable Irish whiskey with a little heat that pops across the tongue and vanilla as the dominant flavor.",
+      "finish": "Medium finish, about 2.5, leaving only a generic sweetness.",
+      "table": "Easy and approachable, but the finish fades into a broad sweetness rather than a specific note."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jameson 18yr Mar25.pdf"
+    "localSourceFile": "Jameson 18yr Mar25.pdf",
+    "tastingDate": "2025-03-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jeppsons-july24",
@@ -4731,23 +4750,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Jeppson's bourbon finished with Amburana staves, showing sweet cinnamon, cinnamon-raisin coffee cake with frosting, coconut, sweetness, ethanol, and a short finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "126.8",
+    "price": "$60",
+    "classification": "Bourbon finished with Amburana staves",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Sweet cinnamon.",
+      "palate": "Cinnamon-raisin coffee cake with frosting. The Table all said the same descriptor.",
+      "finish": "Dries to coconut, sweet, short, with ethanol.",
+      "table": "Number two on quick tasting when opened. Good but one-trick; tried out of the box and The Table liked it. Sheet note also says rank 4/5."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jeppsons July24.pdf"
+    "localSourceFile": "Jeppsons July24.pdf",
+    "tastingDate": "2024-07-06",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jim-beam-black-july24",
@@ -4760,23 +4785,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jim Beam Black aged 7 years bourbon with vanilla, caramel, peanuts, hot honey, peanut butter spice, oak, a thin mouthfeel, and a short watered-down finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "90",
+    "price": "$23-$25",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "\"Smells good,\" with traditional notes of vanilla, caramel, and a hint of peanuts.",
+      "palate": "Ultra light and dries quickly, with hot honey. Dries to peanut butter, hot spices, and some oak, with a thinner mouthfeel.",
+      "finish": "Short and watered down.",
+      "table": "Excellent budget buy that would make for a good everyday sipper. The Table thought it competes with Benchmark Small Batch."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jim Beam Black July24.pdf"
+    "localSourceFile": "Jim Beam Black July24.pdf",
+    "tastingDate": "2024-07-07",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jim-beam-dist-masterpiece-nov23",
@@ -4789,23 +4820,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jim Beam Distiller's Masterpiece bourbon with flat soda, oak, earthy pickled-string-bean notes, up-front sweetness, oily mouthfeel, Life Savers gummies, and a short slow finish.",
+    "reviewers": [
+      "Beenders",
+      "Scarfe",
+      "Fisher"
+    ],
+    "proof": "100",
+    "price": "$180",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Flat soda, oak, and earthiness like fresh pickled string beans.",
+      "palate": "Punches the tongue with an up-front sweetness. Very oily mouthfeel with flavors such as melted Life Savers gummies.",
+      "finish": "Short finish, but a very nicely slow descent to that finish, about 2.",
+      "table": "Unusual and oily, moving from earthy oak into candy sweetness before a slow short finish."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jim Beam Dist Masterpiece Nov23.pdf"
+    "localSourceFile": "Jim Beam Dist Masterpiece Nov23.pdf",
+    "tastingDate": "2023-11-08",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jim-beam-double-oaked-oct24",
@@ -4819,23 +4856,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Finished"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jim Beam Double Oaked bourbon with oak, light peanut, spice, banana peel, light bitterness, and a short finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "86",
+    "price": "$26",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak, light peanut, a tingle of spice, and overall a very light nose.",
+      "palate": "Light mouthfeel with oak, banana peel, light bitterness, and a hint of peanut. The flavors are all light, with not much to it.",
+      "finish": "Short.",
+      "table": "Mentioned as probably best as a mixer, but the flavors are so light that they may not work well or may get washed out in a cocktail."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jim Beam Double Oaked Oct24.pdf"
+    "localSourceFile": "Jim Beam Double Oaked Oct24.pdf",
+    "tastingDate": "2024-10-03",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jim-beam-winters-reserve-dec24",
@@ -4848,23 +4891,31 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Jim Beam Winter Reserve bourbon with pink bubble gum, caramel, sweet spice, cedar, plastic note, green peppercorn, corn, light bitterness, and a medium heated finish.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Mike",
+      "Pat"
+    ],
+    "proof": "86",
+    "price": "$26",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Pink bubble gum, caramel, sweet notes, spice, cedar, and a plastic note.",
+      "palate": "Light mouthfeel with spices, sweet cinnamon, green peppercorn, corn, light overall flavors, quick dissipation, and slight bitterness on the backend.",
+      "finish": "Medium, with decent lingering heat.",
+      "table": "Light overall, but with a distinctive sweet-spice and bubble-gum profile before the flavors dissipate."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Jim Beam Winters Reserve Dec24.pdf"
+    "localSourceFile": "Jim Beam Winters Reserve Dec24.pdf",
+    "tastingDate": "2024-12-18",
+    "color": "Light gold",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "jimmy-red-bib-feb25",
@@ -9151,7 +9202,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 130,
+  "sampleTranscribed": 138,
   "firstYear": 2022,
   "latestYear": 2026
 };
