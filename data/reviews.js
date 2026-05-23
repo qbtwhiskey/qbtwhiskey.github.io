@@ -8280,23 +8280,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Russell's Reserve Single Barrel 10 Year bourbon with oak, cherry, leather, chocolate-covered cherry sweetness, anise, charred crispy flaky croissant, a tingling mouthfeel, and a short bubbly pop finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "110",
+    "price": "$64",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A nice nose with oak, cherry, and leather notes. The nose had some sweetness like chocolate-covered cherries.",
+      "palate": "Delicious and surprisingly different than the nose. Nice spice with a light amount of anise, plus a charred, crispy, flaky croissant. Great mouthfeel with a tingly, almost numbing feeling that builds over time.",
+      "finish": "Very nice bubbly pop on the tongue right after swallowing, then short.",
+      "table": "A strong Russell's single barrel read where the palate stepped away from the chocolate-cherry nose in a good way."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve SiB 10yr Mar24.pdf"
+    "localSourceFile": "Russells Reserve SiB 10yr Mar24.pdf",
+    "tastingDate": "2024-03-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-sib-straight-rye-feb24",
@@ -8310,23 +8316,29 @@ window.TBT_REVIEWS = [
       "Rye",
       "Single barrel"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Russell's Reserve Single Barrel Straight Rye with a caramel bomb nose, fresh-cut rye grass, rye heat, caramel on the palate, and a short pleasant finish that dries to light heat.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "104",
+    "price": "$65",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Caramel bomb and fresh-cut rye grass.",
+      "palate": "Very nice mouthfeel with a very nice amount of rye heat. The caramel comes through on the palate.",
+      "finish": "Short but very pleasant, drying to a light heat.",
+      "table": "A caramel-forward Russell's rye with enough rye heat to keep it lively."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve SiB Straight Rye Feb24.pdf"
+    "localSourceFile": "Russells Reserve SiB Straight Rye Feb24.pdf",
+    "tastingDate": "2024-02-01",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "russells-reserve-single-rickhouse-camp-nelson-jan25",
@@ -8339,23 +8351,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Bourbon",
-    "confidence": "title-only",
+    "summary": "A Russell's Reserve Single Rickhouse Camp Nelson bourbon with cherry, musty oak, Christmas cookie, sugar-cookie batter, vanilla, wet oak, creaminess, and a short coating finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "117",
+    "price": "$225",
+    "classification": "Bourbon NAS",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Cherry, musty oak, Christmas cookie, and sugar-cookie batter.",
+      "palate": "Vanilla, cherry, wet oak, and creamy.",
+      "finish": "Short, about 2, with a coating mouthfeel. The Table loved this.",
+      "table": "The sheet says so good and all bangers, while the quick-tasting note appears to say fourth of four plus bonus."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Russells Reserve Single Rickhouse Camp Nelson Jan25.pdf"
+    "localSourceFile": "Russells Reserve Single Rickhouse Camp Nelson Jan25.pdf",
+    "tastingDate": "2025-01-13",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "sazerac-rye-100p-mar26",
@@ -8368,23 +8386,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
-    "classification": "Rye",
-    "confidence": "title-only",
+    "summary": "A Sazerac Rye 100 proof with oak, ethanol, light candy, black tea, buttery hopped-up oolong tea, herbal backend, spice turning sweet, maple wood sugar, and a honey-mint short finish.",
+    "reviewers": [
+      "Beenders",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "100",
+    "price": "$30",
+    "classification": "Rye Whiskey",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Oak, ethanol, and The Table really liked it while trying to suss out flavors. Light candy and black tea.",
+      "palate": "Buttery, hopped-up tea, oolong, herbal on the backend, transitioning to sweet from spice, and maple wood sugar.",
+      "finish": "Short, drying to honey and mint. Depth 0.5 and linger 1.",
+      "table": "Marked third of five on quick tasting. Scores written as B 5, F 7, S 6, with the note that it was second favorite on the night and not complex."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Sazerac Rye 100p Mar26.pdf"
+    "localSourceFile": "Sazerac Rye 100p Mar26.pdf",
+    "tastingDate": "2026-03-10",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "sazerac-rye-nov25",
@@ -8397,23 +8421,29 @@ window.TBT_REVIEWS = [
     "tags": [
       "Rye"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A bottle-kill Sazerac Rye with brown sugar, wet wood, char, light mouthfeel, apricot, black tea, wood, and nearly no finish but a good crushable read.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Scarfe"
+    ],
+    "proof": "90",
+    "price": "$22",
     "classification": "Rye",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Brown sugar, wet wood, and char.",
+      "palate": "Light mouthfeel, apricot, black tea, and wood.",
+      "finish": "Zero depth with minor linger.",
+      "table": "Bottle kill. Marked first of five on quick tasting, and called good and crushable with a 2.5 rating."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Sazerac Rye Nov25.pdf"
+    "localSourceFile": "Sazerac Rye Nov25.pdf",
+    "tastingDate": "2025-11-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "spirits-of-french-lick-kashia-bib-apr24",
@@ -8427,23 +8457,29 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Bottled in bond"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Spirits of French Lick Morning Glory Kasha Bottled-in-Bond bourbon with grain, musty silo, corn crib, cream corn, cereal, powdered chocolate, earthiness, smoke, fish, dust, pepper spice, and an unpleasant aftertaste.",
+    "reviewers": [
+      "Jason",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "100",
+    "price": "$55-$60",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Grain, musty silo, corn crib, cream corn, and cereal.",
+      "palate": "There are flavors The Table called unwelcome: powdered chocolate, earthiness and smokiness, smoked fish, very grainy, dusty chocolate, and a strong spice like pepper or peppercorn on the backend.",
+      "finish": "Not soon enough, with an unpleasant aftertaste.",
+      "table": "Buyer beware. The sheet says it would appeal to some and needs to be something to keep an open mind about, perhaps making for interesting cocktails."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Spirits of French Lick Kashia BiB Apr24.pdf"
+    "localSourceFile": "Spirits of French Lick Kashia BiB Apr24.pdf",
+    "tastingDate": "2024-04-11",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "st-cloud-7yr-feb26",
@@ -8456,23 +8492,30 @@ window.TBT_REVIEWS = [
     "tags": [
       "Bourbon"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A St. Cloud 7 Year bourbon with ethanol, oak, wet oak, marker note, tomato vine, rose petal, floral-spiced wood, broad ethanol, dark wood, raspberry, boozy cherry candy, rounded peanut, and a finish around 2.",
+    "reviewers": [
+      "Eeten",
+      "Scarfe",
+      "Josh",
+      "Pat"
+    ],
+    "proof": "123.8",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Ethanol, oak, wet oak, marker note, tomato vine, rose petal, wood with floral spice, broad ethanol, dark wood, and sharpness.",
+      "palate": "Red fruit, raspberry, not as sharp on palate. First sip is hot, with boozy cherry candy, more well-rounded, and peanut.",
+      "finish": "Finish 2 and linger 2.",
+      "table": "A high-proof St. Cloud read that softened on the palate after a sharp, woody, floral nose."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "St Cloud 7yr Feb26.pdf"
+    "localSourceFile": "St Cloud 7yr Feb26.pdf",
+    "tastingDate": "2026-02-24",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "stagg-heartland-private-pick-mar24",
@@ -8487,23 +8530,29 @@ window.TBT_REVIEWS = [
       "Store pick",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Stagg Jr. Heartland private pick bourbon with caramel, vanilla, apple cherry, heat, tingly effervescence, cream, rye-like spice, dry grassy spice, and a short spicy effervescent finish.",
+    "reviewers": [
+      "Josh",
+      "Jason",
+      "Pat"
+    ],
+    "proof": "136.2",
+    "price": "$78",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "A great nose with traditional notes of caramel and vanilla, with some added cherry notes.",
+      "palate": "Very nice mouthfeel with some heat and a slight tingly effervescence. Cherry continues on the palate with added cream and vanilla. Has a healthy amount of spice, almost like it has a rye backbone running through it, plus a little dry grassy spice that The Table loved.",
+      "finish": "Short but spicy and effervescent, drying to grass, which The Table normally would not like but loved in this case.",
+      "table": "A spicy, grassy, high-proof Stagg pick that worked better than those descriptors might suggest."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Stagg (Heartland private pick) Mar24.pdf"
+    "localSourceFile": "Stagg (Heartland private pick) Mar24.pdf",
+    "tastingDate": "2024-03-21",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "stagg-22b-apr25",
@@ -8517,23 +8566,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A blind Stagg 22B bourbon with roasted wood, strawberry candle tart, dancing berry and oak palate, muted Pop Rocks, heat that envelopes the tongue, and a very nice finish around 3.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "130.1",
+    "price": "$100",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Roasted wood and strawberry candle tart.",
+      "palate": "Dancing on the tongue, berry, oak, muted Pop Rocks, and heat enveloping the tongue.",
+      "finish": "About 3, very nice, and sits.",
+      "table": "Tasted blind and revealed as the group went. Marked fifth of five, with a bottom note that appears to say ranked number one or two, loved, with complexity."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Stagg 22B Apr25.pdf"
+    "localSourceFile": "Stagg 22B Apr25.pdf",
+    "tastingDate": "2025-04-17",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "stagg-23a-aug25",
@@ -8547,23 +8603,30 @@ window.TBT_REVIEWS = [
       "Bourbon",
       "Allocated"
     ],
-    "status": "queued_for_transcription",
+    "status": "sample_transcribed",
     "localPdfAvailable": true,
-    "summary": "Reviewed by The Table. Handwritten tasting notes are being standardized for publication.",
-    "reviewers": [],
-    "proof": "",
-    "price": "",
+    "summary": "A Stagg 23A bourbon with bubble gum, ethanol, magic marker, grape, tomato-vine vegetal complexity, plum reduction, Dr Pepper, grape soda, Concord pie, and a short throat-lingering finish.",
+    "reviewers": [
+      "Beenders",
+      "Eeten",
+      "Fish",
+      "Scarfe"
+    ],
+    "proof": "130.2",
+    "price": "$90",
     "classification": "Bourbon",
-    "confidence": "title-only",
+    "confidence": "medium-low",
     "featured": false,
     "notes": {
-      "nose": "",
-      "palate": "",
-      "finish": "",
-      "table": ""
+      "nose": "Bubble gum, ethanol, magic marker, grape, complex, and vegetal like a tomato vine.",
+      "palate": "Pops, plum reduction, dancing Dr Pepper, Welch's or Nehi grape soda, and Concord pie.",
+      "finish": "Short, about 1, and lingers in the throat.",
+      "table": "Excellent and ranked number two on the night, though the sheet also marks it fourth of four on quick tasting."
     },
     "localBatch": "bb_taste_all_282",
-    "localSourceFile": "Stagg 23A Aug25.pdf"
+    "localSourceFile": "Stagg 23A Aug25.pdf",
+    "tastingDate": "2025-08-26",
+    "transcriptionSource": "local_zip_50_manual_pass"
   },
   {
     "id": "stagg-june23",
@@ -9780,7 +9843,7 @@ window.TBT_REVIEWS = [
 window.TBT_STATS = {
   "totalIndexed": 282,
   "localBatch": 282,
-  "sampleTranscribed": 231,
+  "sampleTranscribed": 241,
   "firstYear": 2022,
   "latestYear": 2026
 };
