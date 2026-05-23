@@ -1,19 +1,19 @@
 :root {
   color-scheme: dark;
-  --black: #060505;
-  --ink: #100d0a;
-  --charcoal: #171311;
-  --charcoal-2: #211a16;
-  --leather: #724628;
-  --saddle: #9b6334;
-  --amber: #c87a33;
-  --brass: #d6b473;
-  --paper: #f0dfc1;
-  --paper-muted: #d2bc96;
-  --blue: #2c455b;
-  --blue-bright: #5f8fb0;
-  --line: rgba(240, 223, 193, 0.18);
-  --shadow: 0 24px 70px rgba(0, 0, 0, 0.48);
+  --black: #020202;
+  --ink: #090909;
+  --charcoal: #141414;
+  --charcoal-2: #22201d;
+  --leather: #2e2924;
+  --saddle: #6b5b41;
+  --amber: #c4934c;
+  --brass: #d8c383;
+  --paper: #f6f1e8;
+  --paper-muted: #bbb5aa;
+  --blue: #24323a;
+  --blue-bright: #b2c5cf;
+  --line: rgba(246, 241, 232, 0.2);
+  --shadow: 0 30px 90px rgba(0, 0, 0, 0.68);
   --radius: 8px;
   --max: 1180px;
   font-family: "Aptos", "Segoe UI", Arial, sans-serif;
@@ -33,8 +33,8 @@ body {
   margin: 0;
   min-width: 320px;
   background:
-    radial-gradient(circle at 80% 0%, rgba(44, 69, 91, 0.28), transparent 30rem),
-    linear-gradient(180deg, #060505 0%, #120e0c 44%, #0a0807 100%);
+    linear-gradient(112deg, rgba(246, 241, 232, 0.085) 0%, transparent 22rem),
+    linear-gradient(180deg, #020202 0%, #111 44%, #050505 100%);
   color: var(--paper);
 }
 
@@ -44,8 +44,21 @@ body::before {
   z-index: -1;
   background: url("assets/images/leather-texture.png") center / 540px auto;
   content: "";
-  opacity: 0.12;
+  filter: grayscale(1) contrast(1.35);
+  opacity: 0.08;
   mix-blend-mode: screen;
+}
+
+body::after {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    repeating-linear-gradient(96deg, rgba(255, 255, 255, 0.04) 0 1px, transparent 1px 42px),
+    linear-gradient(180deg, transparent, rgba(0, 0, 0, 0.45));
+  content: "";
+  opacity: 0.35;
+  pointer-events: none;
 }
 
 a {
@@ -92,14 +105,14 @@ button {
   gap: 1rem;
   padding: 0.8rem clamp(1rem, 3vw, 2.3rem);
   border-bottom: 1px solid transparent;
-  background: linear-gradient(180deg, rgba(6, 5, 5, 0.86), rgba(6, 5, 5, 0.35));
-  backdrop-filter: blur(18px);
+  background: linear-gradient(180deg, rgba(2, 2, 2, 0.94), rgba(2, 2, 2, 0.36));
+  backdrop-filter: blur(18px) saturate(0.2);
   transition: background 160ms ease, border-color 160ms ease;
 }
 
 .site-header.is-scrolled {
   border-color: var(--line);
-  background: rgba(7, 6, 5, 0.94);
+  background: rgba(4, 4, 4, 0.96);
 }
 
 .brand {
@@ -116,10 +129,13 @@ button {
   width: 2.9rem;
   height: 2.9rem;
   place-items: center;
-  border: 1px solid rgba(214, 180, 115, 0.55);
+  border: 1px solid rgba(246, 241, 232, 0.46);
   border-radius: 50%;
-  background: rgba(8, 7, 6, 0.78);
-  color: var(--brass);
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.16), rgba(255, 255, 255, 0.02)),
+    rgba(4, 4, 4, 0.88);
+  color: var(--paper);
+  box-shadow: inset 0 0 18px rgba(255, 255, 255, 0.08);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 0.86rem;
   letter-spacing: 0.08em;
@@ -178,8 +194,9 @@ button {
 
 .hero-media {
   background:
-    linear-gradient(90deg, rgba(6, 5, 5, 0.93) 0%, rgba(6, 5, 5, 0.6) 38%, rgba(6, 5, 5, 0.08) 72%),
+    linear-gradient(90deg, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.7) 42%, rgba(0, 0, 0, 0.18) 78%),
     url("assets/images/hero-lounge.png") center / cover no-repeat;
+  filter: grayscale(1) contrast(1.2) brightness(0.82);
   transform: scale(1.015);
 }
 
@@ -190,16 +207,16 @@ button {
   left: 0;
   height: 7rem;
   background:
-    linear-gradient(90deg, transparent, rgba(214, 180, 115, 0.16), transparent),
-    linear-gradient(180deg, transparent, rgba(9, 6, 4, 0.94));
+    linear-gradient(90deg, transparent, rgba(246, 241, 232, 0.16), transparent),
+    linear-gradient(180deg, transparent, rgba(2, 2, 2, 0.96));
   content: "";
   pointer-events: none;
 }
 
 .hero-shade {
   background:
-    linear-gradient(180deg, rgba(6, 5, 5, 0.1) 0%, rgba(6, 5, 5, 0.25) 50%, rgba(6, 5, 5, 0.98) 100%),
-    radial-gradient(circle at 82% 52%, rgba(200, 122, 51, 0.24), transparent 24rem);
+    linear-gradient(108deg, rgba(255, 255, 255, 0.14) 0%, rgba(255, 255, 255, 0.05) 18%, transparent 34%),
+    linear-gradient(180deg, rgba(2, 2, 2, 0.04) 0%, rgba(2, 2, 2, 0.34) 54%, rgba(2, 2, 2, 0.98) 100%);
 }
 
 .hero-content {
@@ -230,7 +247,8 @@ button {
 
 .hero h1 {
   max-width: 10ch;
-  color: #fff5df;
+  color: #fff;
+  text-shadow: 0 0 28px rgba(255, 255, 255, 0.14), 0 12px 42px rgba(0, 0, 0, 0.86);
   font-size: clamp(4rem, 11vw, 8.5rem);
   line-height: 0.9;
 }
@@ -275,18 +293,18 @@ button {
 .explore-tile:hover,
 .explore-tile:focus-visible {
   transform: translateY(-2px);
-  border-color: rgba(214, 180, 115, 0.7);
+  border-color: rgba(246, 241, 232, 0.72);
 }
 
 .button-primary {
-  border-color: rgba(214, 180, 115, 0.7);
-  background: linear-gradient(180deg, #d3ad6c, #9f642f);
-  color: #150d08;
+  border-color: rgba(246, 241, 232, 0.72);
+  background: linear-gradient(180deg, #fff, #b7b2a8);
+  color: #060606;
   font-weight: 800;
 }
 
 .button-secondary {
-  background: rgba(16, 13, 10, 0.75);
+  background: rgba(8, 8, 8, 0.82);
   color: var(--paper);
 }
 
@@ -305,7 +323,9 @@ button {
   padding: 1.25rem;
   border: 1px solid var(--line);
   border-left-width: 0;
-  background: rgba(18, 14, 12, 0.92);
+  background:
+    linear-gradient(155deg, rgba(255, 255, 255, 0.07), transparent 48%),
+    rgba(10, 10, 10, 0.94);
   box-shadow: var(--shadow);
 }
 
@@ -320,7 +340,7 @@ button {
 
 .stat strong {
   display: block;
-  color: #fff4dc;
+  color: #fff;
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2rem, 4vw, 3rem);
   font-weight: 500;
@@ -350,7 +370,7 @@ button {
 .intro h2,
 .section-heading h2,
 .method-copy h2 {
-  color: #fff1d8;
+  color: #fff;
   font-size: clamp(2rem, 4.5vw, 4rem);
   line-height: 1.02;
 }
@@ -381,7 +401,9 @@ button {
   padding: 1rem;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: rgba(12, 10, 8, 0.72);
+  background:
+    linear-gradient(160deg, rgba(255, 255, 255, 0.055), transparent 52%),
+    rgba(7, 7, 7, 0.82);
 }
 
 .archive-tools label {
@@ -400,9 +422,9 @@ input,
 select {
   width: 100%;
   min-height: 2.75rem;
-  border: 1px solid rgba(240, 223, 193, 0.24);
+  border: 1px solid rgba(246, 241, 232, 0.26);
   border-radius: var(--radius);
-  background: rgba(6, 5, 5, 0.72);
+  background: rgba(0, 0, 0, 0.76);
   color: var(--paper);
   outline: none;
   padding: 0 0.75rem;
@@ -410,8 +432,8 @@ select {
 
 input:focus,
 select:focus {
-  border-color: rgba(214, 180, 115, 0.8);
-  box-shadow: 0 0 0 3px rgba(214, 180, 115, 0.12);
+  border-color: rgba(246, 241, 232, 0.82);
+  box-shadow: 0 0 0 3px rgba(246, 241, 232, 0.12);
 }
 
 .quick-filters {
@@ -424,16 +446,16 @@ select:focus {
 .chip {
   min-height: 2.15rem;
   padding: 0.45rem 0.7rem;
-  border: 1px solid rgba(214, 180, 115, 0.28);
+  border: 1px solid rgba(246, 241, 232, 0.26);
   border-radius: 999px;
-  background: rgba(44, 69, 91, 0.24);
+  background: rgba(18, 18, 18, 0.82);
   color: var(--paper);
   font-size: 0.86rem;
 }
 
 .chip.is-active {
   border-color: var(--brass);
-  background: rgba(200, 122, 51, 0.24);
+  background: rgba(216, 195, 131, 0.16);
 }
 
 .archive-meta,
@@ -469,19 +491,19 @@ select:focus {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
-    linear-gradient(180deg, rgba(33, 26, 22, 0.92), rgba(12, 10, 8, 0.94)),
-    linear-gradient(145deg, rgba(114, 70, 40, 0.26), rgba(44, 69, 91, 0.18));
+    linear-gradient(125deg, rgba(255, 255, 255, 0.085), transparent 44%),
+    linear-gradient(180deg, rgba(18, 18, 18, 0.95), rgba(4, 4, 4, 0.96));
   color: var(--paper);
   cursor: pointer;
   text-align: left;
-  box-shadow: 0 12px 38px rgba(0, 0, 0, 0.26);
+  box-shadow: 0 16px 48px rgba(0, 0, 0, 0.48);
   outline: none;
   transition: transform 160ms ease, border-color 160ms ease;
 }
 
 .review-card h3 {
   margin: 0.7rem 0 0.45rem;
-  color: #fff2db;
+  color: #fff;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.35rem;
   font-weight: 500;
@@ -512,16 +534,16 @@ select:focus {
   min-height: 1.65rem;
   align-items: center;
   padding: 0.28rem 0.45rem;
-  border: 1px solid rgba(214, 180, 115, 0.28);
+  border: 1px solid rgba(246, 241, 232, 0.24);
   border-radius: 999px;
-  background: rgba(6, 5, 5, 0.34);
+  background: rgba(0, 0, 0, 0.42);
   color: var(--paper-muted);
   font-size: 0.75rem;
 }
 
 .badge.is-live {
-  border-color: rgba(95, 143, 176, 0.58);
-  color: #b8d5e7;
+  border-color: rgba(216, 195, 131, 0.64);
+  color: #efe4bf;
 }
 
 .card-meta {
@@ -555,14 +577,16 @@ select:focus {
   gap: 0.7rem;
   min-height: 10rem;
   padding: 1rem;
-  background: linear-gradient(145deg, rgba(114, 70, 40, 0.28), rgba(44, 69, 91, 0.28));
+  background:
+    linear-gradient(118deg, rgba(255, 255, 255, 0.1), transparent 44%),
+    linear-gradient(180deg, rgba(20, 20, 20, 0.95), rgba(5, 5, 5, 0.96));
   color: var(--paper);
   text-align: left;
   transition: transform 160ms ease, border-color 160ms ease;
 }
 
 .explore-tile span {
-  color: #fff2db;
+  color: #fff;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.45rem;
 }
@@ -577,9 +601,9 @@ select:focus {
   margin: clamp(1rem, 3vw, 2rem) 0;
   padding: clamp(4rem, 9vw, 7rem) clamp(1rem, 4vw, 3rem);
   background:
-    linear-gradient(90deg, rgba(6, 5, 5, 0.96) 0%, rgba(6, 5, 5, 0.74) 55%, rgba(6, 5, 5, 0.92) 100%),
-    radial-gradient(circle at 74% 38%, rgba(200, 122, 51, 0.22), transparent 22rem),
-    linear-gradient(135deg, #110d0b, #192332 52%, #100b08);
+    linear-gradient(96deg, rgba(0, 0, 0, 0.98) 0%, rgba(0, 0, 0, 0.78) 58%, rgba(0, 0, 0, 0.96) 100%),
+    linear-gradient(120deg, rgba(255, 255, 255, 0.1) 0%, transparent 34%),
+    linear-gradient(135deg, #050505, #171717 52%, #030303);
 }
 
 .story-panel {
@@ -589,7 +613,7 @@ select:focus {
 }
 
 .story-panel h2 {
-  color: #fff2db;
+  color: #fff;
   font-size: clamp(2.3rem, 4.8vw, 4.8rem);
   line-height: 1;
 }
@@ -659,15 +683,15 @@ select:focus {
   width: min(920px, calc(100vw - 2rem));
   max-height: min(820px, calc(100vh - 2rem));
   padding: 0;
-  border: 1px solid rgba(214, 180, 115, 0.38);
+  border: 1px solid rgba(246, 241, 232, 0.34);
   border-radius: var(--radius);
-  background: #100d0a;
+  background: #070707;
   color: var(--paper);
   box-shadow: var(--shadow);
 }
 
 .review-dialog::backdrop {
-  background: rgba(0, 0, 0, 0.76);
+  background: rgba(0, 0, 0, 0.82);
   backdrop-filter: blur(7px);
 }
 
@@ -678,7 +702,7 @@ select:focus {
   z-index: 2;
   margin: 0.8rem 0.8rem 0 auto;
   padding: 0.45rem 0.7rem;
-  background: rgba(6, 5, 5, 0.78);
+  background: rgba(0, 0, 0, 0.82);
   color: var(--paper);
 }
 
@@ -693,13 +717,13 @@ select:focus {
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background:
-    radial-gradient(circle at 90% 20%, rgba(200, 122, 51, 0.22), transparent 18rem),
-    linear-gradient(145deg, rgba(33, 26, 22, 0.95), rgba(12, 10, 8, 0.98));
+    linear-gradient(118deg, rgba(255, 255, 255, 0.1), transparent 42%),
+    linear-gradient(145deg, rgba(24, 24, 24, 0.96), rgba(4, 4, 4, 0.98));
 }
 
 .dialog-hero h2 {
   margin: 0;
-  color: #fff2db;
+  color: #fff;
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(2rem, 4vw, 3.4rem);
   font-weight: 500;
@@ -725,7 +749,7 @@ select:focus {
 .external-link {
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: rgba(6, 5, 5, 0.34);
+  background: rgba(0, 0, 0, 0.36);
 }
 
 .meta-cell {
@@ -765,10 +789,10 @@ select:focus {
 
 .transcription-notice {
   padding: 1rem;
-  border-color: rgba(214, 180, 115, 0.34);
+  border-color: rgba(216, 195, 131, 0.34);
   background:
-    linear-gradient(135deg, rgba(44, 69, 91, 0.2), rgba(114, 70, 40, 0.18)),
-    rgba(6, 5, 5, 0.42);
+    linear-gradient(135deg, rgba(255, 255, 255, 0.08), rgba(216, 195, 131, 0.1)),
+    rgba(0, 0, 0, 0.42);
 }
 
 .note-box strong,
@@ -776,7 +800,7 @@ select:focus {
 .related-card strong,
 .external-link strong {
   display: block;
-  color: #fff2db;
+  color: #fff;
   font-family: Georgia, "Times New Roman", serif;
   font-size: 1.1rem;
   font-weight: 500;
@@ -810,7 +834,7 @@ select:focus {
 .related-card:focus-visible,
 .external-link:hover,
 .external-link:focus-visible {
-  border-color: rgba(214, 180, 115, 0.7);
+  border-color: rgba(246, 241, 232, 0.7);
 }
 
 .empty-state {
@@ -870,7 +894,7 @@ select:focus {
 
   .hero-media {
     background:
-      linear-gradient(180deg, rgba(6, 5, 5, 0.48), rgba(6, 5, 5, 0.92) 62%, rgba(6, 5, 5, 0.98) 100%),
+      linear-gradient(180deg, rgba(0, 0, 0, 0.36), rgba(0, 0, 0, 0.9) 62%, rgba(0, 0, 0, 0.98) 100%),
       url("assets/images/hero-lounge.png") center / cover no-repeat;
     transform: none;
   }
