@@ -1,0 +1,28 @@
+{
+  "name": "The Bourbon Table",
+  "short_name": "Bourbon Table",
+  "description": "A quick-reference bourbon and whiskey review archive from The Bourbon Table.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#100d0a",
+  "background_color": "#060505",
+  "icons": [
+    {
+      "src": "assets/images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle", "utilities"],
+  "lang": "en-US"
+}

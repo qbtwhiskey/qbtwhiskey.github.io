@@ -7,8 +7,14 @@
       name="description"
       content="The Bourbon Table is a Central Illinois whiskey review archive built from hundreds of honest tasting notes shared by friends."
     >
+    <meta name="theme-color" content="#100d0a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Bourbon Table">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <title>The Bourbon Table | Honest Whiskey Reviews</title>
     <link rel="icon" type="image/png" href="assets/images/favicon.png">
+    <link rel="apple-touch-icon" href="assets/images/icon-192.png">
+    <link rel="manifest" href="manifest.json">
     <link rel="stylesheet" href="styles.css">
     <script defer src="data/reviews.js"></script>
     <script defer src="app.js"></script>
@@ -31,6 +37,19 @@
         <a href="#method">Method</a>
       </nav>
     </header>
+
+    <aside class="app-banner" id="app-banner" hidden>
+      <div>
+        <strong>Use The Bourbon Table like an app</strong>
+        <span id="app-banner-copy">Install it for quick shelf checks and offline browsing.</span>
+      </div>
+      <button class="button button-primary" type="button" id="install-app" hidden>Install</button>
+      <button class="text-button" type="button" id="dismiss-app-banner" aria-label="Dismiss app prompt">Not now</button>
+    </aside>
+
+    <div class="offline-toast" id="offline-toast" hidden>
+      <span>You are offline. Saved reviews are still available.</span>
+    </div>
 
     <main id="top">
       <section class="hero" aria-labelledby="hero-title">
