@@ -1,16 +1,19 @@
 # The Bourbon Table Website
 
-Static first-pass website for The Bourbon Table, a Central Illinois whiskey review archive built from a handwritten tasting archive.
+Static Progressive Web App for The Bourbon Table, a Central Illinois whiskey review archive built from a handwritten tasting archive.
 
 ## What Is Included
 
 - `index.html` - the full static website page.
 - `styles.css` - noir lounge visual system, responsive layout, review cards, modal styling.
-- `app.js` - search, filters, quick style chips, review detail modal, and related-pour recommendations.
+- `app.js` - search, filters, quick style chips, review detail modal, app-install prompt, offline status, and related-pour recommendations.
+- `manifest.json` - PWA app metadata for Home Screen installation.
+- `sw.js` - service worker that caches the review app shell and data for offline use.
 - `data/reviews.js` - indexed review data from the Google Drive inventory, now matched to the full local PDF set, with 281 manually standardized sample reviews.
 - `assets/images/hero-lounge.png` - original lounge/table hero image generated for this project.
 - `assets/images/leather-texture.png` - original texture image used for atmosphere.
 - `assets/images/favicon.png` - simple TBT favicon.
+- `assets/images/icon-192.png` and `assets/images/icon-512.png` - installable app icons generated from the favicon.
 
 ## Current Data Status
 
@@ -22,7 +25,7 @@ Static first-pass website for The Bourbon Table, a Central Illinois whiskey revi
 
 ## Local Review
 
-Open `index.html` directly in a browser, or run a local static server from this folder:
+Run a local static server from this folder so the service worker can be tested:
 
 ```powershell
 python -m http.server 8765
@@ -33,6 +36,12 @@ Then browse to:
 ```text
 http://localhost:8765/
 ```
+
+The app uses only relative paths (`./`, `manifest.json`, and `./sw.js`) so it works from GitHub Pages without root-path routing.
+
+## Adding More Reviews
+
+Add new records to `data/reviews.js` inside `window.TBT_REVIEWS`. Keep each review id unique, then update `window.TBT_STATS` if totals or year ranges changed. After publishing to GitHub Pages, visitors will receive the updated review data the next time the service worker refreshes its cache.
 
 ## Free Hosting Options
 

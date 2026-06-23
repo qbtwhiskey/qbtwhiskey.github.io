@@ -23,8 +23,15 @@ const els = {
   loadMore: document.querySelector("#load-more"),
   dialog: document.querySelector("#review-dialog"),
   dialogContent: document.querySelector("#dialog-content"),
-  dialogClose: document.querySelector("#dialog-close")
+  dialogClose: document.querySelector("#dialog-close"),
+  appBanner: document.querySelector("#app-banner"),
+  appBannerCopy: document.querySelector("#app-banner-copy"),
+  installApp: document.querySelector("#install-app"),
+  dismissAppBanner: document.querySelector("#dismiss-app-banner"),
+  offlineToast: document.querySelector("#offline-toast")
 };
+
+let deferredInstallPrompt = null;
 
 const quickFilters = [
   "Bourbon",
@@ -313,6 +320,67 @@ const resetDialogScroll = () => {
   });
 };
 
+const isIos = () => /iphone|ipad|ipod/i.test(window.navigator.userAgent);
+
+const isStandalone = () =>
+  window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
+
+const updateOfflineStatus = () => {
+  if (!els.offlineToast) return;
+  els.offlineToast.hidden = window.navigator.onLine;
+};
+
+const showInstallBanner = (copy) => {
+  if (!els.appBanner || isStandalone() || window.localStorage.getItem("tbtInstallPromptDismissed") === "true") return;
+  els.appBannerCopy.textContent = copy;
+  els.appBanner.hidden = false;
+};
+
+const registerServiceWorker = () => {
+  if (!("serviceWorker" in navigator)) return;
+
+  window.addEventListener("load", () => {
+    navigator.serviceWorker.register("./sw.js", { scope: "./" }).catch(() => {
+      showInstallBanner("Offline mode is not available in this browser yet.");
+    });
+  });
+};
+
+const bindPwaEvents = () => {
+  updateOfflineStatus();
+  window.addEventListener("online", updateOfflineStatus);
+  window.addEventListener("offline", updateOfflineStatus);
+
+  window.addEventListener("beforeinstallprompt", (event) => {
+    event.preventDefault();
+    deferredInstallPrompt = event;
+    els.installApp.hidden = false;
+    showInstallBanner("Install it for quick shelf checks and offline browsing.");
+  });
+
+  window.addEventListener("appinstalled", () => {
+    deferredInstallPrompt = null;
+    if (els.appBanner) els.appBanner.hidden = true;
+  });
+
+  if (isIos() && !isStandalone()) {
+    showInstallBanner("On iPhone, tap Share, then Add to Home Screen for the app version.");
+  }
+
+  els.installApp?.addEventListener("click", async () => {
+    if (!deferredInstallPrompt) return;
+    deferredInstallPrompt.prompt();
+    await deferredInstallPrompt.userChoice;
+    deferredInstallPrompt = null;
+    if (els.appBanner) els.appBanner.hidden = true;
+  });
+
+  els.dismissAppBanner?.addEventListener("click", () => {
+    window.localStorage.setItem("tbtInstallPromptDismissed", "true");
+    els.appBanner.hidden = true;
+  });
+};
+
 const openReview = (review) => {
   const notes = review.notes || {};
   const related = findRelated(review, 3);
@@ -484,3 +552,5 @@ populateCategories();
 renderQuickFilters();
 renderReviews();
 bindEvents();
+bindPwaEvents();
+registerServiceWorker();
