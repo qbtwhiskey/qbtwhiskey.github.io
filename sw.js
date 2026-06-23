@@ -1,4 +1,4 @@
-const CACHE_VERSION = "tbt-pwa-v1";
+const CACHE_VERSION = "tbt-pwa-v2";
 const CORE_ASSETS = [
   "./",
   "./index.html",

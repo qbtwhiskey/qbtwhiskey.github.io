@@ -320,7 +320,9 @@ const resetDialogScroll = () => {
   });
 };
 
-const isIos = () => /iphone|ipad|ipod/i.test(window.navigator.userAgent);
+const isIos = () =>
+  /iphone|ipad|ipod/i.test(window.navigator.userAgent) ||
+  (window.navigator.platform === "MacIntel" && window.navigator.maxTouchPoints > 1);
 
 const isStandalone = () =>
   window.matchMedia("(display-mode: standalone)").matches || window.navigator.standalone === true;
@@ -330,9 +332,10 @@ const updateOfflineStatus = () => {
   els.offlineToast.hidden = window.navigator.onLine;
 };
 
-const showInstallBanner = (copy) => {
+const showInstallBanner = (copy, showInstallButton = false) => {
   if (!els.appBanner || isStandalone() || window.localStorage.getItem("tbtInstallPromptDismissed") === "true") return;
   els.appBannerCopy.textContent = copy;
+  if (els.installApp) els.installApp.hidden = !showInstallButton;
   els.appBanner.hidden = false;
 };
 
@@ -352,10 +355,10 @@ const bindPwaEvents = () => {
   window.addEventListener("offline", updateOfflineStatus);
 
   window.addEventListener("beforeinstallprompt", (event) => {
+    if (isIos()) return;
     event.preventDefault();
     deferredInstallPrompt = event;
-    els.installApp.hidden = false;
-    showInstallBanner("Install it for quick shelf checks and offline browsing.");
+    showInstallBanner("Install it for quick shelf checks and offline browsing.", true);
   });
 
   window.addEventListener("appinstalled", () => {
@@ -364,7 +367,7 @@ const bindPwaEvents = () => {
   });
 
   if (isIos() && !isStandalone()) {
-    showInstallBanner("On iPhone, tap Share, then Add to Home Screen for the app version.");
+    showInstallBanner("Tap Safari's Share icon, then Add to Home Screen for the app version.");
   }
 
   els.installApp?.addEventListener("click", async () => {
